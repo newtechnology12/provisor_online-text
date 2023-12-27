@@ -1,7 +1,7 @@
 import { NextSeo } from "next-seo";
 import Link from "next/link";
-import Router, { useRouter } from "next/router";
-import React, { Fragment, useEffect } from "react";
+import { useRouter } from "next/router";
+import { Fragment, useEffect } from "react";
 import HomeBanner from "../components/HomeBanner";
 import { useAuth } from "../context/authContext";
 
@@ -19,11 +19,11 @@ export default function Home() {
   return (
     <Fragment>
       <NextSeo
-        title="Nockira | Murakaza neza"
+        title="Infinity Tech Solution | Murakaza neza"
         description="korera perimi na provisoir mugihe gitoya"
         openGraph={{
-          url: "https://www.nockira.com/",
-          title: "Nockira | Murakaza neza",
+          url: "https://www.infinitytech.rw/",
+          title: "Infinity | Murakaza neza",
           description:
             "Uburyo bwa mbere bworoshye bwo kwigira provisoire mu Rwanda!.",
           images: [

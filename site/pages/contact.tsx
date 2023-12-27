@@ -1,27 +1,20 @@
-import React from "react";
 import { NextSeo } from "next-seo";
-import AppForm from "../components/forms/AppForm";
-import AppFormField from "../components/forms/AppFormField";
-import AppFormTextArea from "../components/forms/AppFormTextarea";
-import SubmitButton from "../components/forms/SubmitButton";
 import {
-  Facebook,
   Globe,
-  Heart,
   Instagram,
   Linkedin,
   Mail,
   MapPin,
   Phone,
-  Search,
-  Shuffle,
-  Twitter,
-  Youtube,
+  Twitter
 } from "react-feather";
 import * as Yup from "yup";
+import AppForm from "../components/forms/AppForm";
+import AppFormField from "../components/forms/AppFormField";
 import AppFormStatus from "../components/forms/AppFormStatus";
+import AppFormTextArea from "../components/forms/AppFormTextarea";
+import SubmitButton from "../components/forms/SubmitButton";
 import { useToast } from "../context/toastContext";
-import Button from "../components/Button";
 
 export default function Contact() {
   const contactShema = Yup.object().shape({
@@ -83,7 +76,7 @@ export default function Contact() {
                               className="flex items-center text-sm my-4 font-semibold"
                             >
                               <Phone size={15} className="mr-3" />
-                              +250 789 117 171
+                              +250 785030772
                             </a>
                           </li>
                           <li>
@@ -92,7 +85,7 @@ export default function Contact() {
                               className="flex items-center text-sm my-4 font-semibold"
                             >
                               <Mail size={15} className="mr-3" />
-                              nockiradrivingschool@gmail.com
+                              infinitytechsolution7@gmail.com
                             </a>
                           </li>
                           <li>
@@ -110,28 +103,28 @@ export default function Contact() {
                               className="flex items-center text-sm my-4 font-semibold"
                             >
                               <Globe size={15} className="mr-3" />
-                              www.nockira.com
+                              ww.infinitytech.rw
                             </a>
                           </li>
                         </ul>
                       </div>
                       <div className="flex py-2 mt-4 ">
                         <a
-                          href="https://linkedin.com/Nockira"
+                          href="https://www.linkedin.com/company/100699343/admin/feed/posts/"
                           target="__blank"
                           className="pr-3"
                         >
                           <Linkedin size={18} />
                         </a>
                         <a
-                          href="https://www.instagram.com/Nockira"
+                          href="https://www.linkedin.com/company/100699343/admin/feed/posts/"
                           target="__blank"
                           className="px-3"
                         >
                           <Instagram size={18} />
                         </a>
                         <a
-                          href="https://twitter.com/Nockira"
+                          href="https://www.linkedin.com/company/100699343/admin/feed/posts/"
                           target="__blank"
                           className="px-3"
                         >

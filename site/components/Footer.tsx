@@ -1,13 +1,8 @@
-import Link from "next/link";
 import { useRouter } from "next/router";
-import React, { useState } from "react";
 import {
-  Facebook,
   Instagram,
   Linkedin,
-  Mail,
-  Twitter,
-  Youtube,
+  Twitter
 } from "react-feather";
 
 export default function Footer() {
@@ -21,16 +16,16 @@ export default function Footer() {
       <div className={` border-gray-300  border-opacity-60`}>
         <div className="py-4 sm:flex-col mx-auto px-3  max-w-5xl  flex justify-between items-center">
           <p className="text-sm text-gray-700 leading-7 font-semibold sm:text-center">
-            Copyright © 2022 Nockira. All Rights Reserved.
+            Copyright © 2023 Infinity Tech Driver. All Rights Reserved.
             <strong className="ml-2">
               Developed by
               <a
-                href="https://github.com/edson-pro"
+                href="https://github.com/newtechnology12"
                 rel="noreferrer"
                 target="_blank"
               >
                 {" "}
-                Edson
+                Infinity Tech Solution Ltd
               </a>
             </strong>
           </p>

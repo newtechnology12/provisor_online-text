@@ -1,12 +1,11 @@
-import React, { useState } from "react";
+import { useRouter } from "next/router";
+import { useState } from "react";
+import { ChevronRight } from "react-feather";
 import PhoneInput from "react-phone-number-input";
-import Button from "./Button";
 import "react-phone-number-input/style.css";
-import { ArrowRight, ChevronRight } from "react-feather";
 import { useToast } from "../context/toastContext";
 import { AuthServices } from "../services/auth.service";
-import { useAuth } from "../context/authContext";
-import { useRouter } from "next/router";
+import Button from "./Button";
 import SocialIcon from "./SocialIcon";
 
 export default function HomeBanner() {
@@ -71,7 +70,7 @@ export default function HomeBanner() {
           Urubuga rwambere mu rwanda rufasha abantu bose kubona Provisoire
         </h4>
         <p className="max-w-2xl sm:line-clamp-2 mx-auto my-5 leading-7 text-[15px] font-semibold text-gray-100">
-          Nockira ni urubuga rwashyiriweho gufasha abanyarwanda Bose kumenya
+          Infinit Tech Solution ni urubuga rwashyiriweho gufasha abanyarwanda Bose kumenya
           amategeko y&apos;umuhanda mu rwego rwo kwirinda impanuka.
         </p>
         <SocialIcon

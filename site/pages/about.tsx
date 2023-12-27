@@ -1,5 +1,4 @@
 import { NextSeo } from "next-seo";
-import React from "react";
 import BreadCamps from "../components/breadCamps";
 
 export default function About() {
@@ -21,7 +20,7 @@ export default function About() {
         <div className="markdown mt-0">
           <h4>Abo turibo.</h4>
           <p>
-            Nockira ni urubuga rwashyiriweho gufasha abanyarwanda Bose kumenya
+          Infinity Tech Solution ni urubuga rwashyiriweho gufasha abanyarwanda , Abanrundi Bose kumenya
             amategeko y&apos;umuhanda mu rwego rwo kwirinda impanuka ziterwa no
             kutamenya amategeko agenga uburyo bwo kugenda mu muhanda. Ariko
             cyane cyane tunafasha abashaka kubona uruhushya rw&apos;agateganyo

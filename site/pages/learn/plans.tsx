@@ -1,20 +1,19 @@
 import { httpsCallable } from "firebase/functions";
-import React, { Fragment, useEffect, useRef, useState } from "react";
+import { Fragment, useEffect, useRef, useState } from "react";
 import { Check } from "react-feather";
+import "react-phone-number-input/style.css";
 import Button from "../../components/Button";
 import Loader from "../../components/Loader";
-import PhoneInput from "react-phone-number-input";
-import "react-phone-number-input/style.css";
 
+import { doc, onSnapshot } from "firebase/firestore";
+import { NextSeo } from "next-seo";
+import { useRouter } from "next/router";
+import Alert from "../../components/Alert";
+import Input from "../../components/Input";
 import Modal from "../../components/Modal";
 import Radio from "../../components/Radio";
 import { firestore, functions } from "../../config/firebase";
-import Alert from "../../components/Alert";
-import { doc, onSnapshot } from "firebase/firestore";
 import { useAuth } from "../../context/authContext";
-import { useRouter } from "next/router";
-import { NextSeo } from "next-seo";
-import Input from "../../components/Input";
 
 export default function Plans() {
   const [selectedPlan, setselectedPlan] = useState<any>();
@@ -33,7 +32,7 @@ export default function Plans() {
       <div className="grid grid-cols-3 sm:grid-cols-1 gap-3">
         {[
           {
-            price: 1000,
+            price: 500,
             name: "umunsi",
             duration: "daily",
             features: [

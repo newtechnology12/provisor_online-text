@@ -300,8 +300,9 @@ input[type="number"] {
 }
 
 .switch input:checked + i {
-  @apply bg-primary;
+  background-color: #fca103;
 }
+
 
 .switch input:checked + i::before {
   -webkit-transform: translate3d(18px, 2px, 0) scale3d(0, 0, 0);
