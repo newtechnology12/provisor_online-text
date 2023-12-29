@@ -5,9 +5,9 @@ import * as admin from "firebase-admin";
 admin.initializeApp();
 
 Paypack.config({
-  client_id: "ba17c34a-4b13-11ed-b8d5-dead0b5d6103",
+  client_id: "c5ea6054-a5dc-11ee-9edc-deade826d28d",
   client_secret:
-    "87bd9f197ca70b23d30b6f58cf2fafa1da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "08e6da42879e26f379a68aab40a3dee0da39a3ee5e6b4b0d3255bfef95601890afd80709",
 });
 
 exports.onUserCreated = functions.auth.user().onCreate((user) => {
@@ -38,12 +38,8 @@ exports.makeSubscriptionPayment = functions.https.onCall(
             ? 2000
             : plan === "monthly"
             ? 5000
-            : plan === "3-month"
-            ? 10000
             : plan === "daily"
-            ? 1000
-            : plan === "2-weeks"
-            ? 3000
+            ? 500
             : 100000;
         };
         const user = context.auth;

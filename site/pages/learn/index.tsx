@@ -205,7 +205,7 @@ export default function Index() {
 
           <div className="mt-7">
             <div className="my-2">
-              {data.tests.length && (
+              {data.tests.length ? (
                 <div className="flex items-center justify-between">
                   <h4 className="">Amasuzuma akuzwe</h4>
                   <Link href={"/learn/tests"}>
@@ -215,7 +215,7 @@ export default function Index() {
                     </a>
                   </Link>
                 </div>
-              )}
+              ) : null}
 
               <div className="mt-5 sm:grid-cols-1 grid grid-cols-3 gap-3">
                 {data.tests.map((e: any, index) => {
@@ -245,7 +245,7 @@ export default function Index() {
             </div>
           </div>
 
-          {data.lessons.length && (
+          {data.lessons.length ? (
             <div className="mt-7">
               <div className="my-2">
                 <div className="flex items-center justify-between">
@@ -285,7 +285,7 @@ export default function Index() {
                 </div>
               </div>
             </div>
-          )}
+          ) : null}
         </div>
       )}
 

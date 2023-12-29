@@ -58,11 +58,7 @@ export default function Navbar() {
             <div className="flex items-center">
               <Link href={user ? `/learn` : `/`}>
                 <a className="mr-3 sm:mr-0">
-                  <img
-                    className="h-[23px] w-[90px]"
-                    src="/images/logo.png"
-                    alt=""
-                  />
+                  <img className="h-[35px]" src="/images/logo.png" alt="" />
                 </a>
               </Link>
             </div>

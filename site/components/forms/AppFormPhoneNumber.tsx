@@ -1,5 +1,4 @@
 import React from "react";
-import Input from "../Input";
 import { useFormikContext } from "formik";
 import PhoneInput from "react-phone-number-input";
 import "react-phone-number-input/style.css";
@@ -10,7 +9,6 @@ export default function AppFormPhoneNumber({
   name,
   disabled,
   placeholder,
-  ...otherProps
 }: any) {
   const { setFieldTouched, errors, touched, setFieldValue, values }: any =
     useFormikContext();

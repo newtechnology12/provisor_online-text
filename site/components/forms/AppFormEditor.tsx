@@ -11,7 +11,7 @@ import dynamic from "next/dynamic";
 // const Editor: any = dynamic(() => import("react-quill"), { ssr: false });
 const Editor: any = dynamic(
   async () => {
-    const { default: RQ } = await import("react-quill");
+    const { default: RQ }: any = await import("react-quill");
     return ({ forwardedRef, ...props }: any) => (
       <RQ ref={forwardedRef} {...props} />
     );
