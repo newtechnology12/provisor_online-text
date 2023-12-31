@@ -57,12 +57,11 @@ export default function Index() {
                     </p>
                   </div>
                   <div className="flex-shrink-0 order-2 mt-0 w-auto">
-                    <a
-                      href="#"
-                      className="flex items-center justify-center px-6 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-[#0C8C7C] bg-white hover:bg-indigo-50"
-                    >
-                      Gura Ifatabuguzi Nonaha.
-                    </a>
+                    <Link href="/learn/billing">
+                      <a className="flex items-center justify-center px-6 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-[#0C8C7C] bg-white hover:bg-indigo-50">
+                        Gura Ifatabuguzi Nonaha.
+                      </a>
+                    </Link>
                   </div>
                 </div>
               </div>

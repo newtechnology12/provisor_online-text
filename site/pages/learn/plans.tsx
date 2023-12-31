@@ -238,7 +238,7 @@ function Pay({ plan, onClose }) {
             />
             <div className="flex flex-col items-center justify-center text-center">
               <h4 className="my-3">Kugura ifatabuguzi byanze.</h4>
-              <p className="text-sm font-semibold leading-7 capitalize text-gray-500">
+              <p className="text-sm font-medium leading-7 capitalize text-gray-500">
                 habayeho ikibazo mukugura ifatabuguzi. mwongere mugerageze.
               </p>
             </div>
