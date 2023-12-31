@@ -27,13 +27,13 @@ export default function AppFormPhoneNumber({
           autoComplete="tel"
           className={`${
             errors[name] && touched[name] ? "border-red-500" : ""
-          }  text-base placeholder:text-gray-400 font-semibold transition-all text-gray-600 bg-transparent border rounded px-4 outline-none py-[10px] letter focus:border-primary w-full`}
+          }  text-base placeholder:text-gray-400 font-medium transition-all text-gray-600 bg-transparent border rounded px-4 outline-none py-[10px] letter focus:border-primary w-full`}
           onChange={(e: any) => setFieldValue(name, e)}
           onBlur={() => setFieldTouched(name)}
         />
       </div>
       {touched[name] && (
-        <div className="text-xs capitalize mt-1 text-red-500 font-semibold capitalize-first">
+        <div className="text-xs capitalize mt-1 text-red-500 font-medium capitalize-first">
           {errors[name]}
         </div>
       )}

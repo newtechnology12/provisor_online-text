@@ -56,42 +56,44 @@ export default function VerifyPhone() {
     }
   };
   return (
-    <div className={` max-w-[430px] px-3 mt-20  sm:pt-2 bg-white mx-auto`}>
-      <AppForm
-        validationSchema={registerSchema}
-        onSubmit={handleSubmit}
-        initialValues={{ code: "" }}
-      >
-        <div>
-          <div className="text-center mb-5">
-            <h4 className="font-bold mb-2 text-gray-800 text-[16px]">
-              Gusuzuma nimero ya telephone.
-            </h4>
-            <p className="font-semibold text-gray-400 text-[13px]">
-              Shyiramo kode yoherjwe kuri telephone ya{" "}
-              <span className="font-bold text-primary">
-                +{router?.query?.phone}
-              </span>
-              .
-            </p>
-          </div>
-
+    <div className="h-[78vh] sm:h-full sm:py-0 py-8 bg-slate-50">
+      <div className="max-w-[430px] px-6 sm:px-4 border-opacity-70  rounded-[4px] border border-slate-200 mx-auto bg-white shadow-md- p-6">
+        <AppForm
+          validationSchema={registerSchema}
+          onSubmit={handleSubmit}
+          initialValues={{ code: "" }}
+        >
           <div>
-            <div className="mb-3">
-              <CodeInput />
+            <div className="text-left mb-5">
+              <h4 className="font-bold mb-2 text-gray-800 text-[18px]">
+                Gusuzuma nimero ya telephone.
+              </h4>
+              <p className="font-medium text-gray-500 leading-8 text-[14.5px]">
+                Shyiramo kode yoherjwe kuri telephone ya{"  "}
+                <span className="font-bold inline text-primary">
+                  +{router?.query?.phone}
+                </span>
+                .
+              </p>
             </div>
+
+            <div>
+              <div className="mb-3">
+                <CodeInput />
+              </div>
+            </div>
+            <div className="flex justify-between my-4">
+              <Checkbox id="register" label="Kwemera amategeko namabwiriza" />
+              <Link href="/auth/login">
+                <a className="text-sm text-primary hover:underline font-medium">
+                  Hindura nimero!
+                </a>
+              </Link>
+            </div>
+            <SubmitButton>Gusuzuma kode.</SubmitButton>
           </div>
-          <div className="flex justify-between my-4">
-            <Checkbox id="register" label="Kwemera amategeko namabwiriza" />
-            <Link href="/auth/login">
-              <a className="text-sm text-primary  font-semibold">
-                Hindura nimero
-              </a>
-            </Link>
-          </div>
-          <SubmitButton>Gusuzuma kode.</SubmitButton>
-        </div>
-      </AppForm>
+        </AppForm>
+      </div>
     </div>
   );
 }
@@ -100,8 +102,8 @@ function CodeInput() {
   const { setFieldValue, values, submitForm }: any = useFormikContext();
   return (
     <div className="form-group mb-2 ">
-      <div className="label capitalize mb-2">Shyiramo code</div>
-      <div className="mt-2">
+      <div className="label capitalize text-slate-500 mb-2">Shyiramo code</div>
+      <div className="mt-1">
         <ReactCodeInput
           onComplete={() => {
             submitForm();

@@ -38,18 +38,14 @@ export default function Index() {
     },
   ];
 
-  const [loadingDisable, setloadingDelete] = useState(false);
-
   const myRef: any = React.useRef({});
-
-  const handleDisable = (e) => {};
 
   const [userToGiveSubscription, setuserToGiveSubscription] = useState(false);
   return (
     <Fragment>
       <DataTable
         noActions
-        title="users"
+        title="All users registed"
         myRef={myRef}
         columns={colums}
         actions={[
@@ -67,7 +63,7 @@ export default function Index() {
             id: e.id,
             name: e.username,
             photo: e.photo,
-            phone: e.phone || "---",
+            phone: e.phone || e.email || "---",
             role: e.role || "---",
             joined:
               e.createdAt.toDate().toLocaleDateString("en-US", {
@@ -161,7 +157,7 @@ function SubscriptionModal({ onClose, user }: any) {
                   name="plan"
                   placeholder="hitamo plan"
                   label="Igihe"
-                  options={["daily", "weekly", "2-weeks", "monthly", "3-month"]}
+                  options={["daily", "weekly", "monthly"]}
                 />
               </div>
             </div>

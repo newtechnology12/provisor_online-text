@@ -29,15 +29,9 @@ function MyApp({ Component, pageProps }) {
   return (
     <QueryClientProvider client={queryClient}>
       <Head>
-        <title>Nockira</title>
+        <title>Infinity Tech Drive</title>
       </Head>
-      <WhatsAppWidget
-        sendButton="Ohereza"
-        replyTimeText="Tubasubiza muminota mike?"
-        companyName="Nockira"
-        message="Mwiriwe, Twafasha iki?"
-        phoneNumber="+250789117171"
-      />
+
       <AuthProvider>
         <ToastProvider>
           <Layout>

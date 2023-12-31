@@ -22,7 +22,7 @@ export default function AppFormField({
         className={`${
           line
             ? "text-gray-500 capitalize text-[13.5px] font-bold"
-            : "label  font-semibold capitalize mb-1"
+            : "label  font-medium capitalize mb-1"
         } `}
       >
         <span className="text-gray-500"> {label}</span>
@@ -38,7 +38,7 @@ export default function AppFormField({
         {...otherProps}
       />
       {touched[name] && (
-        <div className="text-xs capitalize mt-1 text-red-500 font-semibold capitalize-first">
+        <div className="text-[13px] capitalize mt-1 text-red-500 font-medium capitalize-first">
           {errors[name]?.replaceAll("_", " ")}
         </div>
       )}

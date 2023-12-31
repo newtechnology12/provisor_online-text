@@ -7,7 +7,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        sans: ["Quicksand", "arial"],
+        sans: ["Outfit", "arial"],
       },
       screens: {
         xl: { max: "1279px" },
@@ -16,7 +16,7 @@ module.exports = {
         sm: { max: "640px" },
       },
       colors: {
-        primary: "#03d357",
+        primary: "#FF9F00",
         primaryLight: "#2a7857",
       },
     },
@@ -24,5 +24,6 @@ module.exports = {
   plugins: [
     // ...
     require("@tailwindcss/line-clamp"),
+    require("@tailwindcss/typography"),
   ],
 };

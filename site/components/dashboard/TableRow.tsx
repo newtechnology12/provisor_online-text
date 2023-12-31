@@ -74,7 +74,7 @@ export default function TableRow({
                       <h4 className="font-semibold leading-7 line-clamp-2 text-gray-500  capitalize text-[13px]">
                         {i[col.title] ? start_and_end(i[col.title]) : ""}
                       </h4>
-                      <p className="text-gray-400  mt-1 capitalize font-semibold text-[12.5px]">
+                      <p className="text-gray-400  mt-0 capitalize font-medium text-[12.5px]">
                         {i[col.subTitle]}
                       </p>
                     </div>
@@ -110,7 +110,7 @@ export default function TableRow({
                     <Comp />
                   </Fragment>
                 ) : (
-                  <span className="capitalize truncate text-gray-500 max-w-[100px] leading-7 font-semibold text-sm">
+                  <span className="capitalize truncate text-gray-500 max-w-[100px] leading-7 font-medium text-[13px]">
                     {col.name === "id" && "#"}
                     {i[col.name]}
                   </span>

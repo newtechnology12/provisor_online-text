@@ -11,6 +11,7 @@ import {
   User,
   UserPlus,
   LogOut,
+  ArrowRight,
 } from "react-feather";
 import { useAuth } from "../context/authContext";
 import { Avatar } from "./Avatar";
@@ -23,69 +24,76 @@ export default function Navbar() {
 
   const [showProfileDropdown, setshowProfileDropdown] = useState(false);
 
-  const { user, loading }: any = useAuth();
+  const { user }: any = useAuth();
 
   const [callapsed, setcallapsed] = useState(false);
+
   return (
     <Fragment>
-      <div className="z-[1000] w-full fixed bg-white border-b border-gray-200">
+      <div
+        className={`z-[1000] w-full fixed bg-[#FF9F00] border-b border-white border-opacity-25 ${
+          router.pathname.split("/").includes("learn") && "hidden"
+        }`}
+      >
         <div className="max-w-5xl mx-auto">
           <div className="px-3 py-3 relative sm:py-[8px] flex items-center justify-between w-full ">
-            <a
-              className="bg-primary hidden sm:block p-[10px] cursor-pointer rounded-full"
-              onClick={() => {
-                setcallapsed(!callapsed);
-              }}
-            >
-              <svg
-                version="1.1"
-                x="0px"
-                y="0px"
-                className="text-white fill-current"
-                height={16}
-                width={16}
-                viewBox="0 0 1000 1000"
-                enableBackground="new 0 0 1000 1000"
-                xmlSpace="preserve"
+            <div className="flex gap-3 items-center">
+              <a
+                className="bg-white hidden sm:block p-[10px] cursor-pointer rounded-full"
+                onClick={() => {
+                  setcallapsed(!callapsed);
+                }}
               >
-                <g>
-                  <path d="M990,210.3c0,38.7-31.3,70-70,70H80c-38.7,0-70-31.3-70-70l0,0c0-38.7,31.3-70,70-70H920C958.5,140.2,990,171.6,990,210.3L990,210.3L990,210.3z" />
-                  <path d="M713.4,500c0,38.7-31.3,70-70,70H80c-38.7,0-70-31.3-70-70l0,0c0-38.7,31.3-70,70-70l563.3,0C682,430,713.4,461.3,713.4,500L713.4,500L713.4,500z" />
-                  <path d="M503.4,789.7c0,38.7-31.3,70-70,70H80c-38.7,0-70-31.3-70-70l0,0c0-38.7,31.3-70,70-70h353.4C472.1,719.7,503.4,751.2,503.4,789.7L503.4,789.7L503.4,789.7z" />
-                </g>
-              </svg>
-            </a>
-            <div className="flex items-center">
-              <Link href={user ? `/learn` : `/`}>
-                <a className="mr-3 sm:mr-0">
-                  <img className="h-[35px]" src="/images/logo.png" alt="" />
-                </a>
-              </Link>
+                <svg
+                  version="1.1"
+                  x="0px"
+                  y="0px"
+                  className="text-primary fill-current"
+                  height={16}
+                  width={16}
+                  viewBox="0 0 1000 1000"
+                  enableBackground="new 0 0 1000 1000"
+                  xmlSpace="preserve"
+                >
+                  <g>
+                    <path d="M990,210.3c0,38.7-31.3,70-70,70H80c-38.7,0-70-31.3-70-70l0,0c0-38.7,31.3-70,70-70H920C958.5,140.2,990,171.6,990,210.3L990,210.3L990,210.3z" />
+                    <path d="M713.4,500c0,38.7-31.3,70-70,70H80c-38.7,0-70-31.3-70-70l0,0c0-38.7,31.3-70,70-70l563.3,0C682,430,713.4,461.3,713.4,500L713.4,500L713.4,500z" />
+                    <path d="M503.4,789.7c0,38.7-31.3,70-70,70H80c-38.7,0-70-31.3-70-70l0,0c0-38.7,31.3-70,70-70h353.4C472.1,719.7,503.4,751.2,503.4,789.7L503.4,789.7L503.4,789.7z" />
+                  </g>
+                </svg>
+              </a>
+              <div className="flex items-center">
+                <Link href={user ? `/learn` : `/`}>
+                  <a className="mr-3 sm:mr-0">
+                    <img className="h-[27px]" src="/images/logo.png" alt="" />
+                  </a>
+                </Link>
+              </div>
+              <ul className="flex items-center ml-3- sm:hidden">
+                {[
+                  { title: "ahabanza", link: user ? "/learn" : "/" },
+                  { title: "abo turibo", link: "/about" },
+                  { title: "twandikire", link: "/#contact" },
+                ].map((e, index) => {
+                  return (
+                    <li key={index}>
+                      <Link href={e.link}>
+                        <a
+                          className={`${
+                            router.pathname === e.link
+                              ? "text-white bg-white  bg-opacity-20 "
+                              : "text-white hover:bg-white hover:bg-opacity-20"
+                          } mx-1 font-medium capitalize rounded-[4px] px-4 py-2 truncate text-[15px]`}
+                          href=""
+                        >
+                          {e.title}
+                        </a>
+                      </Link>
+                    </li>
+                  );
+                })}
+              </ul>
             </div>
-            <ul className="flex items-center ml-3 sm:hidden">
-              {[
-                { title: "ahabanza", link: user ? "/learn" : "/" },
-                { title: "abo turibo", link: "/about" },
-                { title: "twandikire", link: "/contact" },
-              ].map((e, index) => {
-                return (
-                  <li key={index}>
-                    <Link href={e.link}>
-                      <a
-                        className={`${
-                          router.pathname === e.link
-                            ? "text-primary"
-                            : "text-gray-600"
-                        } mx-3 font-bold capitalize truncate text-[14.5px]`}
-                        href=""
-                      >
-                        {e.title}
-                      </a>
-                    </Link>
-                  </li>
-                );
-              })}
-            </ul>
             <div className="hidden sm:block ">
               {user ? (
                 <a
@@ -107,27 +115,15 @@ export default function Navbar() {
                   onClick={() => {
                     router.push("/auth/login");
                   }}
-                  className="bg-green-100 relative cursor-pointer bg-opacity-30 p-3 rounded-full  text-primary"
+                  className="bg-yellow-100 relative cursor-pointer bg-opacity-30 p-3 rounded-full  text-primary"
                 >
-                  <User size={18} className="text-primary" />
+                  <User size={18} className="text-white" />
                 </div>
               )}
             </div>
             <div className="flex sm:hidden sm:pt-3 sm:border-t sm:border-gray-400 sm:border-opacity-50 sm:w-full sm:items-start sm:flex-col items-center">
-              {loading && !user && (
-                <div className="flex py-[1px] items-center">
-                  <div>
-                    <div className="w-24 rounded-full h-9 bg-gray-100" />
-                  </div>
-                  <div className="flex border-l border-gray-100 pl-6 md:hidden items-center ml-5">
-                    <div className="h-9 w-9 mr-3 rounded-full bg-gray-200 bg-opacity-40" />
-                    <div className="h-9 w-9 rounded-full bg-gray-200 bg-opacity-40" />
-                  </div>
-                </div>
-              )}
               <Actions
                 user={user}
-                loading={loading}
                 setshowProfileDropdown={setshowProfileDropdown}
                 showProfileDropdown={showProfileDropdown}
                 clickRef={clickRef}
@@ -206,7 +202,6 @@ export default function Navbar() {
               <Actions
                 setcallapsed={setcallapsed}
                 user={user}
-                loading={loading}
                 setshowProfileDropdown={setshowProfileDropdown}
                 showProfileDropdown={showProfileDropdown}
                 clickRef={clickRef}
@@ -229,22 +224,14 @@ export default function Navbar() {
   );
 }
 
-function Actions({
-  user,
-  loading,
-  setshowProfileDropdown,
-  showProfileDropdown,
-  clickRef,
-  setcallapsed,
-  callapsed,
-}) {
+function Actions({ user, setcallapsed, callapsed }) {
   const router = useRouter();
   const { logout }: any = useAuth();
 
   const [loggingOut, setloggingOut] = useState(false);
   return (
     <div>
-      {!user && !loading && (
+      {!user && (
         <div
           className={`${
             callapsed
@@ -256,26 +243,16 @@ function Actions({
             onClick={() => {
               setcallapsed(false);
 
-              router.push(`/auth/register`);
+              router.push(`/auth/login`);
             }}
-            className="mr-3 sm:mb-3 sm:mr-0"
+            className="mr-3- bg-white sm:mb-3 sm:mr-0"
             small
             normal
             Icon={(size) => (
-              <UserPlus strokeWidth={2} className="ml-3" size={16} />
+              <ArrowRight strokeWidth={2} className="ml-3" size={16} />
             )}
           >
-            Iyandikishe
-          </Button>
-          <Button
-            onClick={() => {
-              setcallapsed(false);
-
-              router.push(`/auth/login`);
-            }}
-            small
-          >
-            Kwinjira
+            Tangira Kwiga
           </Button>
         </div>
       )}
@@ -311,9 +288,15 @@ function Actions({
               <Button
                 onClick={() => {
                   setcallapsed(false);
-                  router.push("/learn");
+
+                  router.push(`/auth/login`);
                 }}
-                className={`${callapsed && "sm:w-full sm:mb-2"}  ml-2 sm:ml-0`}
+                className="mr-3- bg-white sm:mb-3 sm:mr-0"
+                small
+                normal
+                Icon={(size) => (
+                  <ArrowRight strokeWidth={2} className="ml-3" size={16} />
+                )}
               >
                 Aho bigira
               </Button>

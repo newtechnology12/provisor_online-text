@@ -13,7 +13,7 @@ export default function Checkbox({ label, id, onChange, checked }: any) {
         />
       </div>
       <label
-        className="form-check-label leading-6 font-semibold inline-block text-gray-500 cursor-pointer capitalize text-[13px]"
+        className="form-check-label leading-6 font-medium inline-block text-gray-500 cursor-pointer capitalize text-[13px]"
         htmlFor={id}
       >
         {label}

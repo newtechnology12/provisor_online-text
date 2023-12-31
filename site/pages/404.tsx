@@ -168,7 +168,7 @@ export default function Page404() {
         </div>
         <p
           style={{ maxWidth: "350px" }}
-          className="text-sm text-gray-600 leading-7 font-semibold mx-auto mb-2"
+          className="text-sm text-gray-600 leading-7 font-medium mx-auto mb-2"
         >
           Pagi ushaka nayihari cyangwa se ikaba yarimukiye ahandi.
         </p>

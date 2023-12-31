@@ -53,48 +53,42 @@ export default function ForgotPassword() {
       });
   };
   return (
-    <div className={` max-w-[430px] mt-20 px-3 sm:pt-0 bg-white mx-auto`}>
-      <AppForm
-        initialValues={{
-          names: "",
-        }}
-        onSubmit={handleSubmit}
-        validationSchema={forgotSchema}
-      >
-        <div>
-          <div className="text-center my-7 sm:mt-3">
-            <h4 className="font-bold mb-2 text-gray-900 text-[17px]">
-              Amazina yawe?
-            </h4>
-            <p className="font-semibold text-gray-500 text-sm">
-              shyiramo amazina yawe kugirango tubashe gukomeza.
-            </p>
-          </div>
-
-          <div className="mt-5">
-            <div className="mb-3">
-              <AppFormField
-                name="names"
-                placeholder="amazina yawe"
-                label="amazina"
-              />
+    <div className="h-[78vh] sm:h-full sm:py-0 py-8 bg-slate-50">
+      <div className="max-w-[430px] px-6 sm:px-4 border-opacity-70  rounded-[4px] border border-slate-200 mx-auto bg-white shadow-md- p-6">
+        <AppForm
+          initialValues={{
+            names: "",
+          }}
+          onSubmit={handleSubmit}
+          validationSchema={forgotSchema}
+        >
+          <div>
+            <div className="text-left my-7- sm:mt-3">
+              <h4 className="font-bold mb-2 text-gray-900 text-[17px]">
+                Amazina yawe?
+              </h4>
+              <p className="font-medium leading-7 text-gray-500 text-sm">
+                Shyiramo amazina yawe kugirango tubashe gukomeza.
+              </p>
             </div>
+
+            <div className="mt-5">
+              <div className="mb-3">
+                <AppFormField
+                  name="names"
+                  placeholder="amazina yawe"
+                  label="amazina"
+                />
+              </div>
+            </div>
+            <div className="flex justify-between my-4">
+              <Checkbox id="accept" label="Uremera amategeko n'amabwiriza" />
+              <div />
+            </div>
+            <SubmitButton>Tangira kwiga</SubmitButton>
           </div>
-          <div className="flex justify-between my-4">
-            <Checkbox id="accept" label="Uremera amategeko n'amabwiriza" />
-            <div />
-          </div>
-          <SubmitButton>Tangira kwiga</SubmitButton>
-          <div className="text-center mt-5">
-            <span className="text-sm text-gray-600 font-semibold mt-2">
-              <span className="text-[14px]"> Uribuka ijambobanga!</span>
-              <Link href="/auth/login">
-                <a className="ml-2 font-bold">Injira.</a>
-              </Link>
-            </span>
-          </div>
-        </div>
-      </AppForm>
+        </AppForm>
+      </div>
     </div>
   );
 }

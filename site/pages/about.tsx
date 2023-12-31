@@ -5,30 +5,20 @@ export default function About() {
   return (
     <div className="my-3 sm:my-2">
       <NextSeo title="Abo turibo" />
-      <div className=" border-b lg:px-3 py-8 border-gray-100">
-        <div className="mb-0 max-w-5xl mx-auto">
-          <h1 className="text-gray-900 font-bold text-lg mb-3">Abo turibo</h1>
-          <BreadCamps
-            items={[
-              { title: "ahabanza", link: "/" },
-              { title: "abo turibo", link: "/about" },
-            ]}
-          />
-        </div>
-      </div>
+
       <div className="max-w-5xl mx-auto my-8 lg:px-3">
-        <div className="markdown mt-0">
-          <h4>Abo turibo.</h4>
+        <div className="prose prose-p:leading-8 prose-li:leading-8 prose-p:text-[15px] prose-p:font-medium- prose-p:text-slate-500 prose-li:text-[15px] prose-li:font-medium- prose-li:text-slate-500 mt-0">
+          <h2>Abo turibo.</h2>
           <p>
-          Infinity Tech Solution ni urubuga rwashyiriweho gufasha abanyarwanda , Abanrundi Bose kumenya
-            amategeko y&apos;umuhanda mu rwego rwo kwirinda impanuka ziterwa no
-            kutamenya amategeko agenga uburyo bwo kugenda mu muhanda. Ariko
-            cyane cyane tunafasha abashaka kubona uruhushya rw&apos;agateganyo
-            rwo gutwara ibinyabiziga (Provisoire)
+            Infinity Tech Solution ni urubuga rwashyiriweho gufasha abanyarwanda
+            , Abanrundi Bose kumenya amategeko y&apos;umuhanda mu rwego rwo
+            kwirinda impanuka ziterwa no kutamenya amategeko agenga uburyo bwo
+            kugenda mu muhanda. Ariko cyane cyane tunafasha abashaka kubona
+            uruhushya rw&apos;agateganyo rwo gutwara ibinyabiziga (Provisoire)
           </p>
 
           <div>
-            <h3>Service dutanga:</h3>
+            <h4>Service dutanga:</h4>
             <ul>
               <li>
                 Kwigisha amategeko y&apos;umuhanda mu buryo bwo gusoma igazeti.

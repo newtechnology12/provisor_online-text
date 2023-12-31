@@ -18,7 +18,7 @@ export default function Logout() {
         <div className="card">
           <div className="p-4">
             <h4 className="text-[15px]">Sohoka muri konte yawe.</h4>
-            <p className="text-sm font-semibold text-gray-400 my-4">
+            <p className="text-sm font-medium text-gray-500 my-4">
               Kanda aho hasi kugirango ubashe gusohoka muri konte yawe
             </p>
             <div className="flex">

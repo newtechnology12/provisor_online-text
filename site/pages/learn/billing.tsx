@@ -46,22 +46,7 @@ export default function Billing() {
 
   const router = useRouter();
 
-  // const billing = {
-  //   plan: "weekly",
-  //   status: "active",
-  //   payment: {
-  //     amount: 2000,
-  //     createdAt: new Date(),
-  //     id: "xsx",
-  //   },
-  //   start: new Date(),
-  //   end: new Date(),
-  // };
-
   const billing: any = data;
-
-  const daysCoverd = 0;
-  const daysTo = 0;
 
   var start: any = new Date(billing?.start?.toDate()),
     end: any = new Date(billing?.end?.toDate()),
@@ -100,7 +85,7 @@ export default function Billing() {
       {status === "success" &&
         subscription &&
         subscription.status === "active" && (
-          <div className="max-w-5xl mx-auto my-2">
+          <div className="max-w-5xl mx-auto my-6">
             <div className="card max-w-4xl">
               <div className="card-head">
                 <div className="flex justify-between items-center py-1">
@@ -241,21 +226,6 @@ export default function Billing() {
                 </div>
               </div>
 
-              {/* {billing.status === "active" && (
-                <div className="card-footer">
-                  <Button
-                    loading={loadingCancel}
-                    onClick={() => {
-                      if (confirm("urashaka guhagarika ifatabuguzi")) {
-                        handleCancel();
-                      }
-                    }}
-                    danger
-                  >
-                    hagarika ifatabuguzi
-                  </Button>
-                </div>
-              )} */}
               {billing.status === "expired" && (
                 <div className="card-footer">
                   <Button
@@ -272,21 +242,21 @@ export default function Billing() {
         )}
 
       {status === "loading" && (
-        <div className="w-full h-[50vh] flex items-center justify-center">
-          <Loader primary />
+        <div className="w-full card h-[50vh] flex items-center justify-center">
+          <Loader primary small />
         </div>
       )}
       {((status === "success" && !data) ||
         (status === "success" && subscription.status !== "active")) && (
-        <div className="card py-8">
+        <div className="card my-3 py-8">
           <NoContent
             Icon={() => {
               return (
                 <img
-                  height={150}
-                  width={150}
+                  height={70}
+                  width={70}
                   className="mb-5"
-                  src="/images/sub.svg"
+                  src="/images/receipt.png"
                 />
               );
             }}
@@ -297,122 +267,8 @@ export default function Billing() {
               },
             }}
             title="Nta fatabuguzi ufite"
-            subTitle="Kanda hasi aho kigurango ubashe kwigurira ifatabuguzi utangire kwiga."
+            subTitle="Nta fatabuguzi ufite, Kanda hasi aho kigurango ubashe kwigurira ifatabuguzi utangire kwiga."
           />
-        </div>
-      )}
-
-      {status === "success" && subscription && (
-        <div>
-          <div className="card mt-5 max-w-4xl">
-            <div className="card-head">
-              <h4 className="card-title text-[13px]">
-                <span className="text-sm">ubwishyu bwawe.</span>
-              </h4>
-            </div>
-            <div>
-              <Payments />
-            </div>
-            {/* <div className="card-footer py-1 justify-center">
-                <Button non className="text-blue-500">
-                  View More
-                </Button>
-              </div> */}
-          </div>
-        </div>
-      )}
-    </Fragment>
-  );
-}
-
-function Payments() {
-  const { user }: any = useAuth();
-  const { data, status }: any = useQuery(
-    "user-payments",
-    () =>
-      getDocs(
-        query(
-          collection(firestore, "subscriptions", user.id, "payments"),
-          orderBy("createdAt", "desc")
-        )
-      ).then(({ docs }) => {
-        return docs.map((e) => {
-          return {
-            id: e.id,
-            ...e.data(),
-          };
-        });
-      }),
-    {
-      enabled: user !== undefined,
-    }
-  );
-  return (
-    <Fragment>
-      {" "}
-      <table className="w-full invoice-table">
-        <thead>
-          <tr>
-            <th>Itariki</th>
-            <th>Ibiciro</th>
-            <th>Imiterere</th>
-            <th className="sm:hidden">uburyo</th>
-          </tr>
-        </thead>
-        <tbody>
-          <Fragment>
-            {status === "success" && (
-              <Fragment>
-                {data.map((e, index) => {
-                  return (
-                    <tr key={index}>
-                      <td>
-                        {new Date(e.createdAt.toDate()).toLocaleDateString(
-                          "en-US",
-                          {
-                            day: "2-digit",
-                            month: "short",
-                            year: "numeric",
-                            minute: "2-digit",
-                            hour: "2-digit",
-                          }
-                        )}
-                      </td>
-                      <td>{e.amount} frw</td>
-                      <td>
-                        <span
-                          className={`${
-                            e.status === "paid"
-                              ? "text-primary"
-                              : e.status === "failed"
-                              ? "text-red-500"
-                              : e.status === "pending"
-                              ? "text-orange-500"
-                              : ""
-                          }`}
-                        >
-                          {e.status}
-                        </span>
-                      </td>
-                      <td className="sm:hidden">{e.method}</td>
-                    </tr>
-                  );
-                })}
-              </Fragment>
-            )}
-          </Fragment>
-        </tbody>
-      </table>
-      {status === "loading" && (
-        <div className="flex cols items-center justify-center h-32">
-          <Loader small primary />
-        </div>
-      )}
-      {status === "success" && !data.length && (
-        <div className="flex items-center justify-center h-32">
-          <span className="text-sm font-semibold text-gray-500">
-            Nta Bwishyu wakoze
-          </span>
         </div>
       )}
     </Fragment>

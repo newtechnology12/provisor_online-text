@@ -6,7 +6,7 @@ export default function NoContent({ Icon, title, subTitle, action }: any) {
     <div>
       <div
         style={{
-          minHeight: "calc(100vh - 336px)",
+          minHeight: "calc(100vh - 536px)",
           maxWidth: "480px",
           textAlign: "center",
         }}
@@ -17,7 +17,7 @@ export default function NoContent({ Icon, title, subTitle, action }: any) {
         <div className="font-bold text-[16px] capitalize mb-2 mt-3 text-gray-800">
           {title}
         </div>
-        <p className="text-sm text-gray-500 max-w-sm font-semibold leading-7 mx-auto mt-1 mb-3">
+        <p className="text-[14.5px] text-gray-500 max-w-sm font-medium leading-7 mx-auto mt-1 mb-3">
           {subTitle}
         </p>
 

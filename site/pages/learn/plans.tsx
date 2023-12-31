@@ -19,17 +19,17 @@ export default function Plans() {
   const [selectedPlan, setselectedPlan] = useState<any>();
   return (
     <Fragment>
-      <NextSeo title="Ibyiciro by' ifatabuguzi" />
-
-      <div className="flex items-center mb-7 justify-between">
+      <div className="flex mb-5 mt-2 items-center justify-between">
         <div>
-          <h4 className="my-2">Gura Ifatabuguzi</h4>
-          <p className="text-sm font-semibold text-gray-500">
-            Hitamo ifatabugizi hasi aho utangire kwiga.
+          <h2 className="mb-1 text-[17px] capitalize sm:mb-0">
+            Amafatabuguzi dutanga.
+          </h2>
+          <p className="text-[15px] leading-7 sm:hidden font-medium text-gray-500">
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit.
           </p>
         </div>
       </div>
-      <div className="grid grid-cols-3 sm:grid-cols-1 gap-3">
+      <div className="grid grid-cols-3 sm:grid-cols-1 gap-4">
         {[
           {
             price: 500,
@@ -64,44 +64,51 @@ export default function Plans() {
         ].map((e, index) => {
           return (
             <div key={index}>
-              <div className=" mx-auto bg-white border border-gray-200 border-t-[3px] rounded border-t-primary  text-center p-4">
+              <div className=" mx-auto bg-white border border-gray-200 border-t-[3px] rounded border-t-primary  text-center- p-4">
                 <div className="overflow-hidden">
-                  <div className="text-base font-bold capitalize mb-8 text-gray-800 ">
-                    {e.name}
+                  <div className=" pb-5 space-y-2 border-b border-slate-200">
+                    <div className="text-base font-bold capitalize text-gray-800 ">
+                      {e.name}
+                    </div>
+                    <p className="text-[15px] pb-2 leading-7 font-medium= text-slate-500">
+                      All the basics for starting a <br /> new business
+                    </p>
+                    <div className="flex !mb-3 gap-2">
+                      <span className="font-bold text-xl">
+                        {e.price.toLocaleString()} FRW
+                      </span>
+                      <span className="font-medium text-slate-500">
+                        /umunsi
+                      </span>
+                    </div>
+                    <div className="px-4- mt-8">
+                      <Button
+                        onClick={() => {
+                          setselectedPlan(e);
+                        }}
+                      >
+                        Gura {e.name}
+                      </Button>
+                    </div>
                   </div>
-                  <div className="leading-loose flex flex-col justify-start items-start text-sm font-light text-gray-700 mb-5">
+                  <div className="leading-loose pt-3 tracking-wide flex flex-col gap-3 justify-start items-start text-sm font-light text-gray-700 mb-5">
                     {/* <div className="font-bold">5000 products</div> */}
+                    <span className="text-[12px] text-slate-500 uppercase font-medium">
+                      Ibikubiyemo
+                    </span>
                     {e.features.map((e, index) => {
                       return (
                         <div
                           key={index}
-                          className="font-semibold leading-7 capitalize flex items-center text-left text-gray-500"
+                          className="font-medium leading-7 capitalize gap-3 flex items-start text-left text-gray-500"
                         >
-                          <div>
-                            <Check
-                              size={15}
-                              className="text-primary ml-1 mr-3"
-                            />
+                          <div className="h-7 w-7 bg-primary bg-opacity-15 rounded-full flex justify-center items-center">
+                            <Check size={15} className="text-primary" />
                           </div>
                           <span> {e}.</span>
                         </div>
                       );
                     })}
-                  </div>
-                  <div className="font-bold text-lg mb-2 text-gray-500">
-                    <span>{e.price.toLocaleString()} FRW</span>
-                  </div>
-                  <div className="text-gray-500 font-semibold capitalize text-sm">
-                    / {e.name}
-                  </div>
-                  <div className="px-4 mt-8">
-                    <Button
-                      onClick={() => {
-                        setselectedPlan(e);
-                      }}
-                    >
-                      Gura {e.name}
-                    </Button>
                   </div>
                 </div>
               </div>
@@ -169,7 +176,7 @@ function Pay({ plan, onClose }) {
 
   const router = useRouter();
   return (
-    <div className="mb-5">
+    <div className="mb-1">
       {mode === "pending" ? (
         <div>
           <Pending paymentId={paymentId} setMode={setmode} />
@@ -240,13 +247,23 @@ function Pay({ plan, onClose }) {
         </div>
       ) : (
         <Fragment>
-          <p className="text-sm font-semibold capitalize text-gray-500">
+          <p className="text-sm font-medium capitalize text-gray-500">
             Hitamo uburyo bwo kwishyura
           </p>
-          <div className="grid grid-cols-2 mt-5 gap-2">
+          <div className="grid grid-cols-2 mt-4 gap-2">
             {[
-              { name: "Mtn momo", desc: "Ishura na mtn" },
-              { name: "Airtel money", desc: "ishura na airtell" },
+              {
+                name: "Mtn momo",
+                desc: "Ishura na mtn",
+                image:
+                  "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/New-mtn-logo.jpg/600px-New-mtn-logo.jpg",
+              },
+              {
+                name: "Airtel money",
+                desc: "ishura na airtell",
+                image:
+                  "https://upload.wikimedia.org/wikipedia/commons/3/3a/Airtel_logo-01.png",
+              },
             ].map((e, index) => {
               return (
                 <div
@@ -256,16 +273,20 @@ function Pay({ plan, onClose }) {
                   }}
                   className={`${
                     e.name === paymentMethod
-                      ? "border-primary bg-green-100 hover:bg-green-50"
+                      ? "border-primary bg-primary bg-opacity-10 hover:bg-opacity-10 hover:bg-primary"
                       : "border-gray-200 hover:bg-slate-50"
-                  } border flex items-start py-3  rounded-md  cursor-pointer`}
+                  } border flex items-start py-2  rounded-md  cursor-pointer`}
                 >
                   <div className="mx-3">
-                    <Radio checked={e.name === paymentMethod} />
+                    <img
+                      className="h-10 w-10 rounded-[4px]"
+                      src={e.image}
+                      alt=""
+                    />
                   </div>
                   <div>
-                    <h4 className="text-sm mb-2">{e.name}</h4>
-                    <p className="text-sm capitalize font-semibold text-gray-500">
+                    <h4 className="text-sm mb-1">{e.name}</h4>
+                    <p className="text-sm capitalize font-medium text-gray-500">
                       {e.desc}
                     </p>
                   </div>
@@ -278,47 +299,38 @@ function Pay({ plan, onClose }) {
               <Alert danger>{paymentError}</Alert>
             </div>
           )}
-          {paymentMethod && (
-            <div className="mt-4">
-              <div className={`form-group mb-2 `}>
-                <div className={"label  font-semibold capitalize mb-1"}>
-                  <span className="text-gray-500">Shyirmo nimreo</span>
-                </div>
-
-                {/* <PhoneInput
-                  placeholder="07 xxx xxx xxx"
-                  onChange={(e: any) => setphone(e)}
-                  value={phone}
-                  defaultCountry="RW"
-                  autoComplete="tel"
-                  className={` text-base placeholder:text-gray-400 font-semibold transition-all text-gray-600 bg-transparent border rounded px-4 outline-none py-[10px] letter focus:border-primary w-full`}
-                /> */}
-                <Input
-                  placeholder="07 xxx xxx xxx"
-                  onChange={(e: any) => setphone(e.target.value)}
-                  value={phone}
-                />
+          <div className="mt-4">
+            <div className={`form-group mb-2 `}>
+              <div className={"label  font-semibold capitalize mb-1"}>
+                <span className="text-gray-500">Shyirmo nimreo</span>
               </div>
-              <Button
-                onClick={() => {
-                  if (
-                    phone &&
-                    phone.length === 10 &&
-                    phone.split("").slice(0, 2).join("") === "07"
-                  ) {
-                    handlePayment();
-                  } else {
-                    setpaymentError("nimero yawe yanditse nabi.");
-                  }
-                }}
-                loading={loadingPayment}
-                disabled={!phone}
-                className="mt-4"
-              >
-                Ishyura {plan.price.toLocaleString()} FRW
-              </Button>
+
+              <Input
+                disabled={!paymentMethod}
+                placeholder="07 xxx xxx xxx"
+                onChange={(e: any) => setphone(e.target.value)}
+                value={phone}
+              />
             </div>
-          )}
+            <Button
+              onClick={() => {
+                if (
+                  phone &&
+                  phone.length === 10 &&
+                  phone.split("").slice(0, 2).join("") === "07"
+                ) {
+                  handlePayment();
+                } else {
+                  setpaymentError("nimero yawe yanditse nabi.");
+                }
+              }}
+              loading={loadingPayment}
+              disabled={!phone}
+              className="mt-4"
+            >
+              Ishyura {plan.price.toLocaleString()} FRW
+            </Button>
+          </div>
         </Fragment>
       )}
     </div>

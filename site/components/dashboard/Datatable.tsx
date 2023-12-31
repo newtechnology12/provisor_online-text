@@ -136,8 +136,8 @@ export default function DataTable({
       <div>
         <div className="max-w-6xl mt-5 mx-auto">
           <div className="bg-white rounded-[4px] border-opacity-70 border border-gray-300">
-            <div className="flex border-b border-gray-300 border-opacity-50 items-center px-3  justify-between py-2">
-              <h4 className="font-bold ml-1  text-[15px] text-gray-600">
+            <div className="flex border-b border-gray-300 border-opacity-50 items-center px-3  justify-between py-1">
+              <h4 className="font-bold ml-1  text-[14px] text-gray-600">
                 {title}
               </h4>
               {action ? (
@@ -167,7 +167,7 @@ export default function DataTable({
                           e.name === activeTabFilter.name
                             ? "border-b-primary  border-b-[3px]  text-primary "
                             : "text-gray-500 "
-                        } px-4  sm:last-of-type:hidden capitalize text-[14px] cursor-pointer font-semibold py-[10px]`}
+                        } px-4  sm:last-of-type:hidden capitalize text-[13px] cursor-pointer font-semibold py-[6px]`}
                       >
                         {e.name}
                       </div>
@@ -182,14 +182,14 @@ export default function DataTable({
                     return (
                       <th
                         key={index}
-                        className="text-left py-4 px-4 font-bold capitalize text-sm border-b text-gray-600 border-gray-200 border-opacity-70 border-l-0 border-r-0"
+                        className="text-left py-3 px-4 font-medium capitalize text-sm border-b text-gray-600 border-gray-200 border-opacity-70 border-l-0 border-r-0"
                       >
                         {e.name}
                       </th>
                     );
                   })}
                   {actions.length ? (
-                    <th className="text-right py-4 px-4 font-bold capitalize text-sm border-b text-gray-600 border-opacity-70 border-gray-200 border-l-0 border-r-0">
+                    <th className="text-right py-3 px-4 font-medium capitalize text-sm border-b text-gray-600 border-opacity-70 border-gray-200 border-l-0 border-r-0">
                       Action
                     </th>
                   ) : null}

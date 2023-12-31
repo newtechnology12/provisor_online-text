@@ -20,7 +20,7 @@ export default function Modal({
   }, []);
   return (
     <div
-      className={` z-[10000] flex items-center transition-all justify-center overflow-hidden fixed flex-col bottom-0 left-0 right-0 top-0`}
+      className={` z-[10000] flex items-center transition-all justify-center= pt-20 overflow-hidden fixed flex-col bottom-0 left-0 right-0 top-0`}
     >
       <div
         className="cursor-pointer bottom-0 left-0 absolute right-0 top-0"
@@ -48,7 +48,7 @@ export default function Modal({
                 {title}
               </h4>
               <a
-                className="cursor-pointer bg-gray-950 bg-gray-100 rounded-full p-[6px] overflow-auto"
+                className="cursor-pointer  bg-gray-100 rounded-full p-[6px] overflow-auto"
                 onClick={onClose}
               >
                 <FeatherIcons.X size={15} className="text-gray-500" />

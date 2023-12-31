@@ -11,11 +11,11 @@ export default function Loader({ large, small, primary, xsmall }: any) {
           : "w-7 h-7 "
       } relative ${
         primary
-          ? "border-primary border-l-green-200"
+          ? "border-primary border-l-yellow-200"
           : "border-gray-600 border-l-gray-300"
       }`}
       style={{
-        borderWidth: large ? "4px" : small ? "2px" : xsmall ? "2.5px" : "4px",
+        borderWidth: large ? "4px" : small ? "2.5px" : xsmall ? "2.5px" : "4px",
         transform: "translateZ(0)",
         animation: "load8 0.6s infinite linear",
       }}
