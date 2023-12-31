@@ -182,10 +182,10 @@ export default function Home() {
                     aria-hidden="true"
                   />
                   <a
-                    href="+250 785 030 772"
+                    href="+250 798 735 385"
                     className="ml-3 hover:underline text-[15px]"
                   >
-                    +250 785 030 772
+                    +250 798 735 385
                   </a>
                 </dd>
               </div>
