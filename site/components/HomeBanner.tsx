@@ -1,14 +1,9 @@
-import { useRouter } from "next/router";
-import { useState } from "react";
-import { ChevronRight } from "react-feather";
-import PhoneInput from "react-phone-number-input";
 import "react-phone-number-input/style.css";
-import { useToast } from "../context/toastContext";
-import { AuthServices } from "../services/auth.service";
 import Button from "./Button";
-import SocialIcon from "./SocialIcon";
+import { useRouter } from "next/router";
 
 export default function HomeBanner() {
+  const router = useRouter();
   return (
     <div className="px-3 sm:px-0 max-w-5xl mx-auto ">
       <div className="home-banner relative overflow-hidden sm:rounded-none g-green-200 sm:my-0 py-14 rounded-md my-4 flex flex-col items-start justify-start sm:px-3 px-10">
@@ -30,7 +25,9 @@ export default function HomeBanner() {
           <div className="flex">
             <Button
               className="!bg-white !border-none !text-primary"
-              onClick={() => {}}
+              onClick={() => {
+                router.push("/auth/login");
+              }}
             >
               Tangira kwiga Nonaha
             </Button>

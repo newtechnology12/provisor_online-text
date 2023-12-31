@@ -1,18 +1,2 @@
 Web / API server started at 127.0.0.1:4000
 Web / API server started at ::1:4000
-node[15433]: ../src/node.cc:708:void node::ResetStdio(): Assertion `!(err != 0) || (err == -1 && (*__errno_location ()) == 1)' failed.
- 1: 0x7f315b5c00dd node::Abort() [/usr/bin/../lib/libnode.so.115]
- 2: 0x7f315b5c0435 node::Assert(node::AssertionInfo const&) [/usr/bin/../lib/libnode.so.115]
- 3: 0x7f315b571a55  [/usr/bin/../lib/libnode.so.115]
- 4: 0x7f315b571bb5 node::SignalExit(int, siginfo_t*, void*) [/usr/bin/../lib/libnode.so.115]
- 5: 0x7f315a65c710  [/usr/bin/../lib/libc.so.6]
- 6: 0x7f315a72ea76 epoll_pwait [/usr/bin/../lib/libc.so.6]
- 7: 0x7f315e1babe2  [/usr/lib/libuv.so.1]
- 8: 0x7f315e1a2f9f uv_run [/usr/lib/libuv.so.1]
- 9: 0x7f315b4d5106 node::SpinEventLoopInternal(node::Environment*) [/usr/bin/../lib/libnode.so.115]
-10: 0x7f315b612349 node::NodeMainInstance::Run(node::ExitCode*, node::Environment*) [/usr/bin/../lib/libnode.so.115]
-11: 0x7f315b612778 node::NodeMainInstance::Run() [/usr/bin/../lib/libnode.so.115]
-12: 0x7f315b577c33 node::Start(int, char**) [/usr/bin/../lib/libnode.so.115]
-13: 0x7f315a645cd0  [/usr/bin/../lib/libc.so.6]
-14: 0x7f315a645d8a __libc_start_main [/usr/bin/../lib/libc.so.6]
-15: 0x5594c22ba035 _start [node]

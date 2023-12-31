@@ -1,28 +1,13 @@
 import Link from "next/link";
 import { useRouter } from "next/router";
 import React, { Fragment, useRef, useState } from "react";
-import {
-  Bell,
-  Briefcase,
-  ChevronDown,
-  MapPin,
-  Package,
-  Search,
-  User,
-  UserPlus,
-  LogOut,
-  ArrowRight,
-} from "react-feather";
+import { Briefcase, User, UserPlus, LogOut, ArrowRight } from "react-feather";
 import { useAuth } from "../context/authContext";
 import { Avatar } from "./Avatar";
 import Button from "./Button";
 
 export default function Navbar() {
   const router = useRouter();
-
-  const clickRef = useRef<any>();
-
-  const [showProfileDropdown, setshowProfileDropdown] = useState(false);
 
   const { user }: any = useAuth();
 
@@ -32,7 +17,7 @@ export default function Navbar() {
     <Fragment>
       <div
         className={`z-[1000] w-full fixed bg-[#FF9F00] border-b border-white border-opacity-25 ${
-          router.pathname.split("/").includes("learn") && "hidden"
+          router.pathname.split("/").includes("learn") && "hidden sm:block"
         }`}
       >
         <div className="max-w-5xl mx-auto">
@@ -124,16 +109,13 @@ export default function Navbar() {
             <div className="flex sm:hidden sm:pt-3 sm:border-t sm:border-gray-400 sm:border-opacity-50 sm:w-full sm:items-start sm:flex-col items-center">
               <Actions
                 user={user}
-                setshowProfileDropdown={setshowProfileDropdown}
-                showProfileDropdown={showProfileDropdown}
-                clickRef={clickRef}
                 setcallapsed={setcallapsed}
                 callapsed={callapsed}
               />
             </div>
           </div>
           {callapsed && (
-            <div className={`hidden sm:block`}>
+            <div className={`hidden bg-white sm:block`}>
               <ul
                 className={`${
                   user && "sm:hidden"
@@ -142,7 +124,7 @@ export default function Navbar() {
                 {[
                   { title: "ahabanza", link: "/" },
                   { title: "abo turibo", link: "/about" },
-                  { title: "twandikire", link: "/contact" },
+                  { title: "twandikire", link: "/#contact" },
                 ].map((e, index) => {
                   return (
                     <Navlink key={index} setcallapsed={setcallapsed} e={e} />
@@ -202,9 +184,6 @@ export default function Navbar() {
               <Actions
                 setcallapsed={setcallapsed}
                 user={user}
-                setshowProfileDropdown={setshowProfileDropdown}
-                showProfileDropdown={showProfileDropdown}
-                clickRef={clickRef}
                 callapsed={callapsed}
               />
             </div>
@@ -213,7 +192,7 @@ export default function Navbar() {
       </div>
       {callapsed && (
         <div
-          className="cursor-pointer hidden z-[10] sm:block bottom-0 left-0 fixed right-0 top-0"
+          className="cursor-pointer hidden z-[50] sm:block bottom-0 left-0 fixed right-0 top-0"
           onClick={() => {
             setcallapsed(false);
           }}
@@ -230,12 +209,12 @@ function Actions({ user, setcallapsed, callapsed }) {
 
   const [loggingOut, setloggingOut] = useState(false);
   return (
-    <div>
+    <div className="bg-primary w-full">
       {!user && (
         <div
           className={`${
             callapsed
-              ? "sm:px-3 sm:border-t sm:border-gray-200 sm:py-3"
+              ? "sm:px-3 sm:border-t  sm:border-gray-200 sm:py-3"
               : "flex items-center"
           }`}
         >
@@ -245,7 +224,7 @@ function Actions({ user, setcallapsed, callapsed }) {
 
               router.push(`/auth/login`);
             }}
-            className="mr-3- bg-white sm:mb-3 sm:mr-0"
+            className="mr-3- bg-white sm:w-full  sm:mb-3- sm:mr-0"
             small
             normal
             Icon={(size) => (
@@ -278,7 +257,7 @@ function Actions({ user, setcallapsed, callapsed }) {
                   }, 1000);
                 }}
                 normal
-                className="sm:flex sm:mb-2 sm:w-full"
+                className="sm:flex bg-white  sm:w-full"
                 Icon={LogOut}
               >
                 Gusohoka
@@ -289,9 +268,9 @@ function Actions({ user, setcallapsed, callapsed }) {
                 onClick={() => {
                   setcallapsed(false);
 
-                  router.push(`/auth/login`);
+                  router.push(`/learn`);
                 }}
-                className="mr-3- bg-white sm:mb-3 sm:mr-0"
+                className="mr-3- bg-white sm:w-full sm:mb-3- sm:mr-0"
                 small
                 normal
                 Icon={(size) => (
@@ -320,7 +299,7 @@ function Navlink({ e, setcallapsed }) {
         }}
         className={`${
           router.pathname === e.link ? "text-primary" : "text-gray-500"
-        } px-5 py-4 cursor-pointer text-left block font-semibold capitalize  text-sm`}
+        } px-5 py-4 cursor-pointer text-left block font-semibold sm:font-medium capitalize  text-sm`}
       >
         {e.title}
       </a>

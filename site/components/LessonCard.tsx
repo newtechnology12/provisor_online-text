@@ -1,6 +1,5 @@
 import Link from "next/link";
 import React from "react";
-import Button from "./Button";
 
 export default function LessonCard({ item }) {
   return (
@@ -18,7 +17,7 @@ export default function LessonCard({ item }) {
                 {!item.free && (
                   <div>
                     <div className="h-7 w-7 cursor-pointer rounded-full flex items-center justify-center border bg-orange-50 border-[#fca120]">
-                      <img className="h-4 w-4" src="/pro.png" />
+                      <img alt="" className="h-4 w-4" src="/pro.png" />
                     </div>
                   </div>
                 )}

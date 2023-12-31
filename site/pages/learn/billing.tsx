@@ -90,11 +90,6 @@ export default function Billing() {
               <div className="card-head">
                 <div className="flex justify-between items-center py-1">
                   <h4 className="text-sm ">Ifatabuguzi ryawe</h4>
-                  <Link href="/learn/plans">
-                    <a className="text-primary pointer-events-none opacity-40 text-sm cursor-pointer font-bold capitalize">
-                      hindura ifatabuguzi.
-                    </a>
-                  </Link>
                 </div>
               </div>
               <div className="card-body">
@@ -138,10 +133,10 @@ export default function Billing() {
                   ].map((e, index) => {
                     return (
                       <div key={index}>
-                        <p className="font-semibold text-sm text-gray-600 capitalize">
+                        <p className="font-semibold text-[13px] text-gray-600 capitalize">
                           {e.title}
                         </p>
-                        <h4 className="capitalize sm:text-sm text-[15px] text-gray-700 mt-3">
+                        <h4 className="capitalize sm:text-sm text-[13px] text-gray-700 mt-3">
                           {e.subtitle}
                         </h4>
                       </div>
@@ -149,34 +144,31 @@ export default function Billing() {
                   })}
                 </div>
 
-                <div className="border border-gray-200 sm:p-3 p-5 rounded-[4px] my-6">
+                <div className="border border-gray-200 sm:p-3 p-5 pt-3 rounded-[4px] my-6">
                   <div>
                     <div className="flex justify-between mb-3  items-center">
-                      <h3 className="text-[15px] capitalize">
+                      <h3 className="text-[14px] capitalize">
                         Amakuru kwifatabuguzi
                       </h3>
                       <span
                         className={`${
                           billing.status === "active"
-                            ? "text-primary bg-green-100 "
+                            ? "text-green-500 bg-green-100 "
                             : billing.status === "past-due"
                             ? "text-orange-500 bg-orange-100 "
                             : billing.status === "expired"
                             ? "text-red-500 bg-red-100 "
                             : ""
-                        } font-semibold capitalize text-sm px-4 py-[6px] rounded-full`}
+                        } font-semibold capitalize text-[13px] px-3 py-[4px] rounded-[4px]`}
                       >
                         {billing.status}
                       </span>
                     </div>
-                    <p className="text-gray-600 font-semibold text-sm capitalize">
-                      amakuru y&apos; ifatabuguzi ryawe.
-                    </p>
                   </div>
-                  <div className="mt-5">
+                  <div className="mt-2">
                     <div className="flex justify-between mt-2 mb-3">
-                      <h3 className="text-sm">Ikoreshwa</h3>
-                      <p className="font-semibold capitalize text-gray-600 text-sm">
+                      <h3 className="text-sm  font-medium">Ikoreshwa</h3>
+                      <p className="font-medium capitalize text-gray-600 text-sm">
                         iminsi{" "}
                         <b className="text-red-500">
                           {billing.status === "expired" ? "yose" : covedDays}
@@ -189,7 +181,7 @@ export default function Billing() {
                       <div className="w-full overflow-hidden bg-gray-200 rounded-full mb-0">
                         <div
                           style={{ width: Math.round((q / d) * 100) + "%" }}
-                          className=" rounded-full h-2 bg-gradient-to-r from-red-400 to-blue-500"
+                          className="rounded-full h-2 bg-[#0C8C7C]"
                         />
                       </div>
                     </div>
@@ -216,7 +208,7 @@ export default function Billing() {
                           <span className="mr-3 bg-primary bg-opacity-20 p-1 rounded-full">
                             <Check size={14} className="text-primary" />
                           </span>
-                          <p className="font-semibold text-[14px] text-gray-700">
+                          <p className="font-medium text-[14px] text-gray-700">
                             {i}
                           </p>
                         </div>

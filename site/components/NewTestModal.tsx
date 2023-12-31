@@ -4,7 +4,6 @@ import AppForm from "./forms/AppForm";
 import AppFormField from "./forms/AppFormField";
 import AppFormTags from "./forms/AppFormTag";
 import AppFormTextArea from "./forms/AppFormTextarea";
-import ClearButton from "./forms/ClearButton";
 import SubmitButton from "./forms/SubmitButton";
 import Modal from "./Modal";
 import * as Yup from "yup";

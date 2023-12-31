@@ -1,5 +1,5 @@
 import { useRouter } from "next/router";
-import { Fragment, useEffect } from "react";
+import { Fragment } from "react";
 import { useAuth } from "../context/authContext";
 import Footer from "./Footer";
 import LearnLayout from "./LearnLayout";
@@ -19,8 +19,8 @@ export const Layout = ({ children }: any) => {
           <Navbar />
           <div
             className={`${
-              router.pathname.split("/").includes("learn") ? "" : "pt-[60px]"
-            } sm:pt-[54px] min-h-[83vh] sm:pb-[10px] pb-[0px] `}
+              router.pathname.split("/").includes("learn") ? "" : "pt-[59px]"
+            } sm:pt-[50px] min-h-[83vh] sm:pb-[10px] pb-[0px] `}
           >
             {router.pathname.split("/").includes("auth") ? (
               <Fragment>{children}</Fragment>

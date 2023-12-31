@@ -1,5 +1,4 @@
 import { NextSeo } from "next-seo";
-import BreadCamps from "../components/breadCamps";
 
 export default function About() {
   return (

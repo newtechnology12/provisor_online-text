@@ -6,17 +6,20 @@ import Button from "../../components/Button";
 import Loader from "../../components/Loader";
 
 import { doc, onSnapshot } from "firebase/firestore";
-import { NextSeo } from "next-seo";
 import { useRouter } from "next/router";
 import Alert from "../../components/Alert";
 import Input from "../../components/Input";
 import Modal from "../../components/Modal";
-import Radio from "../../components/Radio";
 import { firestore, functions } from "../../config/firebase";
 import { useAuth } from "../../context/authContext";
 
 export default function Plans() {
   const [selectedPlan, setselectedPlan] = useState<any>();
+
+  const { user }: any = useAuth();
+
+  const router = useRouter();
+
   return (
     <Fragment>
       <div className="flex mb-5 mt-2 items-center justify-between">
@@ -84,7 +87,11 @@ export default function Plans() {
                     <div className="px-4- mt-8">
                       <Button
                         onClick={() => {
-                          setselectedPlan(e);
+                          if (user) {
+                            setselectedPlan(e);
+                          } else {
+                            router.push("/auth/login");
+                          }
                         }}
                       >
                         Gura {e.name}
@@ -411,12 +418,12 @@ function Pending({ setMode, paymentId }) {
       <div className="mb-5">
         <Loader primary />
       </div>
-      <h4 className=" font-bold text-base">Payment pending</h4>
-      <p className="text-gray-500 text-center mx-5 leading-8 mt-3 font-semibold text-sm">
+      <h4 className=" font-bold text-base">Kwishyura birategejwe.</h4>
+      <p className="text-gray-500 text-center mx-5 leading-8 mt-3 font-medium text-sm">
         Reba kuri telefoni yawe, maze ushyiremo umubare w&apos;ibanga wohereze.
         Niba ntacyo ubona muri telefoni yawe, kanda *182*7*1# kuri Phone.
       </p>
-      <p className="text-gray-400 text-center mx-5 leading-6 mt-3 font-bold text-base">
+      <p className="text-gray-400 text-center mx-5 leading-6 mt-3 font-medium text-base">
         {timer}
       </p>
     </div>

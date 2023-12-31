@@ -1,46 +1,44 @@
 import React, { Fragment, useEffect, useState } from "react";
 import Modal from "./Modal";
 import Button from "./Button";
-import { ArrowLeft, CheckCircle, ChevronLeft, Clock, X } from "react-feather";
+import { ArrowLeft, ArrowRight, CheckCircle, Clock, X } from "react-feather";
 import Radio from "./Radio";
+import { CircularProgressbar, buildStyles } from "react-circular-progressbar";
+import "react-circular-progressbar/dist/styles.css";
 
 export default function TestCard({ item }) {
   const [showTestModal, setshowTestModal] = useState(false);
   return (
     <>
       <div>
-        <div
-          onClick={() => setshowTestModal(true)}
-          className="border cursor-pointer bg-white shadow-sm- rounded-[3px] py-3 px-4 mb-0"
-        >
+        <div className="border bg-white shadow-sm- rounded-[3px] py-3 px-4 mb-0">
           <div className="flex flex-col h-full justify-between items-start">
             <div className="w-full">
               <div className="flex items-center mb-2 justify-between">
                 <h1 className="text-[13px] uppercase font-semibold text-gray-800">
-                  <a onClick={() => setshowTestModal(true)}>{item.name}</a>
+                  {item.name}
                 </h1>
                 {!item.free && (
                   <div>
-                    <div className="h-7 w-7 cursor-pointer rounded-full flex items-center justify-center border bg-orange-50 border-[#fca120]">
-                      <img className="h-4 w-4" src="/pro.png" />
+                    <div className="h-7 w-7 rounded-full flex items-center justify-center border bg-orange-50 border-[#fca120]">
+                      <img alt="" className="h-4 w-4" src="/pro.png" />
                     </div>
                   </div>
                 )}
               </div>
               <p className="font-medium text-sm text-slate-500 line-clamp-3 leading-8">
-                <a href="/tests/7">
-                  Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                  Accusamus.
-                </a>
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+                Accusamus.
               </p>
             </div>
-            <div className="w-full">
+            <div className="w-full flex items-center justify-between">
               <a
                 aria-current="page"
-                href="/browse?subject=undefined"
-                className="router-link-active router-link-exact-active text-[12.5px] flex mb-1 mt-3 w-fit capitalize px-3 py-1 border border-primary border-opacity-20 bg-primary bg-opacity-10 rounded-[2px] text-primary font-medium"
+                onClick={() => setshowTestModal(true)}
+                className="router-link-active cursor-pointer flex items-center gap-2 router-link-exact-active text-[12.5px] mb-1 mt-3 w-fit capitalize px-3 py-1 border border-[#0C8C7C] hover:bg-opacity-30 border-opacity-20 bg-[#0C8C7C] bg-opacity-10 rounded-[2px] text-[#0C8C7C] font-medium"
               >
-                Ibibazo: {item?.questions?.length}
+                <span>Tangira isuzuma</span>
+                <ArrowRight size={14} />
               </a>
             </div>
           </div>
@@ -48,9 +46,7 @@ export default function TestCard({ item }) {
       </div>
       {showTestModal && (
         <TestModal
-          questions={item.questions
-            .sort((a, b) => a.position - b.position)
-            .slice(0, 3)}
+          questions={item.questions.sort((a, b) => a.position - b.position)}
           id={item.id}
           onClose={() => {
             setshowTestModal(false);
@@ -94,6 +90,7 @@ function TestModal({ onClose, questions }: any) {
     setTimeout(() => {
       if (activeQuestion === questions.length) {
         setcompleted(true);
+        setloadingNext(false);
       } else {
         setloadingNext(false);
         handleActiveQ(activeQuestion + 1);
@@ -110,46 +107,82 @@ function TestModal({ onClose, questions }: any) {
 
   const [guesses, setGuesses] = useState(3);
 
+  const [showAnswerMode, setshowAnswerMode] = useState(false);
+
   return (
     <Modal
-      hAuto
+      // hAuto
       noPadding
       onClose={onClose}
       title="Isuzuma bumenyi"
-      size="xl"
+      size={completed && !showAnswerMode ? "md" : "xl"}
       Actions={() => {
-        return (
+        return completed && !showAnswerMode ? (
+          <></>
+        ) : (
           <Fragment>
             <Fragment>
-              <p className="font-semibold sm:hidden text-gray-500 text-sm">
+              <p
+                className={`font-medium sm:hidden text-gray-500 text-sm ${
+                  (showAnswerMode || completed) && "opacity-0"
+                }`}
+              >
                 <Fragment>
-                  Question {q?.position} of {questions.length}
+                  Ikibazo cya {q?.position} muri {questions.length}
                 </Fragment>
               </p>
               <div className="flex items-center sm:w-full sm:justify-between ">
-                <Fragment>
-                  {" "}
-                  <Button
-                    noRightIcon
-                    onClick={handlePrev}
-                    className="text-primary mr-3"
-                    non
-                    noIcon
-                    disabled={activeQuestion <= 1}
-                  >
-                    <ArrowLeft size={16} strokeWidth={3} className="mr-2" />
-                    <span>subira inyuma</span>
-                  </Button>
-                  <Button
-                    loading={loadingNext}
-                    disabled={!answers.find((e) => e?.id === q?.id)?.answer}
-                    onClick={() => {
-                      handleNext();
-                    }}
-                  >
-                    {activeQuestion === questions.length ? "Soza" : "Komeza"}
-                  </Button>
-                </Fragment>
+                {showAnswerMode ? (
+                  <>
+                    {" "}
+                    <Button
+                      onClick={() => {
+                        setactiveQuestion(1);
+                        setcompleted(false);
+                        setshowAnswerMode(false);
+                        setloadingNext(false);
+                        setTimer(1200);
+                        setanswers(
+                          questions.map((e) => {
+                            return {
+                              id: e.id,
+                            };
+                          })
+                        );
+                      }}
+                    >
+                      Subiramo umwitozo
+                    </Button>
+                  </>
+                ) : (
+                  <>
+                    <Fragment>
+                      {" "}
+                      <Button
+                        noRightIcon
+                        onClick={handlePrev}
+                        className="text-primary mr-3"
+                        non
+                        noIcon
+                        disabled={activeQuestion <= 1}
+                      >
+                        <ArrowLeft size={16} strokeWidth={3} className="mr-2" />
+                        <span>subira inyuma</span>
+                      </Button>
+                      <Button
+                        loading={loadingNext}
+                        disabled={!answers.find((e) => e?.id === q?.id)?.answer}
+                        onClick={() => {
+                          handleNext();
+                        }}
+                      >
+                        {activeQuestion === questions.length
+                          ? "Soza Ikizamini"
+                          : "Komeza Imbere"}
+                      </Button>
+                    </Fragment>
+                  </>
+                )}
               </div>
             </Fragment>
           </Fragment>
@@ -159,6 +192,9 @@ function TestModal({ onClose, questions }: any) {
         return (
           <div>
             <Quiz
+              isPractice={false}
+              showAnswerMode={showAnswerMode}
+              setshowAnswerMode={setshowAnswerMode}
               setGuesses={setGuesses}
               guesses={guesses}
               setactiveQuestion={setactiveQuestion}
@@ -195,6 +231,8 @@ function Quiz({
   q,
   guesses,
   setGuesses,
+  showAnswerMode,
+  setshowAnswerMode,
 }) {
   const loadMarks = () => {
     const total = quiz.questions.length;
@@ -205,8 +243,6 @@ function Quiz({
       percent: (passed * 100) / total,
     };
   };
-
-  const [showAnswerMode, setshowAnswerMode] = useState(false);
 
   return (
     <div>
@@ -235,30 +271,40 @@ function Quiz({
                 </div>
               ) : (
                 <div className="flex py-8 flex-col justify-center items-center">
-                  <img
-                    width={150}
-                    height={150}
+                  {/* <img
+                    width={70}
+                    height={70}
                     src={
                       loadMarks().percent < 70
-                        ? "/images/failed.svg"
-                        : "/images/test.svg"
+                        ? "/images/close.png"
+                        : "/images/success.png"
                     }
                     alt=""
-                  />
+                  /> */}
+                  <div className="h-24 w-24">
+                    <CircularProgressbar
+                      value={loadMarks().percent}
+                      text={`${loadMarks().passed}/${loadMarks().total}`}
+                      styles={buildStyles({
+                        textColor: loadMarks().percent < 65 ? "red" : "#0C8C7C",
+                        pathColor: loadMarks().percent < 65 ? "red" : "#0C8C7C",
+                      })}
+                    />
+                  </div>
                   <h4 className="text-base mt-6">
                     {loadMarks().percent < 65
-                      ? "watsizwe subiramo"
-                      : "watsinze umwitozo"}
+                      ? "Watsizwe subiramo"
+                      : "Watsinze umwitozo"}
                   </h4>
-                  <p className="max-w-xs my-2 text-center leading-7 text-sm font-semibold text-gray-500">
+                  <p className="max-w-xs my-2 text-center leading-7 text-sm font-medium text-gray-500">
                     Urakoze gukora isuzuma bumenyi. kana hasi aho kurisubiramo.
                   </p>
 
-                  <div className="border-2 my-2 border-gray-200 font-bold text-gray-500 rounded-full p-3">
+                  {/* <div className="border-2 my-2 border-gray-200 font-bold text-gray-500 rounded-full p-3">
                     <span>{loadMarks().passed}</span>
                     <span>/</span>
                     <span>{loadMarks().total}</span>
-                  </div>
+                  </div> */}
                   <div className="flex items-center">
                     <Button
                       onClick={() => {
@@ -274,15 +320,15 @@ function Quiz({
                           })
                         );
                       }}
-                      className="mt-2"
+                      className="mt-2 !bg-[#0C8C7C]"
                     >
-                      Subiramo
+                      Subiramo Umwitozo
                     </Button>
                     <Button
                       onClick={() => {
                         setshowAnswerMode(true);
                       }}
-                      className="mt-2 bg-orange-500 ml-3"
+                      className="mt-2  ml-3"
                     >
                       Reba ibisubizo
                     </Button>
@@ -316,7 +362,7 @@ function Quiz({
 
 function Answer({ question, answer }) {
   return (
-    <div className="border-b border-l-2 text-sm leading-8 border-gray-200 last:border-b-0 p-4 first:pt-0">
+    <div className="border-b border-l-2 text-sm leading-8 border-gray-200 last:border-b-0 pt-2 p-4 first:pt-0">
       <div className="flex items-center my-1 justify-between">
         <h4>
           <span>{question.position}) </span>
@@ -331,7 +377,7 @@ function Answer({ question, answer }) {
         />
       )}
 
-      <div className="flex flex-col justify-start">
+      <div className="flex flex-col mt-2  justify-start">
         {question.options.map((i, index) => {
           return (
             <span
@@ -341,8 +387,8 @@ function Answer({ question, answer }) {
                   ? "text-green-500 font-bold "
                   : i === answer.answer && answer.answer !== question.answer
                   ? "text-red-500 "
-                  : "text-gray-500 font-semibold"
-              } text-sm flex items-center  py-3`}
+                  : "text-gray-500 font-medium"
+              } text-sm flex capitalize first-of-type:rounded-t hover:bg-slate-50 last-of-type:rounded-b border border-b-0 last-of-type:border-b border-slate-200 px-3 items-center  py-3`}
             >
               {i}
               <div className="ml-4">
@@ -395,6 +441,7 @@ function Question({ q, setanswers, answers, isPractice, guesses, setGuesses }) {
           <div className="py-2">
             {q.photo && q.photo !== "" && (
               <img
+                alt=""
                 src={q.photo}
                 className="max-w-xs mb-5 border border-gray-200 rounded-md h-52 bg-gray-100"
               />

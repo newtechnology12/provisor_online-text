@@ -1,6 +1,7 @@
 var Paypack = require("paypack-js");
 import * as functions from "firebase-functions";
 import * as admin from "firebase-admin";
+import { Timestamp, FieldValue } from "firebase-admin/firestore";
 
 admin.initializeApp();
 
@@ -19,8 +20,8 @@ exports.onUserCreated = functions.auth.user().onCreate((user) => {
       username: user?.displayName || "",
       photo: user?.photoURL || "",
       phone: user?.phoneNumber || "",
-      createdAt: admin.firestore.FieldValue.serverTimestamp(),
-      updatedAt: admin.firestore.FieldValue.serverTimestamp(),
+      createdAt: FieldValue.serverTimestamp(),
+      updatedAt: FieldValue.serverTimestamp(),
     });
 });
 
@@ -30,7 +31,6 @@ exports.onUserDeleted = functions.auth.user().onDelete((user) => {
 
 exports.makeSubscriptionPayment = functions.https.onCall(
   async (data, context) => {
-    console.log(data);
     if (context.auth && data.plan && data.phone) {
       if (context.auth && data.plan && data.phone) {
         const getAmount = (plan: any) => {
@@ -61,8 +61,8 @@ exports.makeSubscriptionPayment = functions.https.onCall(
                 transactionRef: e?.data?.ref,
                 plan: data.plan,
                 status: "pending",
-                createdAt: admin.firestore.FieldValue.serverTimestamp(),
-                updatedAt: admin.firestore.FieldValue.serverTimestamp(),
+                createdAt: FieldValue.serverTimestamp(),
+                updatedAt: FieldValue.serverTimestamp(),
                 user: {
                   id: user.uid,
                   phone: user?.token?.phone_number || data.phone,
@@ -76,7 +76,6 @@ exports.makeSubscriptionPayment = functions.https.onCall(
               });
           })
           .catch((e: any) => {
-            console.log(e);
             throw new functions.https.HttpsError("aborted", e.message);
           });
       } else {
@@ -126,10 +125,6 @@ exports.paymentWebhook = functions.https.onRequest(
               ? new Date(d.setDate(d.getDate() + 7))
               : plan === "monthly"
               ? new Date(d.setMonth(d.getMonth() + 1))
-              : plan === "3-month"
-              ? new Date(d.setDate(d.getDate() + 90))
-              : plan === "2-weeks"
-              ? new Date(d.setDate(d.getDate() + 14))
               : plan === "daily"
               ? new Date(d.setDate(d.getDate() + 1))
               : new Date();
@@ -138,9 +133,9 @@ exports.paymentWebhook = functions.https.onRequest(
           batch.set(
             admin.firestore().doc(`/subscriptions/${payment.user.id}`),
             {
-              start: admin.firestore.Timestamp.fromDate(new Date()),
-              end: admin.firestore.Timestamp.fromDate(getEndDate(payment.plan)),
-              createdAt: admin.firestore.FieldValue.serverTimestamp(),
+              start: Timestamp.fromDate(new Date()),
+              end: Timestamp.fromDate(getEndDate(payment.plan)),
+              createdAt: FieldValue.serverTimestamp(),
               status: "active",
               plan: payment.plan,
               user: {
@@ -161,7 +156,7 @@ exports.paymentWebhook = functions.https.onRequest(
             .firestore()
             .doc(`/subscriptions/${payment.user.id}/payments/${payment.id}`),
           {
-            updatedAt: admin.firestore.FieldValue.serverTimestamp(),
+            updatedAt: FieldValue.serverTimestamp(),
             status:
               status === "successful"
                 ? "paid"

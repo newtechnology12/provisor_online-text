@@ -23,7 +23,7 @@ export default function Page500() {
         </div>
         <p
           style={{ maxWidth: "350px" }}
-          className="text-sm text-gray-600 font-semibold mx-auto mb-2"
+          className="text-sm text-gray-600 font-medium mx-auto mb-2"
         >
           The server side error has occured
         </p>
