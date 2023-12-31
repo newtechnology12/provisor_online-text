@@ -18,7 +18,7 @@ export default function Home() {
             "Uburyo bwa mbere bworoshye bwo kwigira provisoire mu Rwanda!.",
           images: [
             {
-              url: "/images/og.PNG",
+              url: "",
               width: 800,
               height: 420,
               alt: "Uburyo bwa mbere bworoshye bwo kwigira provisoire mu Rwanda!.",
