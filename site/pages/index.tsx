@@ -73,8 +73,9 @@ export default function Home() {
               Urubuga rwo kwigiraho rwizewe
             </h2>
             <p className="text-base leading-7 text-gray-500 mt-4">
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-              Repellendus <br /> repellat laudantium.
+              Infinity drive yafashije abantu benshi, harimo Abanyeshuri,
+              <br />
+              abashoferi n' abandi bensi.
             </p>
           </div>
         </div>
@@ -163,8 +164,8 @@ export default function Home() {
               Ukeneye ubufasha?
             </h2>
             <p className="mt-3 text-base leading-7 max-w-xl text-gray-500">
-              Nullam risus blandit ac aliquam justo ipsum. Quam mauris volutpat
-              massa dictumst amet. Sapien tortor lacus arcu.
+              Niba ufite icyibazo cyangwa ukeneye ubufasha turahari igihe cyose.
+              twandikire cg uduhamare tugufashe nonaho.
             </p>
             <dl className="mt-8 text-base text-gray-500">
               <div>

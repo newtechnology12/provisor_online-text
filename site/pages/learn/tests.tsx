@@ -14,7 +14,7 @@ export default function Tests() {
             Amasomo yo kwiga
           </h2>
           <p className="text-[15px] leading-7 sm:hidden font-medium text-gray-500">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+            Hitamo isuzuma Umenye niba witeguye gukora ikizamini.
           </p>
         </div>
       </div>

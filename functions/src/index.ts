@@ -35,11 +35,11 @@ exports.makeSubscriptionPayment = functions.https.onCall(
       if (context.auth && data.plan && data.phone) {
         const getAmount = (plan: any) => {
           return plan === "weekly"
-            ? 2000
+            ? 1500
             : plan === "monthly"
             ? 5000
             : plan === "daily"
-            ? 500
+            ? 300
             : 100000;
         };
         const user = context.auth;

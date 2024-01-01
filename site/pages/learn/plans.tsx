@@ -27,15 +27,15 @@ export default function Plans() {
           <h2 className="mb-1 text-[17px] capitalize sm:mb-0">
             Amafatabuguzi dutanga.
           </h2>
-          <p className="text-[15px] leading-7 sm:hidden font-medium text-gray-500">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+          <p className="text-[15px] leading-7 mt-2 sm:hidden font-medium text-gray-500">
+            Dufite Amafatabuguzi ubwoko bwinshi kandi kugiciro cyiza.
           </p>
         </div>
       </div>
       <div className="grid grid-cols-3 sm:grid-cols-1 gap-4">
         {[
           {
-            price: 500,
+            price: 300,
             name: "umunsi",
             duration: "daily",
             features: [
@@ -45,7 +45,7 @@ export default function Plans() {
             ],
           },
           {
-            price: 3000,
+            price: 1500,
             name: "icyumweru",
             duration: "weekly",
             features: [
@@ -74,7 +74,7 @@ export default function Plans() {
                       {e.name}
                     </div>
                     <p className="text-[15px] pb-2 leading-7 font-medium= text-slate-500">
-                      All the basics for starting a <br /> new business
+                      Gura ifatabuguzi ry' {e.name} ubashe kwiga bikoroheye.
                     </p>
                     <div className="flex !mb-3 items-center gap-2">
                       <span className="font-bold text-xl">

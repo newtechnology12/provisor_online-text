@@ -36,8 +36,7 @@ export default function TestCard({ item }) {
                 )}
               </div>
               <p className="font-medium text-sm text-slate-500 line-clamp-3 leading-8">
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                Accusamus.
+                Menya niba witeguye gukora ikizamini cy’amategeko y’umuhanda.
               </p>
             </div>
             <div className="w-full flex items-center justify-between">
