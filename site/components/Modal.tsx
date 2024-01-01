@@ -10,6 +10,7 @@ export default function Modal({
   size,
   noPadding,
   hAuto,
+  noBorder,
   ...other
 }: any) {
   useEffect(() => {
@@ -20,7 +21,7 @@ export default function Modal({
   }, []);
   return (
     <div
-      className={` z-[10000] flex items-center transition-all justify-center= pt-10 overflow-hidden fixed flex-col bottom-0 left-0 right-0 top-0`}
+      className={`z-[10000] flex items-center transition-all justify-center= pt-10 overflow-hidden fixed flex-col bottom-0 left-0 right-0 top-0`}
     >
       <div
         className="cursor-pointer bottom-0 left-0 absolute right-0 top-0"
@@ -43,7 +44,11 @@ export default function Modal({
       >
         <div className="relative w-full max-w-full flex-col rounded-[4px] overflow-hidden flex">
           {title && (
-            <div className="flex justify-between sm:rounded-tl-none sm:rounded-tr-none bg-white  bg-gray-950 items-center rounded-tr-[4px] rounded-tl-[4px] px-4 py-[12px] sm:px-3 border-b  flex-shrink-0 relative border-gray-200">
+            <div
+              className={`flex justify-between sm:rounded-tl-none sm:rounded-tr-none bg-white  bg-gray-950 items-center rounded-tr-[4px] rounded-tl-[4px] px-4 py-[12px] sm:px-3   flex-shrink-0 relative ${
+                !noBorder && "border-b border-gray-200"
+              }`}
+            >
               <h4 className="font-bold capitalize text-[14px] text-gray-800">
                 {title}
               </h4>
@@ -67,7 +72,11 @@ export default function Modal({
           </div>
 
           {Actions && (
-            <div className="bg-gray-950 items-center bg-white  py-3 px-4 justify-between flex relative border-t border-gray-200 rounded-br-[4px] rounded-bl-[4px]  sm:rounded-br-[0px] sm:rounded-bl-[0px]">
+            <div
+              className={`items-center  py-3 px-4 justify-between bg-white flex relative rounded-br-[4px] rounded-bl-[4px]  sm:rounded-br-[0px] sm:rounded-bl-[0px] ${
+                !noBorder && "border-t border-gray-200"
+              }`}
+            >
               <Actions />
             </div>
           )}

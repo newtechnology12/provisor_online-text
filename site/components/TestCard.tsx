@@ -7,6 +7,7 @@ import { CircularProgressbar, buildStyles } from "react-circular-progressbar";
 import "react-circular-progressbar/dist/styles.css";
 import { useAuth } from "../context/authContext";
 import { useRouter } from "next/router";
+import TestModalInfo from "./TestInfoModal";
 
 export default function TestCard({ item }) {
   const [showTestModal, setshowTestModal] = useState(false);
@@ -59,6 +60,7 @@ export default function TestCard({ item }) {
       </div>
       {showTestModal && (
         <TestModal
+          test={item}
           questions={item.questions.sort((a, b) => a.position - b.position)}
           id={item.id}
           onClose={() => {
@@ -70,7 +72,7 @@ export default function TestCard({ item }) {
   );
 }
 
-function TestModal({ onClose, questions }: any) {
+function TestModal({ onClose, questions, test }: any) {
   const [activeQuestion, setactiveQuestion] = useState(1);
   const [loadingNext, setloadingNext] = useState(false);
 
@@ -122,7 +124,18 @@ function TestModal({ onClose, questions }: any) {
 
   const [showAnswerMode, setshowAnswerMode] = useState(false);
 
-  return (
+  const [showInstructions, setshowInstructions] = useState(true);
+
+  return showInstructions ? (
+    <TestModalInfo
+      onClose={() => {
+        setshowInstructions(false);
+        onClose();
+      }}
+      handleStart={() => setshowInstructions(false)}
+      test={{ name: test.name }}
+    />
+  ) : (
     <Modal
       // hAuto
       noPadding

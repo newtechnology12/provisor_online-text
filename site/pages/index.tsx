@@ -54,8 +54,8 @@ export default function Home() {
               >
                 <img alt="" className="h-16" src={i.image} />
                 <div className="flex-1 sm:mt-0 mt-2">
-                  <h4 className="text-[15px] sm:py-2 sm:text-sm">{i.title}</h4>
-                  <p className="text-sm max-w-xl px-4- line-clamp-2 leading-7 font-medium text-gray-500 mt-2">
+                  <h4 className="text-[16px] sm:py-2 sm:text-sm">{i.title}</h4>
+                  <p className="text-[15px] max-w-xl px-4- line-clamp-2 leading-8 font-medium text-gray-500 mt-2">
                     {i.description}
                   </p>
                 </div>

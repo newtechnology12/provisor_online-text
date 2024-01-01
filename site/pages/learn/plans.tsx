@@ -55,7 +55,7 @@ export default function Plans() {
             ],
           },
           {
-            name: "ukwezi 1",
+            name: "ukwezi",
             duration: "monthly",
             price: 5000,
             features: [
@@ -76,12 +76,12 @@ export default function Plans() {
                     <p className="text-[15px] pb-2 leading-7 font-medium= text-slate-500">
                       All the basics for starting a <br /> new business
                     </p>
-                    <div className="flex !mb-3 gap-2">
+                    <div className="flex !mb-3 items-center gap-2">
                       <span className="font-bold text-xl">
                         {e.price.toLocaleString()} FRW
                       </span>
-                      <span className="font-medium text-slate-500">
-                        /umunsi
+                      <span className="font-medium text-[14px] capitalize text-slate-500">
+                        /{e.name}
                       </span>
                     </div>
                     <div className="px-4- mt-8">
