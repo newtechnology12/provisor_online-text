@@ -1,0 +1,900 @@
+
+![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.001.png)
+|IKINYARWANDA|
+| :- |
+|<p>1\. Ikinyabiziga cyose cyangwa ibinyabiziga bigenda bigomba kugira:</p><p>**(a) Umuyobozi**</p><p>b) Umuherekeza</p><p>c) A na B ni ibisubizo by’ukuri</p><p>d) Nta gisubizo cy’ukuri kirimo</p>|
+|<p>2\. Ijambo “akayira” bivuga inzira nyabagendwa ifunganye yagenewe gusa:</p><p>a) Abanyamaguru</p><p>b) Ibinyabiziga bigendera ku biziga bibiri</p><p>**(c) A na B ni ibisubizo by’ukuri**</p><p>d) Nta gisubizo cy’ukuri kirimo</p>|
+|<p>3\. Umurongo uciyemo uduce umenyesha ahegereye umurongo ushobora kuzuzwa n’uturanga gukata tw’ibara ryera utwo turanga cyerekezo tumenyesha :</p><p>a) Igisate cy’umuhanda abayobozi bagomba gukurikira</p><p>b) Ahegereye umurongo ukomeje</p><p>**(c) Igabanurwa ry’umubare w’ibisate by’umuhanda mu cyerekezo bajyamo**</p><p>d) A na C nibyo</p>|
+|<p>4\. Ahantu ho kugendera mu muhanda herekanwa n’ibimenyetso bimurika ibinyabiziga ntibishobora kuhagenda :</p><p>a) Biteganye</p><p>b) Ku murongo umwe</p><p>c) A na B nibyo</p><p>**(d) Nta gisubizo cy’ukuri kirimo**</p>|
+|<p>5\. Ibinyabiziga bikurikira bigomba gukorerwa isuzumwa buri mwaka:</p><p>a) Ibinyabiziga bigenewe gutwara abagenzi muri rusange</p><p>b) Ibinyabiziga bigenewe gutwara ibintu birengeje toni 3.5</p><p>c) Ibinyabiziga bigenewe kwigisha gutwara</p><p>**(d) Nta gisubizo cy’ukuri kirimo**</p>|
+
+
+
+![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.002.png)
+
+
+|<p>6\. Ubugari bwa romoruki ikuruwe n’ikinyamitende itatu ntibugomba kurenza ibipimo bikurikira:</p><p>a) cm75</p><p>b) cm125</p><p>c) cm265</p><p>**(d) Nta gisubizo cy’ukuri**</p>|
+| :- |
+|<p>7\. Uburebure bw’ibinyabiziga bikurikira ntibugomba kurenga metero 11 :</p><p>a) Ibifite umutambiko umwe uhuza imipira</p><p>b) Ibifite imitambiko ibiri ikurikiranye mu bugari bwayo</p><p>c) Makuzungu</p><p>**(d) Nta gisubizo cy’ukuri**</p>|
+|<p>8\. Ikinyabiziga kibujijwe guhagarara akanya kanini aha hakurikira :</p><p>a) Ahatarengeje metero 1 imbere cyangwa inyuma y’ikinyabiziga gihagaze akanya gato cyangwa kanini :</p><p>b) Ahantu hari ibimenyetso bibuza byabugenewe</p><p>c) Aho abanyamaguru banyura mu muhanda ngo bakikire inkomyi</p><p>**(d) Ibisubizo byose nibyo**</p>|
+|<p>9\. Kunyuranaho bikorerwa:</p><p>a) Mu ruhande rw’iburyo gusa</p><p>b) Igihe cyose ni ibumoso</p><p>c) Iburyo iyo unyura ku nyamaswa</p><p>**(d) Nta gisubizo cy’ukuri kirimo**</p>|
+|<p>10\. Icyapa cyerekana umuvuduko ntarengwa ikinyabiziga kitagomba kurenza gishyirwa gusa ku binyabiziga bifite uburemere ntarengwa bukurikira:</p><p>a) Burenga toni 1</p> <p>b) Burenga toni 2</p><p>c) Burenga toni 24</p><p>**(d) Nta gisubizo cy’ukuri kirimo**</p>|
+
+
+ 
+| :- |
+|<p>11\. Ahatari mu nsisiro umuvuduko ntarengwa mu isaha wa velomoteri ni:</p><p>**(a) Km50**</p><p>b) Km40</p><p>c) Km30</p><p>d) Nta gisubizo cy’ukuri</p>|
+|<p>12\. Umuyobozi ugenda mu muhanda igihe ubugari bwawo budatuma anyuranaho nta nkomyi ashobora kunyura mu kayira k’abanyamaguru ariko amaze kureba ibi bikurikira:</p><p>a) Umuvuduko w’abanyamaguru</p><p>b) Ubugari bw’umuhanda</p><p>c) Umubare w’abanyamaguru</p><p>**(d) Nta gisubizo cy’ukuri kirimo**</p>|
+|<p>13\. Ku byerekeye kwerekana ibinyabiziga n’ukumurika kwabyo ndetse no kwerekana ihindura ry’ibyerekezo byabyo. Birabujijwe gukora andi matara cyangwa utugarurarumuri uretse ibitegetswe ariko ntibireba amatara akurikira:</p><p>a) Amatara ndanga</p><p>**(b) Amatara ari imbere mu modoka**</p><p>c) Amatara ndangaburambarare</p><p>d) Ibisubizo byose nibyo</p>|
+|<p>14\. Iyo nta mategeko awugabanya by’umwihariko umuvuduko ntarengwa w’amapikipiki mu isaha ni:</p><p>a) Km25 </p><p>b)Km70</p><p>c) Km40</p><p>**(d) Nta gisubizo cy’ukuri kirimo**</p>|
+|<p>15\. Uburyo bukoreshwa kugirango ikinyabiziga kigende gahoro igihe feri idakora neza babwita:</p><p>a) Feri y’urugendo</p> <p>b) Feri yo guhagarara umwanya munini</p><p>**(c) Feri yo gutabara**</p><p>d) Nta gisubizo cy’ukuri kirimo</p>|
+
+
+
+| :- |
+|<p>16\. Nibura ikinyabiziga gitegetswe kugira uduhanagurakirahure tungahe:</p><p>a) 2</p><p>b) 3</p><p>**(c) 1**</p><p>d) Nta gisubizo cy’ukuri kirimo</p>|
+|<p>17\. Amatara maremare y’ikinyabiziga agomba kuzimwa mu bihe bikurikira:</p><p>a) Iyo umuhanda umurikiye umuyobozi abasha kureba muri metero 20</p><p>**(b) Iyo ikinyabiziga kigiye kubisikana n’ibindi**</p><p>c) Iyo ari mu nsisiro</p><p>d) Ibisubizo byose ni ukuri</p>|
+|<p>18\. Ikinyabiziga ntigishobora kugira amatara arenga abiri y’ubwoko bumwe keretse kubyerekeye amatara akurikira:</p><p>a) Itara ndangamubyimba</p><p>b) Itara ryerekana icyerekezo</p><p>c) Itara ndangaburumbarare</p><p>**(d) Ibisubizo byose ni ukuri**</p>|
+|<p>19\. Ubugari bwa romoruki ikuruwe n’igare cyangwa velomoteri ntiburenza ibipimo bikurikira:</p><p>a) cm25</p><p>b) cm125</p><p>c) cm45</p><p>**(d) Nta gisubizo cy’ukuri kirimo**</p>|
+|<p>20\. Ibinyabiziga bikoreshwa nka tagisi, bitegerereza abantu mu nzira nyabagendwa, bishobora gushyirwaho itara ryerekana ko ikinyabiziga kitakodeshejwe. Iryo tara rishyirwaho ku buryo bukurikira:</p><p>**(a) Ni itara ry’icyatsi rishyirwa imbere ku kinyabiziga**</p><p>b) Ni itara ry’icyatsi rishyirwa ibumoso</p><p>c) Ni itara ry’umuhondo rishyirwa inyuma</p><p>d) A na C ni ibisubizo by’ukuri</p>|
+
+
+
+|<p>21\. Za otobisi zagenewe gutwara abanyeshuri zishobora gushyirwaho amatara abiri asa n’icunga rihishije amyasa kugirango yerekane ko zihagaze no kwerekana ko bagomba kwitonda, ayo matara ashyirwaho ku buryo bukurikira :</p><p>a) Amatara abiri ashyirwa inyuma</p><p>b) Amatara abiri ashyirwa imbere</p><p>**(c) Rimwe rishyirwa imbere irindi inyuma**</p><p>d) b na c ni ibisubizo by’ukuri</p>|
+| :- |
+|<p>22\. Itara ryo guhagarara ry’ibara ritukura rigomba kugaragara igihe ijuru rikeye nibura mu ntera ikurikira:</p><p>a) Metero 100 ku manywa na metero 20 mu ijoro</p><p>b) Metero 150 ku manywa na metero50 mu ijoro</p><p>c) Metero 200 ku manywa na metero100 mu ijoro</p><p>**(d) Nta gisubizo cy’ukuri kirimo**</p>|
+|<p>23\. Iyo umuvuduko w’ibinyabiziga bidapakiye ushobora kurenga km50 mu isaha ahategamye, bigomba kuba bifite ibikoresho by’ihoni byumvikanira mu ntera:</p><p>a) Metero 100</p><p>b) Metero 200</p><p>**(c) Metero 50**</p><p>d) Metero 150</p>|
+|<p>24\. Birabujijwe kugenza ibinyabiziga bigendeshwa na moteri naza romoruki zikururwa nabyo, iyo ibiziga byambaye inziga zidahagwa cyangwa inziga zikururuka zifite umubyimba uri hasi ya cm 4. Ariko ibyo ntibikurikizwa kubinyabiziga bikurikira:</p><p>a) Ku binyabiziga by’ingabo bijya ahatarenga km25</p><p>b) Ibinyabiziga bihinga</p><p>c) Ibinyabiziga bya police</p><p>**(d) Nta gisubizo cy’ukuri kirimo**</p>|
+|25\. Igice cy'inzira nyabagendwa kigarukira ku mirongo ibiri yera icagaguye ibangikanye kandi gifite ubugari budahagije kugira ngo <p>imodoka zitambuke neza, kiba ari:</p><p>a) Ahanyurwa n’amagare na velomoteri</p><p>b) Ahanyurwa n’ingorofani</p><p>**(c) Ahanyurwa n’ibinyamitende**</p><p>d) Nta gisubizo cy’ukuri kirimo</p>|
+
+
+ 
+| :- |
+|<p>26\. Ubugari bwa romoruki ntiburenza ubugari bw’ikinyabiziga kiyikurura iyo ikuruwe n’ibinyabiziga bikurikira:</p><p>a) Igare</p><p>b) Velomoteri</p><p>**(c) Ipikipiki ifite akanyabiziga kometse ku ruhande rwayo**</p><p>d) Nta gisubizo cy’ukuri kirimo</p>|
+|<p>27\. Iyo hatarimo indi myanya birabujijwe gutwara ku ntebe y’imbere y’imodoka abana badafite imyaka:</p><p>a) Imyaka 10</p><p>**(b) Imyaka 12**</p><p>c) Imyaka 7</p><p>d) Ntagisubizo cy’ukuri kirimo</p>|
+|<p>28\. Icyapa kivuga gutambuka mbere y’ibinyabiziga biturutse imbere gifite amabara akurikira:</p><p>a) Ubuso ni umweru</p><p>b) Ikirango ni umutuku n’umukara</p><p>c) Ikirango ni umweru n’umukara</p><p>**(d) Nta gisubizo cy’ukuri kirimo**</p>|
+|<p>29\. Ni ryari itegeko rigenga gutambuka mbere kw’iburyo rikurikizwa mu masangano:</p><p>a) Iyo nta cyapa cyo gutambuka mbere gihari</p><p>b) Iyo ikimenyetso kimurika cyagenewe ibinyabiziga kidakora</p><p>**(c) A na B ni ibisubizo by’ukuri**</p>|
+
+
+
+|d) Nta gisubizo cy’ukuri|
+| :- |
+|<p>30\. Ibimenyetso bimurika byerekana uburyo bwo kugendera mu muhanda kw'ibinyabiziga bishyirwa iburyo bw'umuhanda) Ariko bishobora no gushyirwa ibumoso cyangwa hejuru y’umuhanda:</p><p>a) Hakurikijwe icyerekezo abagenzi bireba baganamo</p><p>b) Hakurikijwe icyo ibyo bimenyetso bigamije kwerekana</p><p>**(c) Kugirango birusheho kugaragara neza**</p><p>d) Ibisubizo byose ni ukuri</p>|
+|<p>31\. Iyo itara ry’umuhondo rimyatsa rikoreshejwe mu masangano y’amayira ahwanyije agaciro rishyirwa ahagana he:</p><p>a) Kuri buri nzira</p><p>b) Hagati y’amasangano</p><p>c) Iburyo bw’amasangano</p><p>**(d) a na b ni ibisubizo by’ ukuri**</p>|
+|<p>32\. Inkombe z’inzira nyabagendwa cyangwa z’umuhanda zishobora kugaragazwa n’ibikoresho ngarurarumuri. Ibyo bikoresho bigomba gushyirwaho ku buryo abagenzi babibona :</p><p>a) Babona gusa ibumoso bwabo iby’ibara ritukura</p><p>b) Iburyo babona iby’ibara risa n’icunga rihishije gusa</p><p>c) Babona iby’ibara ry’umuhondo ibumoso</p><p>**(d) Nta gisubizo cy’ukuri kirimo**</p>|
+|<p>33\. Ibinyabiziga bikurikira bigomba gukorerwa isuzumwa rimwe mu mezi 6:</p><p>a) Ibinyabiziga bitwara abagenzi muri rusange</p><p>b) Ibinyabiziga bigenewe gutwara ibintu birengeje toni 3.5</p><p>c) Ibinyabiziga bigenewe kwigisha gutwara</p><p>**(d) Ibisubizo byose ni ukuri**</p>|
+|<p>34\. Iyo kuyobya umuhanda ari ngombwa bigaragazwa kuva aho uhera no kuburebure bwawo n’icyapa gifite ubuso bw’amabara akurikir a:</p><p>**(a) Ubururu**</p><p>b) Umweru</p><p>c) Umutuku</p><p>d) Nta gisubizo cy’ukuri</p>|
+
+
+
+|<p>35\. Ku mihanda ibyapa bikurikira bigomba kugaragazwa ku buryo bumwe:</p><p>a) Ibyapa biyobora n’ibitegeka</p><p>b) Ibyapa biburira n’ibitegeka</p><p>**(c) Ibyapa bibuza n’ibitegeka**</p><p>d) Nta gisubizo cy’ukuri kirimo</p>|
+| :- |
+|<p>36\. Ni iyihe feri ituma imodoka igenda buhoro kandi igahagarara ku buryo bwizewe bubangutse kandi nyabwo, uko imodoka yaba yikoreye kose yaba igeze ahacuramye cyangwa ahaterera:</p><p>**(a) Feri y’urugendo**</p><p>b) Feri yo gutabara</p><p>c) Feri yo guhagarara umwanya munini</p><p>d) Nta gisubizo cy’ukuri kirimo</p>|
+|<p>37\. Ibizirikisho by’iminyururu cyangwa by’insinga kimwe n’ibindi by’ingoboka bikoreshwa gusa igihe nta kundi umuntu yabigenza kandi nta kindi bigiriwe uretse gusa kugirango ikinyabiziga kigere aho kigomba gukorerwa kandi nturenze na rimwe km 20 mu isaha, ibyo bizirikisho bigaragazwa ku buryo bukurikira:</p><p>a) Agatambaro gatukura kuri cm 50 z’umuhanda</p><p>b) Ikimenyetso cy’itara risa n’icunga rihishije</p><p>c) Icyapa cyera cya mpande enye zingana gifite cm 20 kuri buri ruhande</p><p>**(d) Nta gisubizo cy’ukuri kirimo**</p>|
+|<p>38\. Uretse mu mujyi, ku yindi mihanda yajyenwe na minisitiri ushinzwe gutwara abantu n’ibintu, uburemere ntarengwa ku binyabiziga bifite imitambiko itatu cyangwa irenga hatarimo makuzungu ni :</p><p>a) Toni 10</p><p>b) Toni 12</p><p>**(c) Toni 16**</p><p>d) Toni 24</p>|
+|<p>39\. Ubugari bw’imizigo yikorewe n’ibinyamitende itatu n’ubwiyikorewe n’ibinyamitende 4 bifite cyangwa bidafite moteri kimwe n’ubw’iyikorewe na romuruki zikuruwe n’ibyo binyabiziga ntibushobora kurenga ibipimo bikurikira:</p><p>a) cm 30 ku bugari bw’icyo kinyabiziga kidapakiye</p> <p>b) Ubugari ntarengwa budakuka ni metero 2 na sentimetero 50</p><p>**(c) A na B ni ibisubizo by’ukuri**</p><p>d) Nta gisubizo cy’ukuri kirimo</p>|
+
+
+ 
+| :- |
+|<p>40\. Kunyura ku binyabiziga bindi, uretse icy’ibiziga bibiri, bibujijwe aha hakurikira:</p><p>a) Hafi y’iteme iyo hari umuhanda ufunganye</p><p>b) Hafi y’aho abanyamaguru banyura</p><p>c) Hafi y’ibice by’umuhanda bimeze nabi</p><p>**(d) Ibi bisubizo byose ni ukuri**</p>|
+|<p>41\. Iyo nta mategeko awugabanya by’umwihariko, umuvuduko ntarengwa ku modoka zitwara abagenzi mu buryo bwa rusange ni:</p><p>**(a) Km 60 mu isaha**</p><p>b) Km 40 mu isaha</p><p>c) Km 25 mu isaha</p><p>d) Km20 mu isaha</p>|
+|<p>42\. Iyo nta mategeko awugabanya by’umwihariko, umuvuduko ntarengwa ku modoka zikoreshwa nk’amavatiri y’ifasi cyangwa amatagisi zifite uburemere bwemewe butarenga kilogarama 3500 ni:</p><p>a) Km 60 mu isaha</p><p>b) Km 40 mu isaha</p><p>**(c) Km 75 mu isaha**</p><p>d) Km20 mu isaha</p>|
+|<p>43\. Ikinyabiziga kibujijwe guhagarara akanya kanini aha hakurikira :</p><p>a) Imbere y’ahantu hinjirwa hakasohokerwa n’abantu benshi</p><p>b) Mu muhanda aho ugabanyijemo ibisate bigaragazwa n’imirongo idacagaguye</p><p>**(c) A na B ni ibisubizo by’ukuri**</p><p>d) Nta gisubizo cy’ukuri kirimo</p>|
+|<p>44\. Iyo bwije kugeza bukeye cyangwa bitewe n’uko ibihe bimeze nk’igihe cy’ibihu cyangwa cy’imvura bitagishoboka kubona neza muri m 200, udutsiko twose tw’abanyamaguru nk’imperekerane cyangwa udutsiko tw’abanyeshuri bari ku murongo bayobowe n’umwarimu, iyo bagenda mu muhanda ku isonga hakaba hari abantu barenze umwe bagomba kugaragazwa kuburyo bukurikira :</p><p>a) Imbere ni itara ry’umuhondo ritwariwe ibumoso</p><p>b) Inyuma ni itara ryera ritwariwe ibumoso n’umuntu uri ku murongo w’inyuma hafi y’umurongo ugabanya umuhanda mo kabiri</p> <p>c) A na B ni ibisubizo by’ukuri</p><p>**(d) Nta gisubizo cy’ukuri kirimo**</p>|
+
+
+ 
+| :- |
+|<p>45\. Utuyira turi ku mpande z’umuhanda n’ inkengero zigiye hejuru biharirwa abanyamaguru mu bihe bikurikira:</p><p>a) Iyo hari amategeko yihariye yerekanwa n’ibimenyetso</p><p>b) Iyo badatatanye kandi bayobowe n’umwarimu</p><p>**(c) Iyo hatari amategeko yihariye yerekanwa n’ibimenyetso**</p><p>d) Ibisubizo byose ni ukuri</p>|
+|<p>46\. Imburira zimurika zemerewe gukoreshwa kugirango bamenyeshe umuyobozi ko bagiye kumunyuraho aha hakurikira:</p><p>a) Mu nsisiro gusa</p><p>b) Ahegereye inyamaswa zikurura</p><p>c) Hafi y’amatungo</p><p>**(d) Nta gisubizo cy’ukuri kirimo**</p>|
+|<p>47\. Uburemere ntarengwa bwemewe ntibushobora kurenga ½ cy’uburemere bw’ikinyabiziga gikurura nubw’umuyobozi kuri romoruki zikurikira :</p><p>a) Romoruki ifite feri y’urugendo</p><p>**(b) Romoruki idafite feri y’urugendo**</p><p>c) Romoruki itarenza kg 750</p><p>d) Nta gisubizo cy’ukuri kirimo</p>|
+|<p>48\. Ibinyabiziga bifite ubugari bufite ibipimo bikurikira bigomba kugira amatara ndangaburumbarare :</p><p>**(a) Metero 2 na cm 10**</p><p>b) Metero 2 na cm 50</p><p>c) Metero 3</p> <p>d) Metero 2</p>|
+
+
+ 
+| :- |
+|<p>49\. Nta tara na rimwe cyangwa akagarurarumuri bishobora kuba bifunze ku buryo igice cyabyo cyo hasi cyane kimurika kitaba kiri hasi y’ibipimo bikurikira kuva ku butaka igihe ikinyabiziga kidapakiye :</p><p>a) Cm 30</p><p>**(b) Cm 40**</p><p>c) Cm 50</p><p>d) Metero 1 na cm 55</p>|
+|<p>50\. Iyo ikinyabiziga gifite amatara abiri cyangwa menshi y’ubwoko bumwe ayo matara agomba kugira ibara rimwe n’ingufu zingana kandi akagomba gushyirwaho ku buryo buteganye uhereye ku murongo ugabanya ikinyabizigamo kabiri mu burebure bwacyo. Ariko ibi ntibikurikizwa ku matara akurikira:</p><p>a) itara ndangamubyimba</p><p>b) itara ndangaburumbarare</p><p>**(c) itara ribonesha icyapa kiranga numero y’ikinyabiziga inyuma**</p><p>d) A na B byose nibyo</p>|
+|<p>51\. Ahari hejuru cyane y’ubuso bumurika h’amatara ndangambere na ndanganyuma ntihashobora kuba aharenze ibipimo bikurikira hejuru y’ubutaka iyo ikinyabiziga kidapakiye:</p><p>a) m1 na cm 50</p><p>b) m1 na cm 75</p><p>**(c) m 1 na cm 90**</p><p>d) m2 na cm 10</p>|
+|<p>52\. Ni ryari ikinyabiziga gishobora kugenda mu muhanda moteri itaka cyangwa vitesi idakora:</p><p>a) igihe kigenda ahamanuka</p><p>**(b) igihe gikuruwe n’ikindi kinyabiziga**</p><p>c) igihe gifite feri y’urugendo</p><p>d) ibisubizo byose ni byo</p>|
+
+
+
+|<p>52\. Umurongo mugari wera udacagaguye ushobora gucibwa ku muhanda kugirango ugaragaze ibi bikurikira:</p><p>**(a) inkombe mpimbano z’umuhanda**</p><p>b) ahahagararwa umwanya muto n’umunini</p><p>c) ahanyura abayobozi b’amagare</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+| :- |
+|<p>53\. Buri modoka cyangwa buri romoruki ikuruwe n’iyo modoka bishobora kugira itara risa n’icyatsi kibisi bituma umuyobozi yerekana ko yabonye ikimenyetso cy’uwitegura kumunyuraho. Iryo tara rigomba gushyirwa aha hakurikira:</p><p>a) hafi y’inguni y’ibumoso bw’ikinyabiziga</p><p>b) inyuma hafi y’impera y’iburyo bw’ikinyabiziga</p><p>c) inyuma ahegereye inguni y’iburyo</p><p>**(d) nta gisubizo cy’ukuri kirimo**</p>|
+|<p>54\. Ibinyabiziga bikurikira bigomba kugira icyerekana umuvuduko kiri aho umuyobozi areba neza kandi kigahora kitabwaho kugirango kigume gukora neza:</p><p>a) ibinyabiziga bifite umuvuduko nibura wa km 60 mu isaha</p><p>**(b) ibinyabiziga bishobora kurenza km 40 mu isaha**</p><p>c) ibinyabiziga bishobora kurenza km 30 mu isaha</p><p>d) ibinyabiziga bishobora kurenza km 25 mu isaha</p>|
+|<p>55\. Ubugari bw’imizigo yikorewe n’ipikipiki idafite akanyabiziga ko kuruhande kimwe n’ubwa romoruki ikuruwe na bene icyo kinyabiziga ntibushobora kurenza ibipimo bikurikira:</p><p>**(a) m 1.25**</p><p>b) cm 30</p><p>c) cm 75</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>56\. Ibinyabiziga bikurikira bigomba kugira itara ry’ubururu rimyatsa riboneka mu mpande zose:</p><p>a) ibinyabiziga bifite ubugari burenga m 2 na cm 10</p><p>b) ibinyabiziga bya police y’igihugu</p><p>**(c) ibinyabiziga ndakumirwa**</p><p>d) ibisubizo byose ni ukuri</p>|
+
+
+
+|<p>57\. Ibinyabiziga bihinga n’ibindi bikoresho byihariye bikoreshwa n’ibigo bipatana imirimo, iyo bigenda mu nzira nyabagendwa igihe cya nijoro cyangwa bitewe n’uko ibihe bimeze bitagishoboka kubona neza muri m 200 bishobora kugaragazwa inyuma n’amatara 2 atukura, bipfa kuba bitarenza ibipimo bikurikira:</p><p>a) kutarenza umuvuduko wa km20 mu isaha</p><p>b) uburebure bwabyo habariwemo ibyo bitwaye bukaba butarengeje m6</p><p>c) uburebure ntarengwa ntiburenga m8</p><p>**(d) A na B nibyo bisubizo by’ukuri**</p>|
+| :- |
+|<p>58\. Iyo romoruki iziritse ku kinyamitende, velomoteri n’amapikipiki bidafite akanyabiziga ko kuruhande uretse ikinyamitende na velomoteri bidafite umuyobozi, iyo uburumbarare bwayo cyangwa bw’ibyo yikoreye bituma itara ry’ikinyabiziga gikurura ritagaragara igihe bitagishoboka kubona neza muri m 200 bigomba kugaragazwa ku buryo bukurikira:</p><p>**(a) itara ryera cyangwa ry’umuhondo cyangwa risa n’icunga rihishije riri kuri rumoruki inyuma**</p><p>b) itara ry’icyatsi cyangwa ry’umuhondo cyangwa risa n’icunga rihishije riri kuri rumoruki inyuma</p><p>c) A na B ni ibisubizo by’ukuri</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>59\. Ku kinyabiziga cyangwa ibinyabiziga bikururana igice kirenga ku biziga ntikigomba kurenga ibipimo bikurikira:</p><p>**(a) inyuma ni m 3 na cm 50**</p><p>b) imbere ni m 1 na cm 70</p><p>c) A na B ni ibisubizo by’ukuri</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>60\. Iyo amatara y’ikinyabiziga agomba gucanwa kandi igihe imizigo isumba impera y’ikinyabiziga ho metero irenga igice gihera cy’imizigo kigaragazwa ku buryo bukurikira:</p><p>a) itara ritukura cyangwa akagarurarumuri ku mutuku ku manywa</p><p>b) agatambaro gatukura gafite nibura cm 50 z’uruhande mu ijoro</p><p>c) itara ry’umuhondo cyangwa akagarurarumuri k’umuhondo</p><p>**(d) nta gisubizo cy’ukuri kirimo**</p>|
+|<p>61\. Iyo imizigo igizwe n’ibinyampeke, ikawa, ipamba idatonoye, ibishara, ibyatsi, ibishami cyangwa ubwatsi bw’amatungo bidahambiriye uretse amapaki afunze, ubugari bwayo bushobora kugera ku bipimo bikurikira:</p><p>a) m 2.50</p><p>**(b) m 2.75**</p> <p>c) m 3</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+
+
+ 
+| :- |
+|<p>62\. Uretse mu mijyi kuyindi mihanda yagenywe na minisiteri ushinzwe gutwara ibintu n’abantu, uburemere ntarengwa bwemewe ku binyabiziga bifatanye bifite imitambiko itatu ni:</p><p>a) toni 20</p><p>b) toni 16</p><p>**( c) toni 12**</p><p>d) toni 10</p>|
+|<p>63\. Buri modoka cyangwa buri romoruki ikuruwe n’iyo modoka bishobora kugira itara rituma umuyobozi yerekana ko yabonye ikimenyetso cy’uwitegura kumunyuraho. Iryo tara rifite amabara akurikira:</p><p>a) umuhondo</p><p>**(b) icyatsi kibisi**</p><p>c) umweru</p><p>d) umutuku</p>|
+|<p>64\. Ikinyabiziga cyangwa ibinyabiziga bikururana bifite imitambiko ibiri ikurikiranye mu bugari bwayo ni ukuvuga imitambiko yihindukiza kucyo ifungiyeho, uburebure bwabyo ntibugomba kurenza ibipimo bikurikira:</p><p>a) m11</p><p>b) m10</p><p>**(c) m7**</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>65\. Bumwe muri ubu bwoko bwa feri ituma imodoka iguma aho iri uko yaba yikoreye kose ku muzamuko cyangwa ku gacuri bya 16%, imyanya ya feri igomba gufata igakomeza kwegera kuburyo bw’ibyuma niyo umuyobozi yaba atarimo:</p><p>**(a) feri yo guhagarara umwanya munini**</p><p>b) feri y’urugendo</p><p>c) feri yo gutabara</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>66\. Utugarurarumuri turi mu mbavu z’ikinyabiziga tugomba kugira ibara rikurikira:</p><p>a) umweru</p> <p>**(b) umuhondo**</p><p>c) umutuku</p><p>d) Nta gisubizo cy’ukuri kirimo</p>|
+
+
+ 
+| :- |
+|<p>67\. Romoruki zifite ubugari ntarengwa bwa cm 80 zishobora gushyirwaho akagarurarumuri kamwe gusa iyo zikuruwe n’ibinyabiziga bikurikira:</p><p>a) velomoteri</p><p>**(b) ipikipiki idafite akanyabiziga ku ruhande**</p><p>c) amavatiri y’ifasi</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>68\. Amatara maremare y’ibara ryera cyangwa ry’umuhondo agomba, nijoro igihe ijuru rikeye, kumurika mu muhanda mu ntera ya m 100 nibura imbere y’ikinyabiziga, ariko ku binyabiziga bifite moteri itarengeje za sentimetero kibe 125 iyo ntera igira ibipimo bikurikira:</p><p>a) m200</p><p>b) m100</p><p>c) m85</p><p>**(d) nta gisubizo cy’ukuri kirimo**</p>|
+|<p>69\. Iyo banyuze iruhande rw’inkomyi abanyamaguru bagomba gukikira banyuze mu muhanda, abayobozi bagomba gusiga umwanya ufite ubugari bwa m 1 nibura hagati yabo nayo. Iyo ibyo bidashobora kubahirizwa kandi umunyamaguru akaba anyura hafi yiyo nkomyi, umuyobozi agomba kuyikikira afite umuvuduko utarengeje ibipimo bikurikira:</p><p>a) km 10 mu isaha</p><p>b) km 20 mu isaha</p><p>c) km 30 mu isaha</p><p>**(d) nta gisubizo cy’ukuri kirimo**</p>|
+|<p>70\. Guhagarara akanya gato no guhagarara akanya kanini bibujijwe cyane cyane aha hakurikira:</p><p>a) ku mihanda y’icyerekezo kimwe hose</p><p>**(b) mu ruhande ruteganye n’urwo ikindi kinyabiziga gihagazemo akanya gato cyangwa kanini**</p><p>c) ku mihanda ibisikanirwamo, iyo ubugari bw’umwanya w’ibinyabiziga ugomba gutuma bibisikana butagifite m12</p><p>d) ibisubizo byose nibyo</p>|
+|<p>71\. Amatara ndangambere n’aya ndanganyuma y’imodoka zitarengeje m 6 z’uburebure na m 2 z’ubugari habariwemo imitwaro kdi nta</p><p>kinyabiziga kindi kiziritseho ashobora gusimburwa n’amatara akurikira, iyo ibyo binyabiziga bihagaze umwanya muto cyangwa munini mu</p> <p>nsisiro bibangikanye ku ruhande rw’umuhanda:</p><p>a) amatara magufi</p><p>b) amatara ndangaburumbarare</p><p>**(c) amatara yo guhagarara umwanya munini**</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+
+
+ 
+| :- |
+|<p>72\. Iyo kuva bwije kugeza bukeye cyangwa bitewe nuko ibihe bimeze nk’igihe cy’igihu cyangwa cy’imvura bitagishoboka kubona neza muri m 200, imirongo y’ingabo z’igihugu zigendera kuri gahunda n’utundi dutsiko twose tw’abanyamaguru nk’imperekerane cyangwa udutsiko tw’abanyeshuri bari ku murongo bayobowe na mwarimu, iyo bagenda mu muhanda ku isonga hakaba hari abantu barenze umwe, bagaragzwa ku buryo bukurikira:</p><p>**(a) imbere ni itara ryera ritwariwe ku ruhande rw’ibumoso n’umuntu uri ku murongo w’imbere hafi y’umurongo ugabanya umuhanda mo kabiri**</p><p>b) inyuma ni itara umuhondo ritwariwe ku ruhande rw’ibumoso n’umuntu uri ku murongo w’inyuma hafi y’umurongo ugabanya umuhanda mo kabiri</p><p>c) A na B ni ibisubizo by’ukuri</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>73\. Imizigo yikorewe n’amagare, velomoteri, amapikipiki, ibinyamitende by’ibiziga bitatu nibyo ibiziga bine bifite cyangwa bidafite moteri inyuma ntishobora kurenza ibipimo bikurikira:</p><p>a) cm 20</p><p>b) cm 30</p><p>**(c) cm 50**</p><p>d) cm 60</p>|
+|<p>74\. Itara ndanganyuma rigomba gushyirwa aha hakurikira:</p><p>**(a) ahagereye inguni y’ibumoso y’ikinyabiziga**</p><p>b) ahagereye inguni y’iburyo bw’ikinyabiziga</p><p>c) inyuma kandi y’impera y’ibumoso bw’ikinyabiziga</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>75\. Nta tara na rimwe cyangwa utugarurarumuri bishobora kuba bifunze kuburyo igice cyabyo cyo hasi cyane kimurika kitaba kiri hasi ya cm 40 kuva ku butaka igihe ikinyabiziga kidapakiye ariko ibyo ntibikurikizwa ku matara akurikira:</p><p>a) amatara kamenabihu</p> <p>b) amatara yo gusubira inyuma</p><p>**(c) A na B ni ibisubizo by’ukuri**</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+
+
+ 
+| :- |
+|<p>76\. Iyo tumuritswe n’amatara y’urugendo y’i kinyabiziga utugarurarumuri tugomba n’ijoro, igihe ijuru rikeye kubonwa n’umuyobozi w’ikinyabiziga kiri mu ntera ikurikira:</p><p>a) metero 100</p><p>**(b) metero 150**</p><p>c) metero 200</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>77\. Ibinyabiziga bigendeshwa na moteri, hatarimo velomoteri n’ibinyabiziga bidapakiye umuvuduko wabyo udashobora kurenga km 50 mu isaha ahateganye bigomba kuba bifite ibikoresho by’ihoni byumvikanira mu ntera ikurikira:</p><p>a) metero 200</p><p>b) metero 150</p><p>**(c) metero 100**</p><p>d) metero 50</p>|
+|<p>78\. Ahatari mu nsisiro ibyapa biburira n’ibyapa byo gutambuka mbere bigomba gushyirwa mu ntera ikurikira y’ahantu habyerekana:</p><p>**(a) metero 150 kugeza kuri 200**</p><p>b) metero 100 kugeza kuri 150</p><p>c) metero 50 kugeza kuri 100</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>79\. Inkombe z’inzira nyabagendwa cyangwa z’umuhanda zishobora kugaragazwa n’ibikoresho ngarurarumuri. Ibyo bikoresho bigomba gushyirwaho ku buryo abagenzi babibona ku buryo bukurikira:</p><p>a) babona iburyo bwabo ibyibara ritukura cyangwa ibisa n’icunga rihishije</p><p>b) ibumoso babona iby’ibara ryera</p><p>**(c) A na B ni ibisubizo by’ukuri**</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>80\. Ahatari mu nsisiro, umuyobozi wese ugenza ikinyabiziga kimwe cyangwa ibinyabiziga bikomatanye bifite uburemere ntarengwa</p><p>bwemewe burenga ibiro 3500 cyangwa bifite uburebure bwite burenga metero 10 agomba, keretse iyo anyuze cyangwa agiye kunyura ku bindi binyabiziga, gusiga hagati y’ikinyabiziga cye n’iki muri imbere umwanya uhagije kugirango ibinyabiziga bimuhiseho bishobore</p> <p>kuhigobeka bidateje impanuka igihe bibaye ngombwa ariko ibyo ntibikurikizwa mu bihe bikurikira:</p><p>**(a) mu gihe ibigendera mu muhanda ari byinshi kimwe no mu duce tw'inzira nyabagendwa aho kunyuranaho bibujijwe**</p><p>b) igihe ibigendera mu muhanda ari byinshi</p><p>c) mu duce tw’inzira nyabagendwa aho kunyuranaho bibujijwe</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+
+
+ 
+| :- |
+|<p>96\. Ibiziga by’ibinyabiziga bigendeshwa na moteri n’ibya velomoteri kimwe n’ibya romoruki zabyo bigomba kuba byambaye inziga zihagwa zifite amano n’ubujyakuzimu butari munsi ya milimetero imwe ku migongo yabyo yose nubudodo bwabyo ntibugire ahantu na hamwe bugaragara kandi ntibugire aho byacitse bikomeye mu mpande zabyo ariko ibyo ntibikurikizwa ku binyabiziga bikurikira:</p><p>**(a) ibinyabiziga bidapakiye kandi bitajya birenza umuvuduko wa km 25 mu isaha ahateganye**</p><p>b) ibinyabiziga bya police bijya ahatarenga km 25 uvuye aho biba</p><p>c) A na B ni ibisubizo by’ukuri</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>81\. Amatara ndangacyerekezo agomba kuba agizwe n’ibintu bifashe ku rumuri rumyasa, biringaniye ku buryo bigira umubare utari igiharwe ku mpande z’imbere n’inyuma z’ikinyabiziga ayo matara aba afite amabara akurikira:</p><p>a) amatara y’imbere aba yera cyangwa ari umuhondo</p><p>b) ayinyuma aba atukura cyangwa asa n’icunga rihishije</p><p>**(c) A na B ni ibisubizo by’ukuri**</p><p>d) ayinyuma aba asa n’icunga rihishije</p>|
+|<p>82\. Amahoni y’ibinyabiziga bigendeshwa na moteri agomba kohereza ijwi ry’injyana imwe rikomeza kandi ridacengera amatwi ariko ibinyabiziga bikurikira bishobora kugira ihoni ridasanzwe ridahuye n’ibivuzwe haruguru:</p><p>a) ibinyabiziga ndakumirwa</p><p>b) ibinyabiziga bikora ku mihanda</p><p>c) ibinyabiziga bifite ubugari burenze m 2.10</p><p>**(d) A na B ni ibisubizo by’ukuri**</p>|
+|<p>83\. Icyapa kibuza kunyura kubindi binyabiziga byose uretse ibinyamitende ibiri n’amapikipiki adafite akanyabiziga ku ruhande gifite ibimenyetso by’amabara akurikira:</p><p>a) umweru n’umukara</p><p>**(b) umutuku n’umukara**</p><p>c) ubururu</p> <p>d) A na B ni ibisubizo by’ukuri</p>|
+
+
+ 
+| :- |
+|<p>84\. Icyapa kivuga ko hatanyurwa mu byerekezo byombi kirangwa n’ubuso bw’ibara rikurikira:</p><p>a) umukara</p><p>**(b) umweru**</p><p>c) ubururu</p><p>d) umutuku</p>|
+|<p>85\. Ibinyabiziga bikurikira bigomba kugira ibikoresho by’ihoni byumvikanira mu ntera ya m 20:</p><p>a) amapikipiki</p><p>**(b) velomoteri**</p><p>c) ibinyabiziga bigendeshwa na moteri bidapakiye</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>86\. Imirongo y’ingabo z’igihugu zigendera kuri gahunda n’utundi dutsiko twose tw’abanyamaguru nk’imperekerane cyangwa udutsiko tw’abanyeshuri iyo bitagishoboka kubona neza muri m200, bagaragazwa ni itara ryera imbere naho inyuma ni itara ry’umutuku ariko iyo uburebure bwiyo mirongo cyangwa bw’utwo dutsiko burenga m6 impande zatwo cyangwa zayo zigaragazwa ku buryo bukurikira:</p><p>a) itara rimwe cyangwa menshi yera</p><p>b) amatara menshi y’umuhondo</p><p>c) amatara menshi asa n’icunga rihishije</p><p>**(d) ibisubizo byose nibyo**</p>|
+|<p>87\. Amatara ndangambere na ndanganyuma y’imodoka zitarengeje m 6 z’uburebure na m 2 z’ubugari habariwemo imitwaro kandi nta kindi kinyabiziga kiziritseho ashobora gusimburwa n’amatara yo guhagarara umwanya munini iyo ibyo binyabiziga bihagaze umwanya muto cyangwa munini mu nsisiro bibangikanye ku ruhande rw’umuhanda) Ayo matara arangwa n’amabara akurikira:</p><p>a) umweru cyangwa umuhondo imbere</p><p>b) umutuku cyangwa umuhondo inyuma</p><p>**(c) A na B ni ibisubizo by’ukuri**</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>88\. Amatara ndangaburumbarare agomba kubonwa nijoro igihe ijuru rikeye n’umuyobozi w’ikinyabiziga kiri mu ntera ya :</p><p>a) m 50 nibura</p><p>b) m 100</p> <p>c) m 150</p><p>**(d) m 200 nibura**</p>|
+
+
+ 
+| :- |
+|<p>89\. Uretse ku byerekeye imihanda iromboreje y’ibisate byinshi n’imihanda yimodoka igice cy’umuhanda kiri hakurya y’umurongo mugari wera ucibwa ku muhanda ngo ugaragaze inkombe mpimbano zawo kigenewe ibi bikurikira:</p><p>a) guhagararwamo umwanya muto gusa</p><p>b) guhagararwamo umwanya munini gusa</p><p>**(c) guhagararwamo umwanya muto n’umunini**</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>90\. Ibimenyetso by’agateganyo bigizwe n’imitemeri y’ibara risa n’icunga rihishije bishobora gusimbura ibi bikurikira:</p><p>a) imirongo yera irombereje idacagaguye gusa</p><p>**(b) imirongo yera irombereje idacagaguye n’icagaguye**</p><p>c) imirongo icagaguye n’idacagaguye ibangikanye</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>91\. Iyo bitagishoboka kubona muri m 200 imodoka zikuruwe n’inyamaswa, ingorofani, inyamaswa zitwaye imizigo cyangwa zigenderwamo kimwe n’amatungo bigomba kurangwa na :</p><p>a) imbere ni itara ryera</p><p>b) imbere ni itara ry’umuhondo cyangwa risa n’icunga rihishije</p><p>c) inyuma ni itara rimwe ritukura</p><p>**(d) ibisubizo byose ni ukuri**</p>|
+|<p>92\. Uretse igihe hari amategeko yihariye akurikizwa muri ako karere ikinyabiziga cyose gihagaze umwanya muto cyangwa munini, iyo gihagaze mu mwanya wo kuruhande wagenewe abanyamaguru, kugirango bashobore kugenda batagombye kunyura mu muhanda, umuyobozi agombye kubasigira akayira gafite byibura ibipimo bikurikira by’ubugari:</p><p>**(a) m 1**</p><p>b) m 2</p><p>c) m 0.5</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>93\. Icyapa cyerekana ahantu hagenewe guhagararwamo n’imodoka nini zagenewe gutwara abantu cyirangwa n’ubuso bw’amabara akurikira:</p><p>a) ubururu</p> <p>b) umweru</p><p>c) umutuku</p><p>**(d) nta gisubizo cy’ukuri kirimo**</p>|
+
+
+ 
+| :- |
+|<p>94\. Icyapa cyerekana ko inzira giteyeho mu ntangiriro idakomeza kigaragazwa n’ikirango (ikimenyetso) cy’amabara akurikira:</p><p>a) umukara n’umutuku</p><p>b) umukara n’umweru</p><p>**(c) umweru n’umutuku**</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>95\. Buri modoka yagenewe gutwara abantu, ariko umubare wabo ntarengwa ukaba munsi ya 6 umuyobozi abariwemo igomba kugira imikandara yo kurinda ibyago igenewe aba bakurikira:</p><p>a) umuyobozi</p><p>b) umugenzi wicaye ku ntebe y’imbere</p><p>c) ishobora no kugira imikandara kuzindi ntebe z’inyuma</p><p>**(d) ibisubizo byose ni ukuri**</p>|
+|<p>96\. Usibye ibinyabiziga by'ingabo z'Igihugu, Ikinyabiziga kigendeshwa na moteri kiriho ibyuma ntamenwa cyangwa ikindi cyose gituma gikoreshwa mu gutera cyangwa mu kwitabara ntigishobora kugenda mu nzira nyabagendwa kidafite uruhushya rwihariye. Urwo ruhushya rutangwa naba bakurikira:</p><p>a) police y’igihugu</p><p>**(b) minisitiri ushinzwe gutwara abantu n’ibintu**</p><p>c) minisitiri w’ingabo</p><p>d) ikigo cy’igihugu gishinzwe imisoro n’amahoro.</p>|
+|<p>97\. Iyo umukumbi ugizwe n’amatungo maremare arenze ane cyangwa amatungo magufi arenze atandatu mu nzira nyabagendwa iyo hatakibona neza kuburyo umuyobozi abona muri m 200 ugomba kugaragazwa kuburyo bukurikira:</p><p>a) itara ry’urumuri rwera cyangwa rusa n’icunga rihishije imbere y’umukumbi</p><p>b) itara ry’urumuri rutukura cyangwaumuhondo ritwawe inyuma y’umukumbi</p><p>c) A na B ni ibisubizo by’ukuri</p><p>**(d) nta gisubizo cy’ukuri kirimo**</p>|
+|<p>98\. Ibinyabiziga biherekeranyije mu butumwa ntibishobora gutonda uburebure burenga umurongo wa m 500. Iyi bibaye bityo ibinyabiziga</p><p>biherekeranye mu butumwa bishobora kugabanwamo amatsinda atonze umurongo atarengeje m 50 z’uburebure kdi hagati yayo hakaba</p> <p>byibura m 50 ariko ibyo ntibikurikizwa kubinyabiziga bikurikira:</p><p>a) ibinyabiziga bya police biherekeranyije</p><p>**(b) ibinyabiziga by’abasirikare biherekeranyije mu nsisiro**</p><p>c) A na B ni ibisubizo by’ukuri</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+
+
+ 
+| :- |
+|<p>99\. Iyo ikinyabiziga gikururwa n’inyamaswa nacyo gikuruye ikindi uburebure bw’ibikururwa bukaba burenga m 18 hatabariwemo icyo kinyabiziga cya mbere kiziritseho hagomba ibi bikurikira:</p><p>**(a) umuherekeza w’ikinyabiziga cya kabiri**</p><p>b) abaherekeza babiri</p><p>c) A na B ni ibisubizo by’ukuri</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>100\. Ibinyabiziga bikurikira ntibitegetswe kugira ibimenyetso bibyerekana iyo byambukiranya umuhanda cyangwa bigenda ku ruhande rwawo:</p><p>a) ibinyabiziga bigendwamo n’abana</p><p>b) ibinyabiziga bigendwamo n’abamugaye</p><p>**(c) A na B ni ibisubizo by’ukuri**</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>101\. Icyapa cy’inyongera kigaragaza ikibanza cy’ingando cyangwa cy’abantu benshi bagendera ku nyamaswa kirangwa n’amabara akurikira:</p><p>**(a) ubururu, umweru n’umukara**</p><p>b) umukara umweru n’umuhondo</p><p>c) icyatsi kibisi, umuhondo n’ikirango cy’umukara</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>102\. Icyapa cyerekana ahantu amategeko y’ Umuhanda urombeje w’ibice byinshi atangirira gukurikizwa, kirangwa n’ibirango (ibimenyetso) by’amabara akurikira:</p><p>a) umweru n’umukara</p><p>b) umweru n’umutuku</p><p>c) umweru n’umuhondo</p><p>**(d) nta gisubizo cy’ukuri kirimo**</p> |
+|<p>103\. Igihe ikorwa ry’imirimo ribangamiye cyane cyangwa buke uburyo bwo kugenda mu nzira nyabagendwa, ahakorerwa imirimo hagaragazwa ku buryo bukurikira:</p><p>a) icyapa cyera cya mpande enye, zingana zifite uruhande rwa metero 0.30</p><p>b) uruzitiro ruri ku mpera y’iburyo</p><p>c) A na B ni ibisubizo by’ukuri</p><p>**(d) nta gisubizo cy’ukuri kirimo**</p>|
+
+
+
+| :- |
+|<p>104\. Iyo mu muhanda, imirimo yihariye ubugari butuma abayobozi bagomba kuva mu mwanya wabo usanzwe kugirango bakomeze urugendo, ahategetswe kunyurwa hagaragazwa n’ikimenyetso gishyirwa aho imirimo irangirira mu ruhande rugenderwamo. Icyo kimenyetso kirangwa n’amabara akurikira:</p><p>**(a) ubuso bw’ubururu ikirango cy’umweru**</p><p>b) umuzenguruko w’umutuku, ubuso umweru n’ikirango cy’umukara</p><p>c) umuzenguruko w’umutuku, ubuso mu ibara ryera, ikirango mu ibara ry’umutuku n’umukara</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>105\. Icyapa cyerekana ko hari amabwiriza yihariye mu buryo bwo kugendera mu cyambu cyangwa ku kibuga cy’indege giteye ku buryo bukurikira:</p><p>a) ishusho mpandeshatu, ubuso mu ibara ryera, ikirango mu ibara ry’umukara</p><p>**(b) ishusho mpandenye, ubuso mu ibara ry’ubururu n’ikirango kiri mu ibara ryera**</p><p>c) ishusho y’uruziga mu ibara ry’ubururu ni ikirango kiri mu ibara ryera</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+
+
+
+|<p>106\. Nijoro igihe ijuru rikeye, itara ribonesha icyapa kiranga numero y’ikinyabiziga rigomba gutuma izo numero zisomerwa nibura mu ntera ikurikira:</p><p>a) m150</p><p>b) m50</p><p>**(c) m20**</p><p>d) m10</p>|
+| :- |
+|<p>107\. Ibyapa byerekana icyago cyidahoraho kandi bigenewe kwerekana aho bagana cyangwa aho berekeza umuhanda nk’igihe cy’impanuka cyangwa hari imirimo ikorwa mu muhanda birangwa n’amabara akurikira:</p><p>a) umweru n’umukara</p><p>b) umweru n’umuhondo</p><p>c) ubuso bw’umweru gusa</p><p>**(d) nta gisubizo cy’ukuri kirimo**</p>|
+|<p>108\. Birabujijwe kubangamira imigendere isanzwe y’ibindi binyabiziga kubera ibi bikurikira:</p><p>a) kugabanya umuvuduko kuburyo budasanzwe</p><p>b) gukacira feri bidatewe no kwirinda ibyago</p><p>**(c) A na B ni ibisubizo by’ukuri**</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>109\. Iyo kuva bwije kugeza bukeye cyangwa bitewe n’uko ibihe bimeze bitagishoboka kubona neza muri m 200, mu nzira nyabagendwa, romoruki iziritse kuri velomoteri cyangwa ipikipiki idafite akanyabiziga ku ruhande, uretse velomoteri idafite umuyobozi, kandi uburumbarare bwayo, cyangwa bw’ibyo yikoreye bukaba butuma itara ry’ikinyabiziga biyikurura ritagaragara, iyo romoruki igaragazwa ku buryo bukurikira:</p><p>a) itara ryera riri kuri romoruki inyuma</p><p>b) itara ry’umuhondo riri kuri romoruki inyuma</p><p>c) itara risa n’icunga riri kuri romoruki inyuma</p><p>**(d) ibi bisubizo byose nibyo**</p>|
+|<p>110\. Amatara maremare y’ikinyabiziga agomba kuzimwa mu bihe bikurikira:</p><p>a) iyo umuhanda umurikiwe hose kandi umuyobozi ashobora kubona nibura mu ntera ingana na metero 200</p><p>b) iyo ikinyabiziga gikurikiye mu ntambwe zitagera muri m100 keretse iyo umuyobozi wacyo ashaka kunyura kucyo akurikiye acana azimya vuba vuba amatara maremare</p> <p>**(c) A na B ni ibisubizo by’ukuri**</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+
+
+ 
+| :- |
+|<p>111\. Iyo akanyabiziga gasunikwa cyangwa ibyo gatwaye bidatuma umuyobozi abona neza imbere ye, uwo muyobozi agomba gukora ibi bikurikira:</p><p>a) gushaka umuherekeza</p><p>**(b) gukurura ikinyabiziga cye**</p><p>c) A na B ni ibisubizo by’ukuri</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>112\. Uretse igihe hari amategeko yihariye akurikizwa muri ako karere cyangwa imitunganyirize bwite y’aho, ikinyabiziga cyose cyangwa inyamaswa ihagaze umwanya muto cyangwa munini igomba kuba iri aha hakurikira:</p><p>a) mu kaboko k’iburyo hakurikijwe aho yaganaga uretse igihe ari mu muhanda w’icyerekezo kimwe</p><p>b) ahegereye bishobotse akayira k’abanyamaguru iyo umuhanda ugafite ariko umwanya w’ibiziga n’akayira ntube urenga santimetero 50</p><p>**(c) A na B ni ibisubizo by’ukuri**</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>113\. Iyo ikinyabiziga gihagaritswe n’ijoro ku buryo abayobozi bakigana badashobora kumenya ko kibabereye imbogamizi, kigomba kurangirwa kure n’ikimenyetso cyabigenewe kiri ahantu hagaragara kugirango kiburire hakiri kare abandi bayobozi baza bagisanga, ariko ntibireba ibinyabiziga bikurikira:</p><p>a) velomoteri</p><p>b) ipikipiki idafite akanyabiziga ku ruhande</p><p>**(c) A na B ni ibisubizo by’ukuri**</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>114\. Abanyamaguru batatanye cyangwa bagize udutsiko tudafatanyije gahunda kdi batanayobowe n’umwarimu bategetswe kunyura mu tuyira turi ku mpande z’umuhanda no ku nkengero zigiye hejuru uretse ubutaka butsindagiye butandukanya imihanda ibiri bwo kunyurwamo gusa n’aba bakurikira:</p><p>**(a) abanyamaguru bashaka guhagarara akanya gato igihe bambukiranya umuhanda**</p><p>b) abanyamaguru bagize udutsiko tw’abantu benshi</p><p>c) A na B ni ibisubizo by’ukuri</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|115\. Ibinyabiziga biherekeranyije mu butumwa ntibishobora gutonda uburebure burenga umurongo wa m 500, iyo bibaye bityo <p>ibinyabiziga biherekeranyije mu butumwa bishobora kugabanywamo amatsinda atonze umurongo utarengeje ibipimo bikurikira:</p><p>**(a) utarengeje m50**</p><p>b) utarengeje m100</p><p>c) utarengeje 150</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+
+ 
+| :- |
+|<p>116\. Ibyapa byereka inkomane y’inzira nyabagendwa n’inzira ya gariyamoshi bigomba iteka kumurikwa cyangwa kugarura urumuri ku buryo bigaragarira nibura mu ntera ikurikira igihe ijuru rikeye:</p><p>a) m200</p><p>b) m 250</p><p>c) m300</p><p>**(d) nta gisubizo cy’ukuri kirimo**</p>|
+|<p>117\. Imbibi ziri ku mpera z’ubwihugiko bw’abanyamaguru kandi ziri mu muhanda kimwe n’imbibi n’ibindi bikoresho bigenewe gutuma bagenda mu muhanda nta muvundo zisigwa irangi ry’ibara rikurikira:</p><p>**(a) irangi ry’umuhondo ngarurarumuri**</p><p>b) irangi ry’umweru ngarurarumuri</p><p>c) irangi risa n’icunga rihishije ngarurarumuri</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>118\. Kugirango ikinyabiziga kive ahantu hari urwondo cyangwa hanyerera bidasanzwe hashobora gukoreshwa uburyo bukurikira:</p><p>a) inziga zishobora gushyirwaho udushyundu</p><p>**(b) inziga zishobora gushyirwaho iminyururu irwanya ubunyerere**</p><p>c) A na B ni ibisubizo by’ukuri</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>119\. Iyo imizigo igizwe n’ibinyampeke, ikawa, amakara, ubwatsi bw’amatungo bidahambiriye, ubugari bwayo bushobora kugera kuri m2 na cm75 ariko iyo iyo mizigo ijyanwa mu karere katarenga km25 uvuye aho yapakiriwe, usibye mu nsisiro, ubugari bwayo bushobora kugera ku bipimo bikurikira:</p><p>a) m4</p><p>b) m3 na cm50</p><p>**(c) m3**</p> <p>d) nta gisubizo cy’ukuri kirimo</p>|
+
+
+
+ 
+| :- |
+|<p>120\. Mu mujyi no ku mihanda y’igihugu igenwa na minisitiri ushinzwe gutwara abantu n’ibintu, ubwikorere ntarengwa ku ikamyo iyo ariyo yose ntibushobora kurenga ibipimo bikurikira:</p><p>a) toni 10</p><p>b) toni 16</p><p>c) toni 24</p><p>**(d) nta gisubizo cy’ukuri kirimo**</p>|
+|<p>121\. Iyo bitewe n’imiterere y’ahantu intera itandukanya icyapa n’ahantu habi iri munsi ya m150 ku buryo bugaragara, iyo ntera yerekanishwa icyapa cy’inyongera giteye ku buryo bukurikira:</p><p>a) kare ifite ubuso bw’ibara ryera</p><p>**(b) urukiramende rufite ubuso bw’ibara ryera**</p><p>c) mpandeshatu ifite umuzenguruko utukura</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>122\. Nijoro, amatara yo kubisikana y’ibara ryera cyangwa y’umuhondo agomba, igihe ijoro rikeye kumurika mu muhanda nibura mu ntera ikurikira:</p><p>a) m100</p><p>b) m50</p><p>**(c) m40**</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>123\. Ikintu cyose cyatuma hahindurwa ibyanditse bireba nyirikarita cyangwa ibiranga ikinyabiziga kigomba kumenyeshwa ibiro by’umusoro haba mu magambo cyangwa mu ibaruwa ishinganye ibyo bikorwa mu gihe kingana gute:</p><p>a) mu mezi 2</p><p>b) mu kwezi kumwe</p><p>c) mu minsi cumi n’itanu</p><p>**(d) nta gisubizo cy’ukuri kirimo**</p>|
+|<p>124\. Kugirango berekane ahantu habi cyane, hakoreshwa ikimenyetso cy’itara ry’umuhondo rimyasa, rivuga uburenganzira bwo gutambuka icyo kimenyetso barushijeho kwitonda) Ese icyo kimenyetso gihindura iki ku mategeko agenga gutambuka mbere:</p><p>**(a) ntacyo gihindura**</p> <p>b) abo rireba nibo batambuka mbere</p><p>c) abatwaye ibinyabiziga binini nibo batambuka mbere</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+
+
+ 
+| :- |
+|<p>125\. Romoruki zifite ubugari ntarengwa bwa sentimetero 80 zishobora gushyirwaho akagarurarumuri kamwe gusa iyo zikuruwe n’ibinyabiziga bikurikira:</p><p>a) velomoteri</p><p>b) ipikipiki ifite akanyabiziga kuruhande</p><p>c) igare</p><p>**(d) nta gisubizo cy’ukuri kirimo**</p>|
+|<p>126\. Amatara maremare y’ibara ryera cyangwa ry’umuhondo agomba nijoro igihe ijuru rikeye kumurika mu ntera ikurikira ku binyabiziga bifite moteri itarengeje ingufu zigera kuri sentimetero kibe 125</p><p>a) m100</p><p>**(b) m75**</p><p>c) m25</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>127\. Iyo kuva bwije kugeza bukeye cyangwa bitewe n’uko ibintu bimeze bitagishoboka kubona muri m 200, ibinyabiziga cyangwa imitwaro bifite ubugari burenga m 2.50 iyo bigenda mu nzira nyabagendwa bigaragazwa ku buryo bukurikira:</p><p>a) inyuma ni amatara abiri atukura</p><p>b) iyo bibaye ngombwa no ku mpera y’amabondo y’ikinyabiziga cyangwa y’imitwaro ni itara ndangaburumbarare risa n’icunga rihishije cyangwa ry’umuhondo</p><p>**(c) A na B ni ibisubizo by’ukuri**</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>128\. Igice cy’umuhanda kiri hakurya y’umurongo mugari wera udacagaguye ugaragaza inkombe mpimbano y’umuhanda kiba kigenewe ibi bikurikira:</p><p>a) guhagararwamo umwanya muto gusa</p><p>b) guhagararwamo umwanya muto n’umunini ndetse no kumihanda irombereje y’ibisate byinshi n’imihanda y’imodoka</p><p>c) A na B ni ibisubizo by’ukuri</p><p>**(d) nta gisubizo cy’ukuri kirimo**</p>|
+|130\. Iminyururu n’ibindi byuma bifashisha bishobora kuvanwaho cyangwa binagana, hatabariwemo ibimenyetso byerekana ibyerekezo <p>bigomba gutungurwa ku kinyabiziga ku buryo igihe byizunguza bitarenga impande zihera uburumbarare bw’ikinyabiziga kandi ibyo byuma bifashisha ntibigomba gukururuka ku butaka ariko ibyo ntibibujijwe ku binyabiziga bikurikira:</p><p>**(a) imashini zihinga**</p><p>b) ibinyabiziga bitwaye ibintu bidashobora gufata inkongi</p><p>c) A na B ni ibisubizo by’ukuri</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+
+
+
+
+| :- |
+|<p>131\. Ku binyabiziga cyangwa ibinyabiziga bikururana igice kirenga ku biziga ntigishobora kurenga ibipimo bikurikira:</p><p>a) iby’inyuma : m3</p><p>**(b) iby’imbere: m2.70**</p><p>c) A na B ni ibisubizo by’ukuri</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>132\. Uretse bibonewe uruhushya, ubundi birabujijwe gushyira no gukomeza kugendesha imodoka cyangwa romoruki mu nzira nyabagendwa iyo uburemere bw’ibyikorewe burenze uburemere ntarengwa bwemewe n’ikarita iranga ikinyabiziga ariko ibyo ntibikurikizwa ku binyabiziga bikurikira:</p><p>a) ibinyabiziga bya police</p><p>b) ibinyabiziga bihinga</p><p>**(c) imashini zikoreshwa mu kubaka imihanda**</p><p>d) ibisubizo byose ni ukuri</p>|
+|<p>133\. Gushyira mu muhanda ku buryo budasanzwe ibinyabiziga bikururana birenze bitatu bigomba gutangirwa uruhusa, uretse imashini ihinga iyo zigenda uregendo rutarenze km 25, ibinyabiziga bikururana bitwaye ibyamamazwa n’ibindi biteganwa n’iri teka ariko igiteranyo cy’uburebure bw’ibyo binyabiziga bikururana ntigishobora kurenga ibipimo bikurikira:</p><p>a) m50</p><p>b) m35</p><p>**(c) m25**</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>134\. Ibinyamitende itatu bifite moteri bigomba kugira amatara akurikira:</p><p>a) amatara abiri ndangambere n’amatara abiri ndanganyuma yerekana ko ikinyabiziga gihagaze</p><p>b) utugarurarumuri tubiri</p><p>**(c) A na B ni ibisubizo by’ukuri**</p><p> d) nta gisubizo cy’ukuri kirimo</p>|
+
+
+
+ 
+| :- |
+|<p>135\. Ibyapa bibuza n’ibitegeka bikurikizwa gusa aha hakurikira:</p><p>a) mu masangano</p><p>**(b) mu gice cy’inzira nyabagendwa kiri hagati yaho bishinze n’inkomane ikurikiyeho ku ruhande rw’inzira bishinzeho**</p><p>c) ibyo byapa bishyirwaho hakurikijwe intera ibitandukanya</p><p>d) B na C ni ibisubizo by’ukuri</p>|
+|<p>136\. Icyapa cy’inyongera kerekana aho bagobokera ibinyabiziga kirangwa n’amabara akurikira:</p><p>a) ubururu, umweru, umutuku</p><p>**(b) umweru, umukara, ubururu**</p><p>c) umutuku, umweru n’umukara</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>137\. Icyapa cyerekana uburebure bw’igice cyatera ibyago cyangwa bw’ahantu amabwiriza y’icyo cyapa agomba gukurikizwa kirangwa n’ubuso n’ibimenyetso bikurikira:</p><p>a) ubuso umweru, ikimenyetso ubururu</p><p>b) ubuso ubururu, ikimenyetso umweru</p><p>c) ubuso ubururu, ikimenyetso umweru n’umukara</p><p>**(d) nta gisubizo cy’ukuri kirimo**</p>|
+|<p>138\. Umurongo w’umuhondo ucagaguye uciye ku nkombe nyayo y’umuhanda, umusezero w’inzira y’abanyamaguru cyangwa w’inkengero y’umuhanda yegutse uvuga ibi bikurikira:</p><p>a) guhagarara umwanya muto birabujijwe ku burebure bw’uwo murongo</p><p>b) guhagarara umwanya muto n’umunini birabujijwe ku burebure bw’uwo murongo</p><p>c) aho bahagarara umwanya munini cyangwa muto</p><p>**(d) nta gisubizo cy’ukuri kirimo**</p>|
+|<p>139\. Ku binyabiziga cyangwa ibinyabiziga bikururana igice kirenga ku biziga ntigishobora kurenga ibipimo bikurikira:</p><p>a) iby’inyuma m 3.40</p><p>b) iby’imbere m 2.50</p><p>c) A na B ni ibisubizo by’ukuri</p><p>**(d) nta gisubizo cy’ukuri kirimo**</p>|
+
+
+
+|<p>171\. Mu migi no ku yindi mihanda y’igihugu igenwa na minisitiri ushinzwe gutwara abantu n’ibintu uburebure ntarengwa kuri buri mitambiko 3 ifungwaho ibiziga bine ni:</p><p>**(a) toni 24**</p><p>b) toni 10</p><p>c) toni 16</p><p>d) toni 53</p>|
+| :- |
+|<p>172\. Iyo hagati y’uruhande rw’imbere rwa romoruki n’uruhande rw’inyuma rw’ikinyabiziga kiyikurura hari umwanya urenze m 3 ikibizirikanyije kigomba kugaragazwa ku buryo bukurikira iyo amatara y’ikinyabiziga agomba gucanwa:</p><p>a) agatambaro gatukura gafite nibura cm 50 z’uruhande</p><p>**(b) itara risa n’icunga rihishije rigaragara mu mbavu igihe ikibizirikanyije kimuritswe**</p><p>c) A na B ni ibisubizo by’ukuri</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>173\. Itara ryo guhagarara ry’ibara ritukura rigomba kuba ridahumisha, kandi rigomba kugaragarira mu ntera ikurikira:</p><p>a) nijoro igihe ijuru rikeye nibura muri m 200</p><p>b) ku manywa igihe cy’umucyo nibura muri m50</p><p>c) nijoro nibura muri m 100 igihe ijuru rikeye</p><p>**(d) nta gisubizo cy’ukuri kirimo**</p>|
+|<p>174\. Birabujijwe kongera ku mpande z’ikinyabiziga kigendeshwa na moteri cyangwa velomoteri ibi bikurikira:</p><p>a) imitako</p><p>b) ibintu bifite imigongo cyangwa ibirenga ku mubyimba kandi bishobora gutera ibyago abandi bagenzi</p><p>**(c) A na B ni ibisubizo by’ukuri**</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>175\. Ikintu cyose cyatuma hahindurwa ibyanditswe bireba nyirikarita cyangwa ibiranga ikinyabiziga kigomba kumenyeshwa ibiro by’imisoro haba mu magambo cyangwa mu ibaruwa ishinganye. Ibyo bikorwa mu gihe kingana gute:</p><p>a) mu minsi 5</p><p>**(b) mu minsi 8**</p><p>c) mu minsi 15</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+
+
+
+|<p>176\. Kunyuranaho bikorerwa:</p><p>a) mu ruhande rw’iburyo gusa</p><p>b) igihe cyose ni ibumoso</p><p>c) iburyo iyo unyura ku nyamaswa</p><p>**(d) nta gisubizo cy’ukuri kirimo**</p>|
+| :- |
+|<p>177\. Iyo ubugari bw’inzira nyabagendwa igenderwamo n’ibinyabiziga budahagije kugirango bibisikane nta nkomyi abagenzi bategetswe:</p><p>a) kunyura mu nzira z’impande z’abanyamaguru</p><p>b) guhagarara aho bageze</p><p>**(c) koroherana**</p><p>d) gukuraho inkomyi</p>|
+|<p>178\. Umuyobozi ugenda mu muhanda igihe ubugari bwawo budatuma anyuranaho nta nkomyi ashobora kunyura mu kayira k’abanyamaguru ariko amaze kureba ibi bikurikira:</p><p>a) umuvuduko w’abanyamaguru</p><p>b) ubugari bw’umuhanda</p><p>c) umubare w’abanyamaguru</p><p>**(d) nta gisubizo cy’ukuri kirimo**</p>|
+|<p>179\. Icyapa cyerekana umuvuduko ntarengwa ikinyabiziga kitagomba kurenza gishyirwa ku binyabiziga bifite uburebure ntarengwa bukurikira:</p><p>a) burenga toni 1</p><p>b) burenga toni 2</p><p>c) burenga toni 24</p><p>**(d) nta gisubizo cy’ukuri kirimo**</p>|
+|<p>180\. Iyo nta mategeko awugabanya by’umwihariko, umuvuduko ntarengwa w’amapikipiki mu isaha ni:</p><p>a) km 25</p><p>b) km 70</p><p>c) km 40</p><p>**(d) nta gisubizo cy’ukuri kirimo**</p>|
+|<p>181\. Ahatari mu nsisiro umuvuduko ntarengwa wa velomoteri mu isaha ni:</p><p>**(a) km 50**</p> <p>b) km 40</p><p>c) km 30</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+
+
+
+ 
+| :- |
+|<p>182\. Birabujijwe guhagarara akanya kanini aha hakurikira:</p><p>a) mu duhanda tw’abanyamagare</p><p>b) mu duhanda twagenewe velomoteri</p><p>**(c) A na B ni ibisubizo by’ukuri**</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>183\. Amatara maremare y’ikinyabiziga agomba kutamurika mu bihe bikurikira:</p><p>a) iyo umuhanda umurikiwe umuyobozi abasha kureba muri m 200</p><p>**(b) iyo ikinyabiziga kigiye kubisikana nikindi**</p><p>c) iyo ari mu nsisiro</p><p>d) ibisubizo byose nibyo</p>|
+|<p>184\. Ubugari bwa romoruki ikuruwe n’igare cyangwa velomoteri ntiburenza ibipimo bikurikira:</p><p>a) cm 25</p><p>b) cm 125</p><p>c) cm 45</p><p>**(d) nta gisubizo cy’ukuri kirimo**</p>|
+|<p>185\. Uburyo bukoreshwa kugirango ikinyabiziga kigende gahoro igihe feri idakora neza bwitwa:</p><p>a) feri y’urugendo</p><p>b) feri yo guhagarara</p><p>**(c) feri yo gutabara**</p><p>d) Nta gisubizo cy’ukuri kirimo</p>|
+|<p>186\. Nta mwanya n’umwe feri ifungiraho ushobora kurekurana n’ibiziga keretse:</p><p>a) iyo bireba feri y’urugendo</p><p>b) iyo kurekurana ari ibyakanya gato</p><p>c) iyo bireba feri yo guhagarara umwanya munini, ubwo kurekurana bikaba bidashoboka bidakozwe n'umuyobozi</p><p>**(d) byose ni ibisubizo by’ukuri**</p>|
+
+
+
+|<p>187\. Ikinyabiziga ntigishobora kugira amatara arenze abiri y’ubwoko bumwe keretse kubyerekeye amatara akurikira:</p><p>a) itara ndangamubyimba</p><p>b) itara ryerekana icyerekezo</p><p>c) itara ndangaburumbarare</p><p>**(d) ibisubizo byose ni ukuri**</p>|
+| :- |
+|<p>188\. Itara ndanganyuma rigomba gushyirwa aha hakurikira:</p><p>a) ku nguni y’iburyo y’ikinyabiziga</p><p>b) ku gice cy’inyuma ku kinyabiziga</p><p>**(c) ahegereye inguni y’ibumoso y’ikinyabiziga**</p><p>d) ibisubizo byose ni ukuri</p>|
+|<p>189\. Nibura ikinyabiziga gitegetswe kugira uduhanagurabirahuri dukurikira:</p><p>a) 2</p><p>b) 3</p><p>**(c) 1**</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>190\. Ibiziga by’ibinyabiziga bigendeshwa na moteri n’ibya velomoteri kimwe n’ibya romoruki zabyo bigomba kuba byambaye inziga zihagwa zifite amano n’ubujyakuzimu butari munsi ya milimetero imwe ku migongo yabyo yose, n’ubudodo bwabyo ntibugire ahantu na hamwe bugaragara kdi ntibigire aho byacitse bikomeye mu mpande zabyo. Ariko ibyo ntibikurikizwa ku binyabiziga bikurikira:</p><p>**(a) ibinyabiziga bidapakiye kdi bitajya birenza umuvuduko wa km 25 mu isaha ahateganye**</p><p>b) ibinyabiziga bya police bijya ahatarenga km 25 uvuye aho biba</p><p>c) A na B ni ibisubizo by’ukuri</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>191\. Birabujijwe kugenza ibinyabiziga bigendeshwa na moteri na za romoruki zikururwa nabyo, iyo ibiziga byambaye inziga zidahagwa cyangwa inziga zikururuka zifite umubyimba uri hasi ya cm 4. Ariko ibyo ntibikurikizwa ku binyabiziga bikurikira:</p><p>a) ku binyabiziga by’ingabo</p><p>**(b) ibinyabiziga bihinga iyo bigendeshwa mu karere katarenga km 25 uvuye aho ziba**</p><p>c) ibinyabiziga bya police</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|192\. Imirongo yera iteganye n’umurongo ugabanya umuhanda mo kabiri mu burebure bwawo ugaragaza: <p>a) ahanyurwa n’amagare na velomoteri</p><p>b) ahanyurwa n’ingorofani n’ibinyamitende</p><p>**(c) ahanyurwa n’abanyamaguru**</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+
+
+
+
+| :- |
+|<p>193\. Iyo harimo indi myanya birabujijwe gutwara ku ntebe y’imbere y’imodoka abana badafite imyaka ikurikira:</p><p>a) imyaka 10</p><p>**(b) imyaka 12**</p><p>c) imyaka 7</p><p>d) nta gisubizocy’ukuri kirimo</p>|
+|<p>194\. Iyo ikinyabiziga kitagikora cyangwa cyoherejwe mu mahanga burundu ibyapa ndanga bigomba gukurwaho bikoherezwa mu biro by’imisoro, ibyo bikorwa mu gihe kingana gute:</p><p>a) ibyumweru bibiri</p><p>**(b) amezi abiri**</p><p>c) ukwezi kumwe</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>195\. Inkombe z’inzira nyabagendwa cyangwa z’umuhanda zishobora kugaragazwa n’ibikoresho ngarurarumuri ibyo bikoresho bigomba gushyirwaho ku buryo abagenzi babibona ku buryo bukurikira:</p><p>a) babona gusa ibumoso bwabo ibyibara ryera</p><p>b) iburyo babona iby’ibara ritukura cyangwa risa n’icunga rihishije gusa</p><p>**(c) A na B ni ibisubizo by’ukuri**</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>196\. Iyo kuyobya umuhanda ari ngombwa bigaragazwa kuva aho uhera no kuburebure bwawo n’icyapa gifite ubuso bw’amabara akurikira:</p><p>a) umukara</p><p>b) umweru</p><p>c) umutuku</p><p>**(d) nta gisubizo cy’ukuri kirimo**</p>|
+|<p>197\. Ku mihanda yagenwe na minisitiri ubifite mu nshingano ibyapa biburira n’ibyapa byerekana bigomba kugaragazwa kuva bwije kugera</p><p>bukeye n’urumuri rwihariye cyangwa amatara ku mihanda cyangwa ibintu ngarurarumuri. Igihe ijuru rikeye intera y’ahagaragara igomba kuba nibura:</p> <p>a) m50</p><p>b) m120</p><p>c) m150</p><p>**(d) nta gisubizo cy’ukuri kirimo**</p>|
+
+
+
+
+| :- |
+|<p>198\. Ibizirikisho by’iminyururu cyangwa by’insinga kimwe n’ibindi by’ingoboka bikoreshwa gusa igihe nta kundi umuntu yabigenza kandi nta kindi bigiriwe uretse gusa kugirango ikinyabiziga kigere aho kigomba gukorerwa kandi nturenze na rimwe km 20 mu isaha, ibyo bizirikisho bigaragazwa ku buryo bukurikira:</p><p>a) agatambaro gatukura kuri cm 50 z’umuhanda</p><p>b) ikimenyetso cy’itara risa n’icunga rihishije</p><p>**(c) icyapa cyera cya mpande enye zingana gifite cm 30 kuri buri ruhande**</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>199\. Uretse mu mijyi, kuyindi mihanda yagenywe na minisiteri ushinzwe gutwara ibintu n’abantu, uburemere ntarengwa bwemewe ku binyabiziga bifatanye bifite imitambiko itatu ni:</p><p>**(a) toni 12**</p><p>b) toni 16</p><p>c) toni 10</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>200\. Uretse mu mujyi kuyindi mihanda yajyenwe na minisitiri ushinzwe gutwara abantu n’ibintu, uburemere ntarengwa ku binyabiziga bifite imitambiko itatu cyangwa irenga hatarimo mukuzungu ni :</p><p>a) toni 10</p><p>b) toni 12</p><p>c) toni 15</p><p>**(d) nta gisubizo cy’ukuri kirimo**</p>|
+|<p>201\. Iyo nta mategeko awugabanya by’umwihariko umuvuduko ntarengwa ku modoka zidafite ibizibuza kwiceka kuberako ariko zakozwe ni:</p><p>a) km 70 mu isaha</p><p>b) km 40 mu isaha</p><p>**(c) km 25 mu isaha**</p><p>d) km20 mu isaha</p>|
+
+
+ 
+| :- |
+|<p>202\. Iyo nta mategeko awugabanya by’umwihariko umuvuduko ntarengwa ku modoka zidafite ibizibuza kwiceka kuberako ariko zakozwe ni:</p><p>a) km 20 mu isaha</p><p>b) km 40 mu isaha</p><p>c) km 35 mu isaha</p><p>**(d) nta gisubizo cy’ukuri kirimo**</p>|
+|<p>203\. Ikinyabiziga kibujijwe guhagarara akanya kanini aha hakurikira :</p><p>**(a) imbere y’ahantu nyabagendwa hinjirwa n’ahasohokerwa n’abantu benshi**</p><p>b) mu muhanda aho ugabanyijemo ibisate bigaragazwa n’imirongo icagaguye</p><p>c) A na B ni ibisubizo by’ukuri</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>204\. Iyo kuva bwije kugeza bukeye cyangwa bitewe n’uko ibihe bimeze nk’igihe cy’ibihu cyangwa cy’imvura bitagishoboka kubona neza muri m 200, udutsiko twose tw’abanyamaguru nk’imperekerane cyangwa udutsiko tw’abanyeshuri bari ku murongo bayobowe n’umwarimu, iyo bagenda mu muhanda ku isonga hakaba hari abantu barenze umwe bagomba kugaragazwa kuburyo bukurikira:</p><p>a) imbere ni itara ry’umuhondo ritwariwe ibumoso</p><p>**(b) inyuma ni itara ryumutuku ritwariwe ibumoso n’umuntu uri ku murongo w’inyuma hafi y’umurongo ugabanya umuhanda mo kabiri**</p><p>c) A na B ni ibisubizo by’ukuri</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>205\. Imburira zimurika zemerewe gukoreshwa kugirango bamenyeshe umuyobozi ko bagiye kumunyuraho aha hakurikira:</p><p>**(a) mu nsisiro cyangwa ahandi hose**</p><p>b) ahegereye inyamaswa zikurura</p><p>c) hafi y’amatungo</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>206\. Ibinyabiziga bifite ubugari bufite ibipimo bikurikira bigomba kugira amatara ndangaburumbarare</p><p>a) metero 3</p><p>b) metero 2 na cm 50</p><p>c) metero 1 na cm 10</p><p>**(d) nta gisubizo cy’ukuri kirimo**</p>|
+
+
+ 
+| :- |
+|<p>207\. Nta tara na rimwe cyangwa akagarurarumuri bishobora kuba bifunze kuburyo igice cyabyo cyo hasi cyane kimurika kiba kiri hasi y’ibipimo bikurikira kuva ku butaka igihe ikinyabiziga kidapakiye:</p><p>a) cm 30</p><p>b) cm 20</p><p>c) cm 50</p><p>**(d) nta gisubizo cy’ukuri kirimo**</p>|
+|<p>208\. Ahari hejuru cyane y’ubuso bumurika h’amatara ndangambere na ndanganyuma ntihashobora kuba aharenze ibipimo bikurikira hejuru y’ubutaka iyo ikinyabiziga kidapakiye:</p><p>a) m1 na cm 50</p><p>b) m1 na cm 75</p><p>c) m 1 na cm 80</p><p>**(d) nta gisubizo cy’ukuri kirimo**</p>|
+|<p>209\. Buri modoka cyangwa buri romoruki ikuruwe n’iyo modoka bishobora kugira itara risa n’icyatsi kibisi bituma umuyobozi yerekana ko yabonye ikimenyetso cy’uwitegura kumunyuraho. Iryo tara rigomba gushyirwa aha hakurikira:</p><p>a) hafi y’inguni y’ibumoso bw’ikinyabiziga</p><p>**(b) inyuma hafi y’impera y’ibumoso bw’ikinyabiziga**</p><p>c) inyuma ahegereye inguni y’iburyo</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>210\. Ubugari bw’imizigo yikorewe n’ipikipiki ifite akanyabiziga ko kuruhande kimwe n’ubwa romoruki ikuruwe na bene icyo kinyabiziga ntibushobora kurenza ibipimo bikurikira ku bugari bw’icyo kinyabiziga kidapakiye:</p><p>a) m 1.25</p><p>**(b) cm 30**</p><p>c) cm 75</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+
+
+
+|<p>211\. Mu gihe telefone yawe ihamagawe utwaye imodoka wakora iki?</p><p>a) Kwitaba cyangwa guhagarara ako kanya</p><p>b) kutayitaba</p><p>**(c) Gushyira imodoka iruhande ukayitaba**</p><p>d) B na c ni ibisubizo byukuri</p>|
+| :- |
+|<p>212\. Mu gihe telefone yawe ihamagawe utwaye imodoka wakora iki?</p><p>a) Kwitaba cyangwa guhagarara ako kanya</p><p>b) kutayitaba</p><p>**(c) Gushyira imodoka iruhande ukayitaba**</p><p>d) B na c ni ibisubizo byukuri</p>|
+|<p>213\.Niki wakora mbere y’uko uhindura icyerekezo?</p><p>a) Gutanga ikimenyetso cy’ukuboko no gukoresha amatara ndangacyerekezo.</p><p>b) Itegereze neza niba icyapa kikwemerera guhindura icyerekezo.</p><p>**(c) A na B n’ibisubizo by’ukuri**</p><p>d) Nta gisubizo cy’ukuri kirimo</p>|
+|<p>214\. Niki muribi wakwirinda mugihe ushaka kunyuranaho?</p><p>(a) **Nyuma y’ikona ugategereza kubona uburyo bwo kunyuranaho.**</p><p>b) Mumuhanda w’icyerekezo kimwe</p><p>c) Aho utagomba kurenza ibirometero 30 mu isaha.</p><p>d) Ugeze mumuhanda utaringaniye neza</p>|
+|<p>214\.Niki wakora mugihe usanze mu bimenyetso bimurika harimo ibara ry’umuhondo.</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.003.jpeg)</p><p>a) Kongera umuvuduko</p><p>b) Kugumana umuvuduko wari uriho.</p><p>**(c) Kwitegura guhagarara.**</p><p>d) Gufata feri cyane.</p>|
+|<p>215\.Mugihe ukurikiranye na romoruki,n’ukubera iki ugomba gusiga umwanya uhagije hagati yawe nayo?</p><p>a) Bituma ubasha gukata ikorosi vuba.</p> <p>b) **Bifasha umuyobozi wa romoruki kukurebera mundorerwamo.**</p><p>c) Bifasha romoruki guhagarara byoroshye.</p><p>d) Bikurinda umuyaga.</p>|
+
+
+
+
+| :- |
+|<p>216\. Utegereje gukata iburyo kwiherezo ry’umuhanda.ukingirijwe nimodoka ihagaze.niki wakora?</p><p>**(a) Guhagarara hanyuma ukagenda gake    gake witonze kugezaho ureba neza.**</p><p>b) Kwihuta wegera imbere aho ushobora kureba ugafunga ikindi cyerekezo.</p><p>c) Gutegereza abanyamaguru bakakumenyesha ko ntakibazo wakata.</p><p>d) Guhindukiza imodoka vuba kugirango ushake indi nzira wakoresha.</p>|
+|<p>217\. Mugihe uri murugendo rurerure mumuhanda urombereje w’ibice byinshi.niki wakora mugihe wumva utangiye kugira ibitotsi?</p><p>a) Gucuranga umuziki cyane.</p><p>b) Kwihuta cyane kugirango usoze urugendo vuba.</p><p>**(c) Kuva mumuhanda urombereje w’ibice byinshi, ugahagarara ahantu hatekanye**.</p><p>d) Ntagisubizo cy’ukuri kirimo.</p>|
+|<p>218\.Kuki ugomba gucana amatara mugihe hatangiye kwijima?</p><p>a) Kugirango akerekanamuvuduko kagaragare neza.</p><p>**(b) Kugirango abandi biborohere kukubona**.</p><p>c) Kugira ngo ujyane nabandi bayobozi bibinyabiziga.</p><p>d) Kuko amatara yo ku muhanda ari kwaka</p>|
+|<p>219\.Urimo kugenda munzira nyabagendwa ni gute wanyura k’umuyobozi w’igare?</p><p>a) Kuvuza ihoni mugihe umunyuraho</p><p>b) Kumunyuraho umwegereye</p><p>**(c) Gusiga umwanya uhagije igihe umunyuraho**</p><p>d) Kugabanya umuvuduko mbere y’uko umunyuraho</p>|
+|<p>220\. Niki wakora igihe utabona neza usubira inyuma ?</p><p>a) Kumanura ikirahure cy’imodoka urebe inyuma</p><p> b) Gufungura umuryango w’imodoka ureba inyuma</p><p>**c) Gushaka umuntu uri hanze y’ikinyabiziga ukuyobora**</p><p>d) Gukoresha akarebanyuma kakwegereye</p>|
+|<p>220\.Igihe ukurikiwe n’ikinyabiziga gitwara abarwayi gicanye amatara y’intabaza arabagirana) Wakora iki ?</p><p>**(a) Kugihigamira ako kanya ndetse byaba ngombwa ugahagarara**</p> <p>b) Kongera umuvuduko kugirango ugisige</p><p>c) Kugumana umuvuduko wari ufite</p><p>d) Guhagarara bitunguranye mu muhanda</p>|
+
+
+ 
+| :- |
+|<p>220\.Wifuza kugana ibumoso imbere yawe. kubera iki ushaka umwanya mwiza kandi uhagije?</p><p>a) Kwemerera abandi bayobozi b’ibinyabiziga kugutambukaho</p><p>b) Kugirango ubone neza ikindi kerekezo ushaka gufata</p><p>c) **Kugirango ufashe abandi bose bakoresha umuhanda icyo ushaka gukora**</p><p>d) Kwemerera abandi bayobozi b’ibinyabiziga kukunyura muruhande rw’ibumoso</p>|
+|<p>223\. Utwaye ikinyabiziga inyuma ya romoruki.umuyobozi wayo akaguha ikimenyetso cyo kumutambukaho iburyo kandi ugana ibumoso, wakora iki ?</p><p>(a) **Kugabanya umuvuduko ukareka akagenda**</p><p>b) Gukomeza iburyo bwawe</p><p>c) Kumunyuraho iburyo bwe</p><p>d) Kugumana umuvuduko wari ufite ukamuvugiriza ihoni</p>|
+|<p>225\.Wegereye inzira y’abanyamaguru ugasanga bategereje kwambuka) Ugomba gukora iki?</p><p>a) Kureka abakuze n’abafite ubumuga bagatambuka mbere</p><p>(b) **Kugabanya umuvuduko witegura guhagarara**</p><p>c) Gukoresha amatara abamenyesha kwambuka</p><p>d) Gukoresha ibimenyetso byamaboko bibemerera kwambuka</p>|
+|<p>224\.    Uri hafi kunyura k’umuyobozi w’ikinyamitende. Muri ibi byapa bikurikira nikihe wakwitondera?</p><p>a) ![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.004.png)    </p><p>       b) ![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.005.jpeg)</p><p> **(c)  ![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.006.jpeg)**   </p>  <p>     d)  ![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.007.jpeg)</p>|
+
+
+
+
+| :- |
+|<p>227\.Kumanywa urumuri rudahagije hatabona neza .Ni ayahe matara y’urugendo ugomba gukoresha.</p><p>a) Amatara yo kubisika na matara kamena-bihu.</p><p>(b) **Amatara kamena-bihu y’imbere**</p><p>c) Amatara yo kubisikana</p><p>d) Amatara kamena-bihu y’inyuma</p>|
+|<p>227\.    Niyihe mpamvu ituma tugomba kugabanya umuvuduko mugihe hari ibihu ?</p><p>a) Igihe feri idakora</p><p>b) Igihe uhumishijwe n’amatara yo kubisikana</p><p>c) Igihe moteri imara ngo izime</p><p>**(d) Nuko biba bitoroshye kubona ikiri imbere**</p>|
+|<p>228\. Niki ugomba gukora igihe uhagaze ku muhanda igihe cy’ibihu?</p><p>(a) **Kureka amatara ndanga akaguma yaka**</p><p>a) Kureka amatara yo k,ubisikana na kamena-bihu akaguma yaka</p><p>b) Kureka amatara yo kubisikana akaguma yaka</p><p>c) Kureka amatara y’urugendo akaguma yaka</p>|
+|<p>229\.Iki cyapa cyivuga iki?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.008.png)</p><p>a) Umuvuduko ntarengwa 30 km/h</p> <p>**(b) Iherezo ry’umuvuduko muke ntarengwa utegetswe.**</p><p>b) Iherezo ry’Umuvuduko muto utegetswe</p><p>c) Umuvuduko uri hejuru 30 km/h</p>|
+
+
+
+
+| :- |
+|<p>230\. Icyapa gikurikira kivuze iki?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.009.jpeg)</p><p>a) Ntihanyurwa</p><p>**(b) Birabujijwe guhagarara umwanya munini**</p><p>c) Umuvuduko utarengeje</p><p>d) Inzira yabanyeshuli</p>|
+|<p>231\. Inzira nyabagendwa ifite ibyerekezo bibiri, uruhande rw’ibumoso rudufasha iki ?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.010.png)</p> <p>a) Kunyuranaho gusa, ntugaruke iburyo bwawe</p><p>**(b) Kunyuranaho cyangwa ugakatira ibumoso**</p><p> c) Hemerewe kugenda imodoka zihuta gusa</p><p>d) Gukatira iburyo gusa utanyuranyeho</p>|
+
+
+
+
+| :- |
+|<p>232\. Ni hehe byemewe kunyuranaho munzira y’icyerekezo kimwe?</p><p>(a) **ku gisate kiri Ibumoso bw’umuhanda**</p><p>(b) Kunyuranaho ntibyemewe</p><p>(c) Ku gisate kiri iburyo bw’umuhanda gusa</p><p>d) Ku gisate cy’ibumoso cyangwa iburyo</p>|
+|<p>233\. N’uwuhe muntu ushobora gusimbura ibimenyetso byo mumuhanda, dutegetswe kubaha?</p><p>a) Umuyobozi w’ikinyamitende</p><p>b) Umunyamaguru</p><p>**(c) Umukozi ubifitiye ububasha**</p><p>d) Umuyobozi wa bisi</p>|
+|<p>234\.Iki cyapa gisobanura iki ?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.011.jpeg)</p><p>(a) **Iherezo ry’ibibuzwa byose mu karere ku binyabiziga bigenda**</p><p>(b) Ntihemerewe kuhahagarara</p><p> c) Umuvuduko ntarengwa wemewe</p><p>d) Nta gisubizo cy’ukuri kirimo</p>|
+
+![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.012.jpeg)
+
+ 
+| :- |
+|<p>235\.Ibyapa bitegeka bikozwe muyihe shusho?</p><p>a) ![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.013.png) </p><p>b) ![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.014.png)</p><p>**c) ![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.015.png)**</p><p>d) ![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.016.png)</p>|
+|<p>236\. Nikihe cyapa cyerekena ko nta kinyabiziga gifite moteri cyemerewe kuhanyura?</p><p>a)![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.017.jpeg)   </p><p>  **(b) **</p><p>c)![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.019.jpeg) </p><p>d) ![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.018.jpeg)</p>|
+
+ 
+| :- |
+|<p>237\.iki cyapa gisobanura iki ?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.020.jpeg)</p><p>a) Uburenganzira bwo gutambuka mbere</p><p>b) Nta kinyabiziga kigendeshwa na moteri</p><p> c) ibyerekezo bibiri by’umuhanda </p><p>**(d) Birabujijwe kunyuranaho**</p>|
+|<p>238\. Imbere yawe iki cyapa kikubwiye iki ?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.021.jpeg)</p><p>a) Umuvuduko ntarengwa wemewe</p><p>b) Iherezo ry’ibyo wabuzwaga</p> <p>**(c) Guhagarara umwanya munini n’umwanya moto ntibyemewe**</p><p>d) Birabujijwe kuhinjira</p>|
+
+
+
+ 
+| :- |
+|<p>239\.Iki cyapa gisobanura iki?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.022.jpeg)</p><p>a) Umuhanda uzenguruka</p><p>b) Igice cy’umuhanda uzenguruka</p><p>**(c) Aho banyura bazengurutse**</p><p>d) Ibisubizo byose nibyo</p>|
+|<p>240\.Iki cyapa gisubanura iki?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.023.jpeg)</p><p>a) Iteme ridahoraho</p><p>**(b) Umuhanda utaringaniye**</p><p>c) Umuhanda w’injira mu kuzimu</p><p>d) Ubutaka bworoshye</p>|
+|<p>241\. Iki cyapa gisobanura iki?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.024.png)</p><p>**(a) Umuyaga w’intambike**</p><p>b) Urusaku rwo mu muhanda</p><p>c) Ikibuga cy’indege</p><p>d) Ibisubizko byose nibyo</p>|
+|242\. Iki Cyapa Gisobanura Iki? <p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.025.jpeg)</p><p>a) Iherezo Ry’inzira Y’abanyamaguru</p><p>**(b) Iherezo Ry’umuhanda Urombereje W’ibice Byinshi**</p><p>c) A Na B Ni Ibisubizo By’ukuri</p><p>d) Nta nzira ihari</p>|
+
+
+
+
+| :- |
+|<p>243\.Iki cyapa gisobanura Iki?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.026.jpeg)</p><p>a) Iherezo Ry’umuhanda Wi Byerekezo Bibiri</p><p>b) Iteme rinini Kandi rirerire</p><p>**(c) Ifungana Ry’umuhanda**</p><p>d) Iherezo ry’iteme rifunganye</p>|
+|<p>244\.Iki cyapa gisobanura iki?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.027.jpeg)</p><p>a) Isangano rifite ishusho ya T</p><p>**(b) Inzira idakomeza**</p><p>c) Aho baterefonera</p><p>d) Nta gisubizo cy’ukuri</p>|
+|245\.Iki cyapa gisobanura iki? <p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.028.jpeg)</p><p>a) Inzira y’abanyeshuri</p><p>b) Abanyamaguru ntibemerewe</p><p>c) Agace k’abanyamaguru nta kinyabiziga</p><p>**(d) Hegereye aho abanyamaguru bambukira**</p>|
+
+
+
+
+| :- |
+|<p>246\. wakora iki ubonye icyi cyapa ?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.029.jpeg)</p><p>a) guhagarara gusa igihe ibinyabiziga bikwegereye</p><p>**(b) guhagarara niyo nta kinyabiziga ubona**</p><p>c) Guhagarara gusa niba hari abana bategereje kwambuka</p><p>d) Guhagarara gusa igihe ikimenyetso cyaka ari umutuku</p>|
+|<p>247\. Iki cyapa gisobanura iki?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.030.jpeg)</p><p>(a) **Uguhinguka ku mwaro cyangwa ku nkombe cyangwa ahegereye icyome**</p><p>b) Inzira nyabagendwa iri kumusozi ucuramye</p><p>c) Umuhanda utaringaniye</p><p>d) Umuhanda wangijwe n’isuri</p>|
+
+
+![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.031.jpeg)
+
+|<p>248\. Iki cyapa gisobanura iki?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.032.png)</p><p>a) Hanyurwa na velomoteri gusa</p><p>b) Nta modoka</p><p>c) Hanyurwa nimodoka gusa</p><p>**(d) Ntihanyurwa n’amapikipiki**</p>|
+| :- |
+|<p>249\. Icyapa gitanga uburenganzira bwo gutambuka mbere kigira iyihe shusho?</p><p>a) ![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.033.png)</p><p>b) ![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.034.jpeg) </p> <p>c) ![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.034.jpeg)</p> <p> **(d) ![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.035.png)**</p>|
+|<p>250\. Iki cyapa gisobanura iki?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.036.jpeg)</p><p>(a) **Ahegereye amasangano y’inzira nyabagendwa n’inzira ya gari ya moshi ibambiye**</p><p>b) Inzira ibambiye imbere</p><p>c) Inzira itabambiye itanafunze</p><p>d) Imbere hari ikiraro cy’amatungo</p>|
+|251\.Iki cyapa gisobanura iki? <p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.037.jpeg)</p><p>a) Umuhanda wubatswe nabi</p><p>**(b) Agacuri kateza ibyago**</p><p>c) Umuhanda utaringaniye</p><p>d) Akazamuko gahanamye</p>|
+
+
+
+| :- |
+|<p>252\. Iki cyapa gisobanura iki?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.038.jpeg)</p><p>a) Guhindura icyerekezo ibumoso ugana aho bahagarara</p><p>**(b) Umuhanda udakomeza**</p><p>c) Nti byemewe guhindura icyerekezo ibumoso</p><p>d) Guhindura ikirekezo ibumoso ugana ku cyome</p>|
+|<p>253\. Mu bimenyetso bimurika itara ritukura rivuga iki ?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.039.png)</p><p>a) Hagarara kereste niba ushaka gukata ibumoso</p><p>b) Hagarara niba ubona ntabyago byaguteza</p><p>**(c) Birabujijwe kurenga icyo kimenyetso**</p><p>d) Wemerewe kugenda niba aho asohokera mu masangano y’umuhanda hafunze</p>|
+
+
+
+|<p>254\. Mubimenyetso bimurika itara ry’umuhondo risobanura iki ?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.040.jpeg)</p><p>a) Itegure kugenda</p><p>**(b) Birabujijwe gutambuka umurongo wo guhagarara** umwanya muto cg igihe uwo murongo udahari icyo kimenyetso ubwacyo</p><p>c) A na b ni ibisubizo by’ukuri</p><p>d) Nta gisubizo cy’ukuri kirimo</p>|
+| :- |
+|<p>255\. Mubimenyetso bimurika itara ry’icyatsi risobanura iki ?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.041.png)</p><p>a) Kwitegura kugenda</p><p>**(b) Uburenganzira bwo kurenga icyo kimenyetso**</p><p>c) Hagarara niba inzira isohoka mu isangano ry’imihanda ifunze</p><p>d) Ntagisubizo cyukuri kirimo</p>|
+|<p>256\. Umurongo ucagaguye wera mu muhanda usobanura iki?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.042.png)</p><p>(a) **Birabujijwe kuwurenga**</p> <p>a) Birabujijwe kuhahagarara</p><p>b) Wegereye ahaguteza ibyago</p><p>c) Kunyuranaho ntibyemewe</p>|
+
+
+
+ 
+| :- |
+|<p>257\. Iki cyapa gisobanura iki?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.043.jpeg)</p><p>(a) **Ukugendera mu muhanda ubisikanirwamo**</p><p>b) Ukugendera mu muhanda ubisikanirwamo ntibyemewe</p><p>c) Cyerekana aho umunyegare agomba kunyura</p><p>d) Nta gisubizo cy’ukuri kirimo</p>|
+|<p>258\. Iki cyapa gisobanura iki?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.044.png)</p><p>a) Ahatangirwa serivisi ni muri metero 30.</p><p>b) Umuvuduko munini ntarengwa utegetswe ni 30 km/h.</p><p>**(c) Umuvuduko muto ntarengwa utegetswe ni 30 km/h.**</p><p>d) Aho ibinyabiziga bihagarara ni imbere mu birometero 30.</p>|
+|<p>259\. Iki cyapa gisobanura iki?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.045.jpeg)</p><p>a) Ahegereye umuhanda unyerera.</p><p>b) Imbere ipine ryapfumutse.</p> <p>**(c) Ahegereye icyago kidasobanuye ukundi**.</p><p>d) Imbere hari hatangirwa serivisi.</p>|
+
+
+
+ 
+| :- |
+|<p>260\. Iki cyapa gisobanura iki?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.046.png)</p><p>a) Imbere hari umuyobozi w’amatungo.</p><p>b) Imbere hari inzira ya gari ya moshi.</p><p>**(c) Ahegereye amasangano y’inzira** nyabagendwa n’inzira ya gari ya moshi hatabambiye</p><p>d) Inkomane ibambiye.</p>|
+|<p>261\. Muri iri sangano ry’umuhanda hari icyapa gisobanura “guhagarara” n’umurongo wera urombereje munzira . Niyihe mpamvu hari iki cyapa cyo “guhagarara” hano?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.047.jpeg)</p><p>**(a) Biragoye kubona neza mu muhanda munini**</p><p>b) Umuvuduko mu muhanda munini wavanyweho</p><p>c) Ni mwisangano ry’umuhanda rikoreshwa cyane</p><p>d) Hari imirongo iburira ibyago bitunguranye</p>|
+|<p>262\.Ni iki gikenewe muri ibi bikurikira kugirango ubashe gutwara imodoka mu muhanda biteganywa nitegeko</p><p>a) Uruhushya rwa burundu rwo gutwara ibinyabiziga rugifite agaciro</p> ![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.048.png) <p>b) Ubwishingizi bw’ikinyabizaga bugifite agaciro</p><p>c) Icyemezo cy’iyandikwa ry’ikinyabiziga</p><p>**(d) Ibisubizo byose nibyo**</p>|
+
+
+
+
+| :- |
+|<p>263\.Ikinyabiziga gishya gikenerwa gusuzumwa bwambere nyuma y’igihe kingana iki ?</p><p>a) Nyuma y’umwaka umwe</p><p>**(b) Nyuma y’imyaka ibiri**</p><p>c) A na b ni ibisubizo by’ukuri</p><p>d) Nta gisubizo cy’ukuri</p>|
+|<p>264\.Ni ryari ushobora kwakiriza icyarimwe amatara yose ndangacyerekezo y’ikinyabiziga ?</p><p>a) Mu gihe ushaka kuburira abandi bakoresha umuhanda</p><p>b) Mu gihe ikinyabiziga cyawe gishobora guteza ibyago</p><p>**(c) A na b ni ibisubizo by’ukuri**</p><p>d) Ntagisubizo cy’ukuri</p>|
+|<p>265\.Ugeze ahabereye impanuka yo mumuhanda bwambere ugasanga abakomeretse bikomeye. wakiriza icyarimwe amatara y’ibyerekezo byombi, niki kindi ushobora gukora?</p><p>**(a) Kumenya neza niba imbangukiragutabara yahamagawe**</p><p>a) Guhagarika ibinyabiziga bindi no kubasaba ubufasha</p><p>b) A na b ni ibisubizo by’ukuri</p><p>c) Nta gisubizo cy’ukuri</p>|
+|<p>266\. Umuyobozi w’ikinyabizaga cy’ikoreye ibintu bishobora gufata inkongi, n’ikihe cyapa cyerekana ko ibyo atwaye biturika by’afata inkongi ?</p><p>a) ![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.049.jpeg)</p><p>**(b) ![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.050.jpeg)**</p> <p>c) ![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.051.jpeg)</p><p>d) ![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.052.png)</p>|
+
+
+
+
+| :- |
+|<p>267\.Wakoze impanuka yo mu muhanda , ni ikihe cyangombwa polisi ishobora kugusaba kucyerekana ?</p><p>a) Icyemezo cy’iyandikwa ryi ikinyabiziga</p><p>**(b)Uruhusa rwa burundu rwo gutwara ikinyabiziga**</p><p>b) Uruhushya rwagateganyo</p><p>c) Imikorere y’ikinyabiziga</p>|
+|<p>268\. Uhuye n’ingorane utwaye ikinyabiziga , mu muhanda ufite ibyerekezo bibiri, ufite ikimenyetso kiburira cya mpandeshatu . wagishyira mu ntera ingana iki uvuye aho ikinyabiziga cyahagaze</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.053.jpeg)</p><p>a) Metero 5</p><p>**(b) Metero 25**</p><p>c) Metero 45</p><p>d) Metero 100</p>|
+|269\. Umuyobozi usunika ipikipiki agomba gufatwa nka: <p>![C:\Users\rnp\Desktop\Panneaux\Publication1.jpg](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.054.jpeg)</p><p>a) Umunyamaguru **(b)Umuyobozi w’ikinyabiziga** c)Umugenzi</p><p>d)A na b ni ibisubizo by’ukuri</p>|
+
+
+
+
+| :- |
+|<p>270\. Icyapa gikoze mw’ishusho ya mpandeshatu kimenyesha:</p><p>![C:\Users\rnp\Desktop\Questions proposal\Panneaux\Q1.jpg](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.055.jpeg)</p><p>**(a)ibyago**</p><p>a) ibibujijwe</p><p>b) ibitegetswe</p><p>c) ntagisubizo cy’ukuri kirimo</p>|
+|271\. Iki cyapa gisobanura : <p>![C:\Users\rnp\Desktop\Questions proposal\Panneaux\France_road_sign_AB6.svg.png](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.056.png)</p><p>**(a) uburenganzira bwo gutambuka mbere**</p><p>b) uburenganzira bwo gutambuka mbere mu yandi masangano y’umuhanda akwegereye</p><p>c) ibyago imbere mu masangano y’umuhanda ukwegereye</p><p>d) a na b ni ibisubizo by’ukuri</p>|
+
+
+
+
+| :- |
+|<p>272\. Iki cyapa gisobanura:</p><p>![C:\Users\rnp\Desktop\Questions proposal\Panneaux\download.png](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.057.png)</p><p>(**a) Ntihanyurwa n’abanyamaguru**</p><p>b) Akayira kabanyamaguru</p><p>c) Aho abanayamaguru bambukira</p><p>d) B na c ni ibisubizo by’ukuri</p>|
+|273\. Urenze munsisiro ,ukahasanga ibyapa bibiri iburyo bwawe bimenyesha ko irangira ry’imirimo bitewe nicyo ibyo byapa bemenyesha wagendera kuwuhe muvuduko ? <p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.058.jpeg)</p><p>a) 70 km/h</p><p>b) 50 km/h</p><p>c) 40 km/h</p><p>**(d) 80 km/h**</p>|
+
+
+
+| :- |
+|<p>274\. Iki cyapa gisobanura iki?</p><p>![C:\Users\rnp\Desktop\Questions proposal\Panneaux\C2_Zoom.gif](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.059.png)</p><p>a) Hoteli</p><p>**(b) Ibitaro**</p><p>c) Ahagenewe kugwa kajugujugu</p><p>d) B na c ni ibisubizo by’ukuri</p>|
+|<p>275\. igice kinzira nyabagendwa gikikijwe n’imirongo ibiri y’umweru iciyemo uduce kandi iteganye :</p><p>![C:\Users\rnp\Desktop\Panneaux\Capture.PNG](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.060.jpeg)</p> <p>a) ahagenewe guhagarara umwanya munini n’umuto</p><p>b) ahagenewe abanayamaguru</p><p>**(c) ahagenewe inzira y’ibinyamitende**</p><p>d) a na b ni ibisubizo by’ukuri</p>|
+
+
+
+
+| :- |
+|<p>276\. iki cyapa kibuza abayobozi bibinyabiziga kunyuranaho :</p><p>![C:\Users\rnp\Desktop\Panneaux\B3.gif]</p><p>a) iburyo</p><p>**(b) ibumoso**</p><p>c) iburyo n’ibumoso</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>277\. Iki cyapa kibuza kunyuranaho ibumoso ku binyabiziga bikurikira :</p><p>![C:\Users\rnp\Desktop\Panneaux\B3.gif]</p><p>a) ku binyabiziga byose</p><p>b) ku binyabiziga byose bifite moteri</p><p>**(c) kubinyabiziga byose uretse ibinyamitende ibiri n’amapikipiki adafite akanyabiziga ko k’uruhande**</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+
+
+
+|<p>278\. iki kimenyetso cyaka kinyemerera gukomeza:</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.063.png)</p><p>a) yego</p><p>b) yego ariko utanga inzira kubanyamaguru</p><p>c) yego utanga inzira kubandi bayobozi b’ibinyabizaga baturutse mukindi cyerekezo</p><p>**(d) oya**</p>|
+| :- |
+|<p>279\. Mu muhanda ufite uruhererekane rw’amakoni, feri y’urugendo ikoreshwa ryari?</p><p>![C:\Users\rnp\Desktop\Panneaux\France_road_sign_A1d.svg.png](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.064.png)</p><p>(a) **Mbere ya buri koni**</p><p>b) Muri buri koni</p><p>c) Nyuma ya buri koni</p><p>d) Nta gisubizo cy’ukuri kirimo</p>|
+|<p>280\. Ni ikihe cyapa muri ibi kintegeka gutanga inzira:</p><p>![C:\Users\rnp\Desktop\Publication5.jpg](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.065.jpeg)</p> <p>a) Icyapa A19</p><p>**(b) Icyapa B5**</p><p>c) Icyapa B6</p><p>d) Ntagisubizo cy’ukuri kirimo</p>|
+
+
+
+
+| :- |
+|<p>281\.Iki cyapa gisobanura :</p><p>![C:\Users\rnp\Desktop\Panneaux\535900.jpg](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.066.jpeg)</p><p>**(a) utubuye dutaruka mu muhanda**</p><p>b) umuhanda urimo amazi</p><p>c) umuhanda unyerera</p><p>d) a na b ni bisubizo by’ukuri</p>|
+|<p>282\. Uri umuyobozi wa velomoteri, uhuye n’umwe munshuti zawe agusaba ko wa mutwara ukamusiga ku’wundi muhanda) ufite imyaka 18 ariko nta ngofero yindi yabigenewe ufite. wamutwara?</p><p>![C:\Users\rnp\Desktop\Panneaux\Publication9.jpg](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.067.jpeg)</p><p>a) yego</p><p>b) yego usibye urugendo rurerure</p><p>c) yego usibye urugendo rugufi</p><p>**(d) Oya**</p>|
+
+
+
+|<p>283\.Ni ikihe cyapa cy’inyemerera gutambuka mbere mu masangano y’umuhanda?</p><p>![C:\Users\rnp\Desktop\Panneaux\Publication7.jpg](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.068.jpeg)</p><p>**(a) Icyapa B3**</p><p>b) Icyapa A22 <sup>a</sup></p><p>c) Icyapa A 20</p><p>d) Ibisubizo byose ni ukuri</p>|
+| :- |
+|<p>284\. Mbere yo kunyura kumuyobozi w’ikinyabiziga cy’imitende ibiri, ngomba gucana akaranga cyerekezo k’ibumoso?</p><p>![C:\Users\rnp\Desktop\Panneaux\Publication8.jpg](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.069.jpeg)</p><p>(a) **Yego buri gihe**</p><p>b) Yego igihe hari ikinyabiziga kinkurikiye</p><p>c) Yego iyo nkurikiwe nibindi binyabiziga by’imitende ibiri</p><p>d) Oya nta na rimwe kunyura kubinyabiziga by’imitende ibiri</p>|
+
+
+
+|<p>285\. Nshobora kunyuraho umuyobozi w’ikinyabiziga wahagaze imbere y’inzira yabanyamaguru?</p><p>![C:\Users\rnp\Desktop\Panneaux\DsJFtVFXgAEOnXv.jpg](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.070.jpeg)</p><p>a) yego</p><p>b) yego nyuma yo kuvuza ihoni</p><p>c) yego mu gihe nkurikiwe n’ibindi binyabiziga</p><p>**(d) Oya**</p>|
+| :- |
+|<p>286\.Hejuru y’aka kanunga:</p><p>![C:\Users\rnp\Desktop\Panneaux\France_road_sign_A2b.svg.png](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.071.png)</p><p>a) Nshobora kunyura ku kinyabiziga icyo aricyose mu gihe nagabanyije umuvuduko</p><p>b) nshobora kunyura gusa kubinyabiziga by’imitende ibiri</p><p>**(c) kunyuranaho ibumoso birabujijwe**</p><p>d) a na b ni ibisubizo by’ukuri</p>|
+|<p>287\.Mu gihe cy’impanuka mu muhanda n’ubundi bushotoranyi ni yihe nimero ya telefone y’ubutabazi wahamagara : <p>![C:\Users\rnp\Desktop\Panneaux\_img.jpg](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.072.jpeg)</p><p>a) 911</p><p>b) 100</p><p>**(c) 112**</p><p>d) 131</p>|
+
+
+
+
+| :- |
+|<p>288\.Ugeze bwa mbere ahabereye impanuka yo mu muhanda harimo inkomere wakora iki ?</p><p>![C:\Users\rnp\Desktop\Panneaux\Publication12.jpg](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.073.jpeg)</p><p>a) gusohora inkomere mu kinyabiziga</p><p>b) kubaha icyo kunywa</p><p>**(c) ku menyesha impanuka no guhamagara ubutabazi**</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>289\.Mugihe ikinyabiziga cyacu bakinyuzeho</p><p>(a) **Tugomba kugabanya umuvuduko**</p><p>b) Tugomba kongera umuvuduko</p><p>c) Tugomba kongera umuvuduko n’ubwitonzi</p><p>d) Nta gisubizo cy’ ukuri kirimo</p>|
+
+
+
+|<p>290\.Ntibyemewe gukoresha telephone</p><p>a) Mu biro bya leta</p><p>b) Mu biro bya Polisi</p><p>**(c) Igihe utwaye ikinyabiziga**</p><p>d) Ibisubizo byose ni ukuri</p>|
+| :- |
+|<p>291\.Mbere yo kunyura ku kindi kinyabiziga, ni ngombwa kumenya ko:</p><p>a) Nta kindi kinyabiziga kinturutse inyuma</p><p>**(b) Umuhanda ubona neza, no kwitondera kunyuranaho**</p><p>c) Ikinyabiziga kinturutse imbere gishaka gukatira I buumoso</p><p>d) Nta gisubizo cy’ukuri</p>|
+|<p>292\.Ikindi kinyabiziga kiguturutse inyuma kiguterera amatara y’urumuri rumyasa, wakora iki?</p><p>a) Kongera umuvuduko kugira ngo intera iri hagati yawe n’ukuri inyuma igumeho</p><p>b) Fata feri y’urugendo kugira ngo umwereke ko ugiye guhagarara</p><p>**(c) Emerera icyo kinyabiziga kugutambukaho niba imbere ntacyago gihari**</p><p>d) Nta gisubizo cy’ukuri kirimo</p>|
+|<p>293\.Mu gihe Umuntu ufite ubumuga bwo kutabona yambuka umuhanda yitwaje inkoni yera y’abatabona:</p><p>(a) **Umuyobozi w’ikinyabiziga agomba gufata iyo nkoni nk’icyapa kimumenyesha ko agomba guhagarara**</p><p>b) Vuza ihoni ukomeze</p><p>c) Gabanya nurangiza ukomeze witonze</p><p>d) Ibisubizo byose ni ukuri</p>|
+|<p>294\.Amatara y’urugendo, mu gihe cy’ibihu:</p><p>a) Ni meza kuko atuma ureba kure</p><p>(c) **Ni mabi kuko arakugarukira akaguhuma amaso**</p><p>c) Akwizeza ko abandi bakubona</p><p>d) Nta gisubizo cy’ukuri</p>|
+|<p>295\.Gutwara uzungazunga mu muhanda:</p><p>a) Ni bibi ku kinyabiziga cy’imitende ibiri</p><p>**(b) Ni bibi igihe cyose**</p> <p>c) Ni bibi ku kinyabiziga cy’imitende ine</p><p>d) Nta gisubizo cy’ukuri</p>|
+
+
+
+
+| :- |
+|<p>296\.Telephone ngendanwa ntigomba gukoreshwa:</p><p>a) Ahari ibimenyetso bimurika</p><p>b) Igihe utwaye ikinyabiziga Ku muvuduko wa 20km/h</p><p>c) A na B ni ibisubizo by’ukuri</p><p>**(d) Nta gisubizo cy’ukuri**</p>|
+|<p>297\.Kunyuranaho bibujijwe gusa igihe:</p><p>a) Igihe mu muhanda hagati hashushanyijemo umurongo w’umweru ucagaguye.</p><p>**(b) Umuhanda ushushanyijwemo umurongo wera udacagaguye**</p><p>c) Ikinyabiziga gitwawe ku musozi unyerera</p><p>d) Nta gisubizo cy’ukuri</p>|
+|<p>298\.Mu gihe utwaye ikinyabiziga ni joro ucanye amatara maremare ugahura n’ikindi kinyabiziga giturutse mu kindi cyerecyezo:</p><p>a) Gukomeza ibumoso</p><p>b) Kuzimya ucana amatara maremare n’amagufi</p><p>**(c) Kuzimya amatara maremare kugeza ikindi kinyabiziga gitambutse**</p><p>d) Nta gisubizo cy’ukuri kirimo</p>|
+|<p>299\. Igihe umuyobozi w’inyamaswa, afite inyamaswa idatuje, asaba ko ibinyabiziga bihagarara:</p><p>(a) **Umuyobozi w’ikinyabiziga agomba guhagarara**</p><p>a) Umuyobozi w’ikinyabizigaagomba kuvuza ihoni agukomeza</p><p>b) Umuyobozi w’ikinyabiziga agomba kugabanya umuvuduko</p><p>c) Ibisubizo byose ni ukuri</p>|
+|300\.Iyo mu muhanda hashushanyijemo umurongo wera ucagaguye, ntugomba <p>a) Ntugomba kujya mu kindi gice cy’umuhanda</p><p>**(b) Ushobora kujya mu kindi gice cy’umuhanda bibaye ngombwa**</p><p>b) Agomba guhagarika ikinyabiziga</p><p>c) Nta gisubizo cy’ukuri</p>|
+
+
+
+
+| :- |
+|<p>301\.Kuvuza ihoni bibujijwe:</p><p>a) Ku musigiti, ku rusengero, ku rutambiro</p><p>**(b) Hafi y’ibitaro**</p><p>c) Hafi y’ubuyobozi bwa polisi</p><p>d) Nta gisubizo cy’ukuri</p>|
+|<p>302\.Icyemezo cy’Isuzuma ry’ikinyabiziga kimara igihe kingana iki?</p><p>a) Amezi 6 kubinyabiziga bikora ubucuruzi</p><p>b) Amezi 12 ku binyabiziga bidakora ubucuruzi</p><p>c) Imyaka 2</p><p>**(d) A na B ni ibisubizo by’ukuri**</p>|
+|<p>303\. N’iyihe myifatire myiza wagira ugeze aho abana bari hafi y’inzira nyabagendwa?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.074.jpeg)</p><p>**(a) Itonde , witegereze ni biba ngongwa ubaburire unitegura kuba wahagarara.**</p><p>b) Ihute urenge aho abo bana bari</p> <p>c) Komeza ugume ku muvuduko munini</p><p>d) Komeza ugendere kuruhande rw’iburyo</p>|
+
+
+
+
+| :- |
+|<p>304\.Umuyobozi w’ikinyabiziga yegereye aho umwana w’umuhungu utwaye akagare k’abana asezera ku nshuti ye . N’iyihe myifatire myiza wagira imbere yabo?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.075.jpeg)</p><p>a) Ikomereze nkaho ataragera munzira nyabagendwa</p><p>**(b) Itegure kureka uwo mwana w’umuhungu atambuke, kuko yajya mu muhanda atitaye ku kinyabiziga cyawe**</p><p>c) Gabanya umuvuduko ubwire uwo mwana yambuke ukoresheje ibimenyetso</p><p>d) Komeza nkaho uwo mwana akiri munzira y’abanyamaguru</p>|
+|<p>305\.Nk’umuyobozi w’ikinyabiziga, n’iyihe myitwarire wagira?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.076.jpeg)</p><p>**(a) Umuyobozi w’ikinyabiziga agomba gukomeza**</p><p>b) Umuyobozi w’ikinyabiziga agomba kuguma mu ruhande rw’iburyo kugira ngo ahe inzira umumotari</p><p>c) Umuyobozi w’ikinyabiziga agomba gutegereza</p><p>d) Umuyobozi w’ikinyabiziga agomba gutanga  inzira ayiha umu motari</p>|
+
+
+
+|<p>306\.Umuyobozi w’ikinyabiziga ageze hafi y’inzira y’abanyamaguru yakwitwara ate?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.077.jpeg)</p><p>**(a) Kugabanya umuvuduko mu gihe cyiza, ukitegura guhagarara**</p><p>b) Gukomeza agendera ku muvuduko uri hejuru, mu gihe umunyamaguru ategereje</p><p>c) Kuguma ku muvuduko yari afite mu gihe umunyamaguru atarambuka</p><p>d) Kuvuza ihoni akaguma ku muvuduko yahozeho</p>|
+| :- |
+|<p>307\.Umuyobozi w’ikinyabiziga akurikiye ibinyabiziga bibiri, yifuza kubinyuraho. N’iki yashingiraho mbere yo kubanyuraho?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.078.jpeg)</p><p>a) Ugomba kuzinyuraho zombi</p><p>**(b) Sibyiza ko yazinyuraho atabasha kureba neza imbere ye**</p><p>c) Ibyapa by’aho ageze ntibimwemerera kunyuranaho</p><p>d) Imbere har’inzira y’abanyamaguru</p>|
+|308\.N’iki umuyobozi w’ikinyabiziga yakora ashaka gukatira iburyo? <p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.079.jpeg)</p><p>a) Vuza ihoni umenyesha umunyegare ko ushaka gukatira iburyo</p><p>b) Kata ikoni mbere y’umunyegare</p><p>**(c) Emerera umunyegare akomeze inzira ye**</p><p>d) Ongera umuvuuko kugira ngo umutange gukata mbere ye</p>|
+
+
+
+
+| :- |
+
+
+
+|<p>309\. N’ayahe matara umuyobozi w’ikinyabiziga agomba gukoresha mugihe cy’ibihu?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.080.jpeg)</p><p>**(a) Amatara kamena bihu y’imbere n’ay’inyuma** hamwe n’amatara magufi</p><p>b) Amatara kamenabihu y’imbere n’ay’inyuma</p><p>c) Amatara magufi</p><p>d) Urumuri rusanzwe</p>|
+| :- |
+|<p>310\.Muri ibi binyabiziga n’ikihe gihagaze nabi?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.081.jpeg)</p><p>**(a) Ibinyabiziga byombi**</p><p>b) Ikinyabiziga cy’icyatsi</p><p>c) Ikinyabiziga cy’umutuku</p><p>d) Nta n’imwe</p>|
+|311\. Ni gute umuyobozi w’ikinyabiziga yanyura kumunyegare hano? <p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.082.jpeg)</p><p>a) Aha umuyobozi w’ikinyabiziga ntashobora kumunyuraho</p><p>b) Atarenze umurongo wera ucagaguye</p><p>**(c) Arenze umurongo wera ucagaguye**</p><p>d)Nta kurenga iyi mirongo yombi</p>|
+
+
+
+ 
+| :- |
+|<p>312\. N’iki umuyobozi w’ikinyabiziga yakora aramutse ahumishijwe n’urumuri rw’amatara yikinyabiziga giturutse mu kindi cyerekezo?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.083.jpeg)</p><p>a) humisha ikinyabiziga giturutse mu kindi cyerekezo ucana amatara maremare. </p><p>**(b) Egera kunkombe y’iburyo bw’umuhanda** nibinashobioka ugabanye umuvuduko.</p><p> c) Canira amatara ikinyabiziga kiva mukindi cyerekezo</p><p>d) Ongera umuvuduko kugira ngo usohoke mururwo rumuri vuba bishoboka</p>|
+|313\. Niki ugomba gukora igihe wegereye ikimenyetso kimurika kiva mucyatsi kijya mumuhondo? <p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.084.jpeg)</p><p>a) Ongera umuvuduko kugirango usoze ikoni</p><p>b) Komeza kuko itara ry’icyatsi rigiye kwaka.</p><p>**(c )Hagarara niba utateza ibyago**</p><p>d)Komeza ubwitonzi witegura guhagarara mugihe itara rihindutse umutuku</p>|
+
+
+
+
+| :- |
+|<p>314\. Niki umuyobozi w’ ikinyabiziga akwiriye kumenya mugihe akurikiye umuyobozi wikinyamitende ibiri kandi imodoka y’ umweru iri gusubira inyuma ijya mumuhanda?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.085.jpeg)</p><p>a) Umuyobozi wikinyabiziga gisubira inyuma azahagarara nabona umuyobozi w’ ikinyabimitende ibiri</p><p>b) Umuyobozi w’ ikinyamitende ibiri ashobora gusaba umuyobozi w’ ikinyabiziga gisubira inyuma guhagarara</p><p>c) Amatara yoguhagarara ashobora kuzima ikinyabiziga gikomeza gusubira inyuma</p><p>**(d) Umuyobozi w’ ikinyamitende ashobora guhagarara bitunguranye**</p>|
+|<p>315\. Aha niki umuyobozi w’ ikinyabiziga yakora mugihe ashaka kujya iburyo?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.086.jpeg)</p> <p>a) Gukomeza hagati y’ abanyamaguru babiri</p><p>b) kuvuza ihoni akongera umuvuduko</p><p>**(c )Guhagarara akareka abanyamaguru bakambuka**</p><p>d) Reka umunyamaguru umwe atambuke ubone umwanya wogutambuka</p>|
+
+
+
+
+| :- |
+|<p>316\. Aha umuyobozi w’ ikinyabiziga ashobora kunyura kuri aba abanyamagare?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.087.jpeg)</p><p>**(a) Oya, umuyobozi ntashobora kureba imbere neza**</p><p>b) Yego, kuko umurongo wera ucagaguye udashobora kuba udacagaguye.</p><p>c) Yego, abanyamagare bazumva imodoka bave munzira</p><p>d) Yego, kuko buri kinyabiziga kiva mukindi cyerekezo gishobora kuguha inzira</p>|
+|<p>317\. Aha niki umuyobozi w’ ikinyabiziga yakora?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.088.jpeg)</p><p>**(a) Kwemerera abanyamaguru kwambuka umuhanda**</p><p>b) Kuvuza ihoni agakomeza</p><p>c) Tengereza munzira y’ abanyamaguru kugeza imidoka izimye d)Kongera umuvuduko mbere yuko abanyamaguru bambuka</p>|
+|318\. Muri ibi binyabiziga bine ni ikihe kiri mu buryo bwiza bwo gukata ikoni ry’iburyo kiva mu muhanda munini kijya <p>mu muto?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.089.jpeg)</p><p>**(a)Ikinyabiziga cya mbere kiri mu buryo bwiza bwo gukata ikoni ry’iburyo** b)Ikinyabiziga cya kabiri kiri mu buryo bwiza bwo gukata ikoni ry’iburyo c)Ikinyabiziga cya gatatu kiri mu buryo bwiza bwo gukata ikoni ry’iburyo d)Ikinyabiziga cya kane kiri mu buryo bwiza bwo gukata ikoni ry’iburyo</p>|
+
+
+ 
+| :- |
+|<p>319\. Niki umuyobozi w’ikinyabiziga yakora mu gihe abonye icyapa kiburira cya mpande eshatu gitukura mu muhanda?</p><p>a) Hagarara utegereze amabwiriza</p><p>**(b) Umuyobozi w’ikinyabiziga agomba kugabanya umuvuduko ateganya icyago imbere ye**</p><p>c) Kukireka, ukagumana umuvuduko ufite ugakomeza</p><p>d) Hagarara kuri icyo cyapa cya mpande eshatu mbere yo gukomeza</p>|
+|<p>320\.Niki umuyobozi w’ikinyabiziga agomba gukora ahuye n’amatungo mu muhanda?</p><p>a) Kuvuza ihoni kugirango zihunge</p><p>**(b) Umuyobozi w’ikinyabiziga agomba kugabanya umuvuduko zigatambuka**</p><p>c) Kwatsa amatara maremare kugirango utambuke wihuta mu buryo bushoboka bwose</p><p>d) Kuvuza ihoni ukanyuraho witonze</p>|
+|<p>321\.Niki umuyobozi w’ikinyabiziga yakora abonye otobisi iri kuva aho zagenewe guhagararwamo?</p><p>a) Gukomeza iruhande kuko ufite uburenganzira bwo gukomeza</p><p>**(b) Gabanya umuvuduko maze ureke ikomeze**</p><p>c) Gerageza unyureho kugirango atagutinza</p><p>d) Menyesha umuyobozi wa otobisi aguhe inzira</p>|
+|<p>322\. Niki umuyobozi w’ikinyabiziga yakora mugihe ahuye n’ikinyabiziga cyakije itara ry’umuhondo rimyatsa?</p><p>a) Mu gihe ikinyabiziga giturutse mu kindi cyerekezo kitagishoboye kugenda</p> <p>b) Mu gihe ikinyabiziga ndakumirwa giturutse mu kindi cyerekezo</p><p>c) Mu gihe ikinyabiziga giturutse mu cyindi cyerekezo cy’ihuta</p><p>**(d) Kugabanya umuvuduko witegura guhagarara**</p>|
+
+
+
+
+| :- |
+|<p>323\. Umuyobozi w’ikinyabiziga yakara iki mu gihe anyuzweho nikindi kinyabiziga?</p><p>(a) **Gukomezanya umuvuduko warufite**</p><p>b) Kujya i buryo</p><p>c) Kujya I bumoso</p><p>d) Kwongera umuvuduko</p>|
+|<p>324\. Umurongo w’umweru urombereje uciye hagati mu muhanda uvuze iki?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.090.jpeg)</p><p>a) **Umuyobozi wese abujijwe kuwurenga**</p><p>b) Abanyamitende wemerewe kunyuranaho</p><p>c) Kuhahagara biremewe</p><p>d) Guhindukira ku manywa</p>|
+|<p>325\. Umuyobozi w’ikinyabiziga ugeze mu isangano ry’umuhanda ugenzurwa ni ibimenyetso by’amatara yaka agasanga ataka (adakora), yakora iki?</p><p>a) **Guca mu isangano n’ubwitonzi nkaho ntakimenyetso kikuyobora kirimo, witondera abandi bayobozi b’ibinyabiziga**</p><p>b) Gutwara neza ntagutinda mw’isangano</p><p>c) Guhagarara mw’isangano no guha inzira abayobozi b’ibinyabiziga baturuka iburyo bwawe</p><p>d) Gucana amatara yose ndanga cyerekezo ugakomeza</p>|
+|<p>326\. Ni iki umuyobozi w’ikinyabiziga yakora ahuye n’ishyo ry’amatungo munzira nyabagendwa?</p><p>a) Kuvuza ihoni kugirango ayo matungo atambuke</p><p>b) **Umuyobozi w’ikinyabiziga agomba kugabanya umuvuduko no gutambukana ubwitonzi**</p><p>c) Kwatsa amatara maremare n’amagufi no gutambuka vuba bishoboka</p><p>d) Kuvuza ihoni no gutambukana ubwitonzi</p>|
+
+
+
+|<p>327\.Umuyobozi w’ikinyabiziga yakora iki igihe ageze ku kazamuko gashinze cyane ?</p><p>a) **Umuyobozi w’ikinyabiziga agomba kugabanya umuvuduko akaguma kuruhande rw’iburyo yirinda ibyago**</p><p>b) Gukandagira ikirenge cya amburiyage no kuvuza ihoni ryo kumunyesha</p><p>c) Kugumana umuvuduko n’ikirekezo wari ufite mu muhanda</p><p>d) Guhagarara ku mpera zuwo musozi</p>|
+| :- |
+|<p>328\. Umuyobozi w’ikinyabiziga yakora iki ahuye n’ikinyabiziga giturutse mukindi kerekezo, gicanye amatara yumuhondo aburira ?</p><p>a) **Umuyobozi w’ikinyabiziga agomba kugabanya umuvuduko no gutambukana ubwitonzi**</p><p>b) Ikinyabiziga cy’ubutabazi</p><p>c) Yagize ibyago</p><p>d) Umuvudoko urenze</p>|
+|<p>329\.Niki umuyobozi w’ikinyabiziga yakora ageze hafi y’inzira ifunganye igihe ahuye n’ikindi kinyabiziga giturutse mukindi cyerekezo?</p><p>a) Agomba kuguma mumwanya yarimo agategereza gutambuka kwikindi kinyabiziga</p><p>b) **kugabanya umuvuduko no gusiga umwanya uhagije hagati y’ibinyabiziga byombi**</p><p>c) gutegereza ko undi muyobozi w’ikinyabiziga ava mu muhanda</p><p>d) gutwarira ikinyabiziga mu muhanda hagati kugirango abandi bayobozi bahagararare</p>|
+|<p>330\.Umuyobozi w’ ikinyabiziga agendera inyuma y’ikindi kinyabizaga akaba adateganya kukinyuraho  yakora iki ?</p><p>a) kuguma yicyo kinyabiziga hagati mu muhanda</p><p>b) **kuguma inyuma yacyo kugirango yemerere ibindi binyabiziga gutambuka**</p><p>c) gutwarira inyuma ye umwegereye cyane kugirango ureke ibindi binyabiziga bibanyureho</p><p>d) gutanga ibimenyetso kubindi binyabiziga ko byabanyuraho</p>|
+|<p>331\.Niryari amatara ndanga cyerekezo agomba kugaragazwa kubandi bakoresha umuhanda ?</p><p>A) igihe gusa ari ngombwa amenyesha ibindi binyabiziga bimukurikiye</p><p>B) igihe gusa aringombwa kuburira abandi bayobozi bava mukindi cyerekezo</p><p>C) **mugihe gikwiye ushaka kumenyesha abandi bakoresha umuhanda icyo ugiye gukora**</p><p>D) keretse ahari ibimenyetso byo mu muhanda byerekana icyerekezo cyawe</p>|
+|332\.Gutinda gutanga ibimenyetso ku muyobozi w’ikinyabiziga ni gute bibangamira abandi bakoresha umuhanda ? <p>a) bigira ingaruka gusa kubaturuka mukindi cyerekezo</p><p>b) **bishobora gutuma batabona igihe gihagije cyo gushyira mubikorwa icyo amenyeshejwe**</p><p>c) baba bafite igihe gihagije cyo gushyira mu bikorwa ibyo bamyeshejwe</p><p>d) ntacy bibabangamiraho</p>|
+
+ 
+| :- |
+|<p>333\.Ni ubuhe buryo bwiza bwakurikizwa igihe hari umuntu wakomerekeye mu mpanuka yo mu muhanda ?</p><p>a) Ku mushyira kunkengero y’umuhanda</p><p>b) **Kutamukuramo keretse mugihe hari ibyago byaterwa n’inkogi y’umuriro cyangwa akaba ashobora kugongwa n’ikindi kinyabiziga no guhamagara ababishinzwe**</p><p>c) Gusaba uwakomeretse kunyeganyeza ibice by’umubiri kugirano umenye aho ibikomere bye bigarukira</p><p>d) Guhumuriza uwakometse ukamuha ikinyobwo gikonje</p>|
+|<p>334\.Niki umuyobozi w’ikinyabiziga yakora igihe agize uruhare mu mpanuka yo mu muhanda , aho ntawakometese ariko ibinyabiziga bikaba byateza icyago cyangwa byafunze umuhanda ?</p><p>a) **Gushushanya aho zagonganiye no kuzishyira kuruhande**</p><p>b) Gukuramo abagenze ugashyiraho icyapa cya mpandeshatu girukura kumodoka</p><p>c) Gutegereza ko abapolisi bahagera mbere yo gukura ibinyabiziga mu muhanda</p><p>d) Guhagarika ibindi binyabiziga kugeza ikibazo gikemutse mukabona kubikura mu muhanda</p>|
+|<p>335\.Igihe umuyobozi w’ikinyabiziga agendera munzira y’icyerekezo kimwe akifuza gukata ibumoso yakora iki?</p><p>a) gutwara yegera umurongo wo hagati mu muhanda yerekeza ibumoso</p><p>b) gutwara yegera uruhande rw’iburyo bw’umuhanda</p><p>c) **gutwara yegera ku uruhande rw’ibumoso bw’umuhanda**</p><p>d) Gutwarira hafi y’umurongo ugabanya umuhanda mo kabili</p>|
+|<p>336\. Umuyobozi w’ikinyabizaga uri kugendera mu muhanda w’ibyerekezo bibiri nuruhe ruhande rw’umuhanda agomba gukoresha ?</p><p>a) uruhande rw’ibumoso bw’umuhanda uretse igihe atawaye imashini zihinga cyangwa zikoreshwa indi mirimo</p><p>b) Mu gice cy;umuhanda yumva ashaka</p><p>c) **Mu gice cy’iburyo bw’umuhanda uretse igihe ashaka kunyuranaho cyangwa gukata ibumoso**</p><p>d) Ku ruhande rw’ibumoso bw’umuhanda</p>|
+|<p>337\.Igihe umuyobozi w’ikinyabiziga atwaye mu muhanda urombereje w’ibice byinshi agomba kugendera mu kihe gice cy’umuhanda ?</p><p>a) Kugendera mugice icyo aricyo cyose kirimo ibinyabiziga bike</p> <p>b) Kugendera kugice cy’ibumoso keretse ushaka gusohokera iburyo</p><p>c) **Kugendera mu gice cy’iburyo bw’umuhanda keretse ushaka kunyuranaho**</p><p>d) Ntagutwarira mu ruhande rw’iburyo bw’umuhanda kuko hagenewe imodoka ziremereye n’imodoka nini zitwara</p><p>abantu.</p>|
+
+
+ 
+| :- |
+|<p>338\.Umuyobozi w’ikinyabiziga yakora iki igihe ageze aho banyura bazenguruka?</p><p>a) **Tanga inzira ku binyabiziga byamaze kwinjira aho banyura bazunguruka**</p><p>b) Tanga inzira kubinyabiziga biremereye gusa</p><p>c) Tanga inzira gusa niba uri munzira ya kabiri niya gatatu isohoka</p><p>d) Komeza kuko abandi bayobozi b’ibinyabiziga bagomba kuguha inzira yo gukomeza</p>|
+|<p>339\.Ni kihe cyerekezo umuyobozi w’ikinyabiziga yinjiriramo iyo ageze aho banyura bazenguruka ?</p><p>a) ibumoso</p><p>b) ibumoso gusa igihe ayobowe ni kimenyetso kimurika</p><p>c) iburyo cyangwa ibumoso</p><p>d) **iburyo**</p>|
+|<p>340\.Mbere yuko umuyobozi w’ikinyabiziga akata ibumoso mu nzira nyabagendwa, nihe ikinyabiziga kigomba kuba kiri</p><p>?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.091.jpeg)</p><p>a) Mu ruhande rw’iburyo bw’inzira nyabagendwa</p><p>b) **Gusa iburyo bwo hagati y’inzira nyabagendwa**</p> <p>c) Muruhande urwarirwo rwo hagati mu nzira nyabagendwa</p><p>d) Mu ruhande rw’ibumoso bw’inzira nyabagendwa</p>|
+
+
+ 
+| :- |
+|<p>341\. Umuyobozi w’ikinyabiziga yakwitondera iki mbere yuko y’injira munzira banyuramo bazengurutse ?</p><p>a) ibinyabiziga bimuturuka inyuma umuvuduko bifite n’uburyo bimwegereye</p><p>b) **ibinyabiziga biturutse ibumoso bwe n’umuvuduko bifite n’intera iri hagati ye nabyo**</p><p>c) ibinyabiziga biturutse iburyo n’umuvuduko bifite ni intera iri hagati ye nabyo</p><p>d) ibinyabiziga bimututse imbere , umuvuduko bifite n’intera iri hagati ye nabyo</p>|
+|<p>342\.Umuyobozi w’ikinyabiziga ugendera inyuma y’ikinyabaziga gitwara abagenzi gihagaze gikuramo cyangwa gishyiramo abagenzi agomba :</p><p>a) **kunyuranaho ibumoso**</p><p>b) gutegereza yihanganye</p><p>c) a na b ni ibisubizo by’ukuri</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>343\. Igihe ubonye icyapa kigaragaza ishuli wakora iki?</p><p>a) **kugabanya umuvuduko no gukomeza witonze**</p><p>b) gukomeza n’umuvuduko uri hejuru kuko umunyeshuli agomba gutegereza</p><p>c) kuvuza ihoni</p><p>d) ibisubizo byose ni ukuri</p>|
+|<p>344\. Umubare w’abagenzi bemewe gutwarwa mukinyabiziga wanditswe mu :</p><p>a) icyemezo cy’iyandikwa ry’ikinyabiziga</p><p>b) inyemezabwishyu y’umusoro</p><p>c) **ubwishingizi**</p><p>d) ibisubizo byose ni ukuri</p>|
+|<p>345\.Gutwara ikinyabiziga wasinze:</p><p>a) biremewe kubinyabiziga byabikorera kugiti cyabo</p><p>b) biremewe nijoro</p><p>c) **birabujijwe ku binyabiziga byose bifite moteri**</p><p>d) ibisubizo byose nibyo</p>|
+|<p>346\. Umuyobozi w’ikinyabizaga ashobora kunyuranaho:</p><p>a) ahamanuka</p><p>b) igihe umuhanda ari mugari</p> <p>c) **igihe umuyobozi w’ikinyabiziga kiri imbere ye amweretse ikimenyetso kimwemerera kunyuranaho**</p><p>d) nta gisubizo cy’ukuri</p>|
+
+
+ 
+| :- |
+|<p>347\.Ugeze ahari inzira yabanyamaguru barindiriye kwambuka) Ntibatangiye kwambuka , wakora iki?</p><p>a) kuvuza ihoni</p><p>b) **kwihangana ugatagereza**</p><p>c) gukomeza</p><p>d) nta gisubizo cy’ukuri</p>|
+|<p>348\.Igihe utwaye umuntu mu kinyabiziga cyawe, akibagirwa kwambara umukandara wo kwirinda ibyago ugomba:</p><p>a) gukuramo umukandara wo kwirinda ibyago wambaye mukawambara mwembi</p><p>b) kubyerengagiza wizeyeko nta mpanuka muri bukore</p><p>c) funga cyane umukandara wo kwirinda ibyago wawe</p><p>d) **Kubibutsa kwambara umukandara wo kwirinda ibyago**</p>|
+|<p>349\.Igihe za otobisi zigenewe gutwara banyeshuli zihagaze kugirango zibafate cyangwa bavemo ugomba :</p><p>a) kuvuza ihoni ugakomeza</p><p>b) **gukomeza ugabanyije umuvuduko n’ubwitonzi kuko bishoboka ko abanyeshuli bakwambuka bitunguranye**</p><p>c) nta bwitonzi budasnzwe bukenewe</p><p>d) ibisubizo byose ni ukuri</p>|
+|<p>350\.Igihe imodoka iparitse ku nkengero z’umuhanda mugihe cy’ ijoro :</p><p>a) Imodoka igomba kuba ifunze</p><p>b) Umuntu ufite uruhushya rwo gutwara ikinyabiziga agomba kuba yicaye mu mwanya w’umuyobozi</p><p>c) **Amatara yo guhagarara umwanya munini aguma yaka**</p><p>d) Ibisubizo byose ni ukuri</p>|
+
+
+
+|<p>351\.Mu gihe hari undi muyobozi w’ikinyabiziga ugukurikiye watangiye kukunyuraho :</p><p>a) **Ntugomba kugira undi muyobozi w’ikinyabiziga unyuraho**</p><p>b) Ugomba kunyura ku kindi kinyabiziga</p><p>c) Ugomba kunyura kukindi kinyabiziga uvugije ihoni</p><p>d) Nta gisubizo cy’ukuri kirimo</p>|
+| :- |
+|<p>352\.Utwaye ikinyabiziga mu muhanda ufite ibyerekezo bibiri .ikinyabiziga imbere yawe cyiragenda buhoro, imbere yawe umuhanda nta kibazo kunyuranaho, ugomba :</p><p>a) **kucyinyuraho bikorewe ibumoso**</p><p>b) kucyinyuraho bikorewe iburyo</p><p>c) kucyinyuraho ukoresheje uruhande urwo arirwo rwose</p><p>d) ibisubizo byose ni ukuri</p>|
+|<p>353\.Ibice by’umuhanda byera bigari biteganye n’umurongo ugabanya umuhanda mo ,kabiri bisobanura:</p><p>a) guhagara kw’ikinyabiziga</p><p>b) **aho abanyamaguru bambukira**</p><p>c) guha ubushobozi binyabiziga</p><p>d) ibisubizo byose ni ukuri</p>|
+|<p>354\.Uturebanyuma dukoreshwa:</p><p>a) kwireba</p><p>b) **kugenzura ibigendera mu muhanda inyuma**</p><p>c) kureba abicaye inyuma</p><p>d) ntagisubizo cy’ukuri</p>|
+
+
+
+|<p>355\. Kuki abanyamaguru batemerewe kwambuka umuhanda mw’ikoni cyangwa hafi y’imodoka ihagaze?</p><p>a) ingaruka kubindi binyabiziga</p><p>b) ingaruka kubandi bakoresha umuhanda</p><p>c) **Abandi bayobozi bi binyabiziga baza bashobora kutabona abambuka umuhanda**</p><p>d) Ibisubizo byose ni ukuri</p>|
+| :- |
+|<p>356\.Kunyuranaho mw’ikoni :</p><p>a) biremewe</p><p>b) **ntibyemewe**</p><p>c) biremewe ukoranye ubwitonzi</p><p>d) ibisubizo byose ni ukuri</p>|
+
+
+
+|<p>357\. Umuyobozi w’ikinyabiziga igihe atwaye ikinyabiziga akagira umunaniro utuma yasinzira yakora iki ?</p><p>a) Gufungura ikirahure cy’ikinyabiziga cyangwa gushyira ubukonje mu modoka kugirango umwuka mwiza winjire mu kinyabiziga</p><p>b) **Guhagarara akaruhuka harimo no kugendagenda niba bishoboka**</p><p>c) Kunanura amaboko no gufunga amaso mugihe gito</p><p>d) Kongera ubushyuhe mu kinyabiziga</p>|
+| :- |
+|<p>358\.Niki umuyobozi w’ikinyabiziga yakora igihe atwaye ikinyabiziga mugihe cy’ibihu,imvura nyinshi, umwuzure cyangwa umukungugu mwinshi ?</p><p>a) Kugendera mu tuyira turi kumpande zu muhanda, ucunga ibimenyetso bigarura urumuri</p><p>b) **Kugabanya umuvuduko hanyuma ugakoresha amatara magufi**</p><p>c) Gucana amatara maremare hanyuma ukagenda gahoro</p><p>d) Kugendera mu murongo ugabanya umuhanda mo kabiri unareba ibimenyestso by’umuhanda bigarura urumuri</p>|
+|<p>359\.Muri ibi byapa ni ubuhe bwoko bw’ibyapa bitegeka byo mu muhanda?</p><p>a) ibiri mw’ishusho y’urukiramende n’umuzenguruko w’umuhondo</p><p>b) ibiri mw’ishusho ya mpande eshatu mu n’uzenguruko mw’ibara ry’ubururu</p><p>c) **ibiri mw’ishusho y’uruziga n’umuzenguruko mw’ibara ry’umutuku**</p><p>d) ibiri mw’ishusho ya mpande enye zingana mubuso bw’umukara</p>|
+|<p>360\. Ugeze mu masangano y’umuhanda aho usanga ibimenyetso bimurika bidakora, wakora iki igihe umukozi ubifiye</p><p>ububasha aguhaye iki kimenyesto ?</p> <p>![E:\Final_Updated\signs\IMG_5364-477x423.jpg](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.092.jpeg)</p><p>a) gukata ibumoso gusa</p><p>b) gukata iburyo gusa ugakomeza imbere</p><p>**(c) Guhagarara kumurongo wo guhagarara umwanya moto**</p><p>d) komeza imbere gusa</p>|
+
+
+ 
+| :- |
+|<p>361\.Amatara ndangacyerekezo agomba kugaragara nijoro igihe ijuru rikeye mu ntera nibura ya:</p><p>a)m 100</p><p>b) m 200</p> <p>**c)m150**</p> <p>d)m250</p>|
+|<p>362\.Umurongo ucagaguye uvuga ko buri muyobozi abujijwe kuwurenga uretse mu gihe:</p><p>a) Agomba kunyura ku kindi kinyabiziga</p><p>b) Gukatira ibumoso</p><p>c) Guhindukira cyangwa kujya mukindi gice cy’umuhanda</p><p>**(d) Ibi bisubizo byose nibyo**</p>|
+|<p>363\. Igice cy’inzira nyabagendwa kigarukira kumirongo ibiri yera icagaguye ibangikanye kandi gifite ubugari budahagije kugirango imodoka zitambuke neza kiba ari:</p><p>a) Inzira y’abanyamaguru</p><p>(b) Agahanda k’amagare</p><p>c) a na b byose ni ukuri</p><p>d) Nta gisubizo cy’ukuri kirimo</p>|
+|<p>364\. Icyapa kimenyesha kugendera mu muhanda ubisikanirwamo gifite:</p><p>a) Ishusho y’uruziga mw’ibara ritukura, ubuso bwera n’ikirango cy’umukara</p> <p>(b) Ishusho ya mpandeshatu mw’ibara ritukura, ubuso bwera n’ikirango cy’umukara</p><p>**c) Ishusho ya mpandeshatu mw’ibara ritukura, ubuso bw’ubururu n’ikirango cy’umukara**</p><p>d) Ishusho y’uruziga mw’ibara ritukura, ubuso bw’ubururu n’ikirango cy’umukara</p>|
+
+
+ 
+| :- |
+|<p>365\. Ikinyabiziga kigendeshwa na moteri n’ikinyabiziga gikururwa n’inyamaswa ntibishobora gukurura :</p><p>a) Ibinyabiziga birenze kimwe</p><p>b) Ibinyabiziga bipakiye birenze bibiri </p> <p>(c) Ibinyabiziga birenze bibiri</p><p>d) b na c ni byo</p>|
+|<p>366\. Iki cyapa kivuga:</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.093.png)</p><p>a) Aho imihanda ihurira</p><p>b) inkomane y’aho umuhanda umwe urasukira iburyo</p><p>c) a na b ni ibisubizo by’ukuri</p><p>(d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>367\. Iki cyapa gisobanura ibi bikurikira:</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.094.png)</p><p>a) birabujijwe kunyura ku kindi kinyabiziga</p><p> (b)gutambuka mbere kw’ibinyabiziga bituruka aho ujya</p><p>c) a na b ni ibisubizo by’ukuri</p> <p>d) nta gisubizo cyukuri kirimo</p>|
+
+
+ 
+| :- |
+|<p>368\. Utugarurarumuri turi ku ruhande rw’imbere rw’ikinyabiziga tugomba gusa:</p><p>a) n’umuhondo</p><p>b)n’umutuku</p><p> (c) n’umweru</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>369\.Iki cyapa kivuga:</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.095.png)</p><p>a) iherezo ryo gutambuka mbere</p><p>b) gutambuka mbere kw’ibinyabiziga biturutse imbere aho ujya</p><p>(c) gutambuka mbere y’ibinyabiziga biturutse imbere</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+
+
+
+|<p>370\. Iki cyapa kigizwe:</p><p>![F:\traffic_road_sign_atention_Sideroad_Right-512.png](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.096.png)</p><p>a) ishusho mpandeshatu ,ubuso ubururu</p><p>b) ishusho mpandeshatu,ubuso umukara </p><p>(c)ishusho mpandeshatu,ubuso umweru</p><p>d) nta gisubizo cy’ukuri</p>|
+| :- |
+|<p>371\. Iki cyapa kivuga:</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.097.png)</p><p>a) ifungana ry’umuhanda iburyo</p><p>(b) ifungana ry’umuhanda w’akayira gasatira umuhanda ibumoso</p><p> c) akayira gato</p><p>d) nta gisubizo cy’ukuri</p>|
+|<p>372\. Umuyobozi ubonye ko hari undi umukurikiye ashaka kumunyuraho agomba kubahiriza ibi bikurikira : </p><p>(a) kwegera i ruhande rw’iburyo bw’umuhanda</p><p>b)kongera umuvuduko</p><p> c) guhagarara</p> <p> d) a na c ni byo bisubizo by’ukuri</p>|
+
+
+
+
+| :- |
+|<p>373\. Iki cyapa cyerekana :</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.098.png)</p><p>a) ifungana ry’umuhanda</p><p>b) ifungana ry’umuhanda n’akayira gasatira umuhanda i bumoso</p><p>c) umuhanda utaringaniye</p><p>(d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>374\. Icyi cyapa gisobanura :</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.099.png)</p><p>(a) ntihanyurwa mu byerekezo byombi</p><p>b) ntihanyurwa n’abandi uretse abahatuye</p> <p>c) hanyurwa mu cyerekezo kimwe gusa</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+
+
+
+
+| :- |
+|<p>375\. Icyi cyapa cyerekana :</p><p>![A51](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.100.png)</p><p>a) Ifungana ry’umuhanda</p><p>b) umuhanda unyerera</p><p>c) umuhanda utaringaniye</p><p>(d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>376\. Iki cyapa kivuga:</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.101.png)</p><p>(a) ikoni iburyo</p> <p>b) akazamuko gashinze cyane</p><p>c) akamanuko gashobora gutera ibyago</p><p>d) b na c byose ni ukuri</p>|
+
+
+
+
+| :- |
+|<p>377\. Iyo umuhanda ugabanijemo ibisate bibiri kandi ugendwamo mu byerekezo byombi umuyobozi abujijwe :</p><p>a) kugendera mu gisate cy’iburyo</p><p>b) kunyuranaho</p><p>(c) kugendera mu gisate cy’ibumoso</p><p>d) ibisubizo byose ni byo</p>|
+|<p>378\. Icyapa kimenyesha kugendera mu muhanda ubisikanirwamo gifite:</p><p>a) Ishusho y’uruziga mw’ibara ritukura, ubuso bwera n’ikirango cy’umukara</p><p>(b) Ishusho ya mpandeshatu mw’ibara ritukura, ubuso bwera n’ikirango cy’umukara</p><p>c) Ishusho ya mpandeshatu mw’ibara ritukura, ubuso bw’ubururu n’ikirango cy’umukara</p><p>d) Ishusho y’uruziga mw’ibara ritukura, ubuso bw’ubururu n’ikirango cy’umukara</p>|
+|<p>379\. Icyapa cyerekana inzira y’amatungo itegetswe giteye:</p><p>a) Uruziga mubuso bw’ubururu, ishusho y’inka mu ibara ry’umukara</p><p>b) Uruziga mu ibara ryera, ishusho y’inka mwibara ry’ubururu</p><p>c) Uruziga mu buso bw’ibara ry’ubururu, ishusho y’inka mu ibara ryera n’ikirango cy’umukara</p> <p> (d) mpande eshatu mu buso bw’ibara ry’umweru n’ishusho y’inka mu ibara ry’umukara</p>|
+|<p>380\. Icyapa cyerekana ko bibujijwe kuvuza amahoni kirangwa na :</p><p>a) ishusho y’uruziga, ubuso bw’ubururu, ikiranga cy’umukara</p><p>b) ishusho y’uruziga, ubuso bw’ubururu, ikiranga cy’umweru</p><p>(c) ishusho y’uruziga, ubuso bw’umweru, ikiranga cy’umukara</p><p>d) ntagisubizi cy’ukuri kirimo</p>|
+
+
+
+ 
+| :- |
+|<p>381\. Ibyapa biburira nibyo gutambuka mbere birangwa:</p><p>(a) ishusho mpandeshatu mw’ibara ritukura , ubuso bwera n’ ikiranga mu ibara ry’umukara </p><p> b) ishusho mpandeshatu mw’ibara ritukura,ubuso bw’ubururu n’ikiranga mu ibara ry’umukara</p><p>c) ishusho y’uruziga mw’ibara ritukura,ubuso bw’ubururu n’ikiranga mu ibara ry’umukara</p><p>d) ishusho y’uruziga mw’ibara ritukura,ubuso bwera n’ikiranga mu ibara ry’umukara</p>|
+|<p>382\. Ibyapa bibuza n’ibitegeka bikurikizwa gusa :</p><p>a) Mumasangano</p><p>b) mu bimenyetso bimurika</p><p>c) a na b ni ibisubizo by’ukuri</p><p>(d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>383\. Ibyapa biburira bibereyeho kumenyesha umugenzi :</p><p>(a) ko hari icyago</p><p>b)icyago kidasobanuye ukundi</p><p> c) imiterere y’icyago gitunguranye </p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>384\. Ibyapa by’inyongera bishobora kumenyesha.</p><p>a) ibitegetswe byihariye gusa</p><p>(b) ubugerure cyangwa amarengamategeko rusange cyangwa ibibujijwe ndetse n’ibitegetswe byihariye</p> <p>c) a na b ni ibisubizo by’ukuri</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+
+
+
+
+| :- |
+|<p>385\. Ishusho y’icyapa kivuga’’ugukikira”bitegetswe ni :</p><p>a) mpandeshatu</p><p>**(b) uruziga**</p><p>c) urukiramende</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>386\. Icyapa kivuga “icyerekezo gitegetswe”kigizwe n’ikirango cy’ibara :</p><p>a) umweru</p><p>b) umutuku</p><p>**(c) ubururu n’ikirango cy’umweru**</p><p>d) umukara</p>|
+|<p>387\. Iki kimenyetso gitanzwe n’umukozi ubifitiye ububasha cyo guhagarara :</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.102.jpeg)</p><p>a) ku bakoresha umuhanda ba muturutse imbere</p><p>**(b) ku bakoresha umuhanda bose bamuturutse imbere n’inyuma**</p><p>c) kubakoresha umuhanda bose bamuturutse inyuma</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+
+
+
+
+| :- |
+|<p>388\. Ibi byapa byo mu muhanda birambuza kunyuranaho ibumoso ?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.103.jpeg)</p><p>**a) yego**</p><p>b) yego, iyo ufite umuvuduo wa 90km/h</p><p>c) oya</p><p>d) ntagisubizo cy’ukuri</p>|
+|<p>390\. Umuhanda urombereje w’ibice byinshi. Ndashaka kunyura kuri izi kamyo ibyiri mugihe gito ibumoso icyarimwe ,</p><p>biremewe ?</p> <p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.104.jpeg)</p><p>**(a) yego,**</p><p>(b) oya</p><p>(c) yego bikorewe ibumoso</p><p>(d) ntagisubizo cy’ukuri</p>|
+
+
+
+
+| :- |
+|391\. K’umuyobozi w’ivatiri, iki cyapa kivuze iki ? <p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.105.jpeg)</p><p>a) kirambuza gutwara ku muvuduko utarengeje 5km/h</p><p>b) ntaburenganzira kimpa, mugihe gikurikizwa ku binyabiziga bifite hejuru y atoni 5</p><p>**(c) ntacyo bindebaho mugihe bireba gusa zipima tone 5 no kurengaho.**</p><p>d) Ntagisubizo cy’ukuri kirimo</p>|
+
+
+ 
+| :- |
+|392\. Ndashaka gukata iburyo. Biremewe ? <p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.106.jpeg)</p><p>a) yego</p><p>b) yego, ariko nyuma yo guhagarara</p><p>**(c) ntabwo byemewe**</p><p>d) ntagisubizo cyukuri kirimo</p>|
+
+
+
+
+| :- |
+|<p>393\. Umuhanda wambukiranya inzira ya gariyamoshi</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.107.jpeg)</p><p>a) nshobora gukomeza nkambuka umuhanda kubera ko uruzitiro rufunguye</p><p>**(b) ngomba guhagarara munsi yitara ry’umutuku rimyatsa**</p><p>c) ntabwo nakomeza urugendo rwanjye. Ngomba gihita mpagarara</p><p>d) ntagisubizo cy’ukuri</p>|
+
+
+
+|<p>394\. Kuri iki cyapa cyo mu muhanda cyambere kintegeka ?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.108.jpeg)</p><p>a) Kugendera k’umuvuduko uri hejuru ya 30km/h</p><p>b) kutarenza umuvuduko wa 30km/h</p><p>**(c) birabujijwe kugendera kumuvuduko uri hejuru ya 30km/h**</p><p>d) nta gisubizo cyukuri</p>|
+| :- |
+|<p>395\. Mpagaze mu murongo wo guhagarara umwanya muto</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.109.jpeg)</p><p>**a) Nshobora gukata iburyo**</p><p>(a) Nshobora gukata ibumoso</p><p>c) Nshobora gukata ibumoso cyangwa iburyo</p><p>d) Ntagisubizo cy’ukuri kirimo</p>|
+|396\. Ngomba : <p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.110.png)</p><p>a) guhagarara igihe gito kuri icyi cyapa cy’umuhanda</p><p>**(b) guhagarara ngatanga inzira kuri metero 100 ntaragera kuri icyi cyapa**</p><p>c) gutanga inzira nkanahagarara iyo ari ngombwa muri m100 ntaragera kuri icyi cyapa</p><p>d) ntagisubizo cy’ukuri</p>|
+
+ 
+| :- |
+|<p>397\. Ndashaka kugata ibumoso. Imodoka y’icyatsi yaje irahagarara) Ninde ufite uburenganzira bwo gutambuka mbere?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.111.png)</p><p>a) mfite uburenganzira bwo gutambuka mbere</p><p>**(b) imodoka y’icyatsi ifite uburenganzira bwo gutambuka mbere**</p><p>c) twembi ntaburenganzira bwo gutambuka mbere gusa tugomba gutambukana ubwitonzi</p><p>d) ntagisubizo nakimwe kirimo</p>|
+|<p>398\. Mfite uburenganzira bwo gutambuka muri iri sangano ?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.112.jpeg)</p><p>a) yego, niba ukata ibumoso</p><p>b) Oya niba ukata iburyo</p><p>**(c) yego , bitewe noho ngana**</p><p>d) ntagisubizo cy’ukuri kirimo</p>|
+
+
+ 
+| :- |
+|<p>399\. Ndi kumuvuduko wa 20km/h. nshobora gukomeza muri iri sangano ry’umuhanda?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.113.jpeg)</p><p>**(a) oya**</p><p>b) yago, nshobora gukata iburyo</p><p>c) yego, nshobora guta ibumoso cyangwa iburyo</p><p>d) yego, nshobora gukata ibumoso gusa</p>|
+|<p>400\. Umuyobozi wikinyabiziga aritegura kunyuraho ibumoso :</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.114.jpeg)</p><p>a) nshobora kumunyuraho nyuze iburyo</p><p>b) sinshobora kumunyura</p><p>**(c) nshobora kumunyura nciye ibumoso ariko mbonye ko mfite umwanya uhagije**</p><p>d) Ntagisubizo cy’ukuri kirimo</p>|
+|401\. Uhereye kuri ibi byapa habujijwe : <p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.115.jpeg)</p><p>**(a) Kunyuranaho kubinyabiziga bikururwa nibinyabiziga birengeje imitende ibiri ibumoso no kugendera kumuvuduko urengeje 70 km/h**</p><p>b) Kunyuranaho kubinyabiziga bikururwa cyangwa ibinyabiziga birengeje imitende ibiri ibumoso</p><p>c) kugendera hejuru ya 70 km/h</p><p>d) ntagisubizo cy’ukuri</p>|
+
+
+ 
+| :- |
+|<p>402\. Ndashaka gupariki ikinyabiga iburyo kunzira y’abanyamaguru</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.116.jpeg)</p><p>**(a) biremewe munsi yicyi cyapa**</p><p>b) biremewe imbere y’icyi cyapa</p><p>c) birabujijwe imbere n’inyuma yicyi cyapa</p><p>d) nta gisubizo cy’ukuri kirimo</p>|
+|<p>403\. Iki cyapa gisobanura iki ?</p><p>![C:\Users\Ishimwe\Desktop\Road_Signs\download.png](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.117.png)</p><p>a) Guhagarara, aho abanyeshuri bambukira</p><p>**(b) Hagarara akanya gato**</p><p>c) Ibindi binyabiziga bigomba kuguha inzira</p><p>d) Gutanga umwanya ku bindi binyabiziga i buryo bwawe</p>|
+ 
+
+
+| :- |
+|<p>404\. Iki cyapa gisobanura iki mu nkomane ?</p><p>![C:\Users\Ishimwe\Desktop\Road_Signs\yield-clipart-6.jpg](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.119.png)</p><p>a) Tanga inzira ku binyabiziga binini</p><p>b) Gabanya umuvuduko uhe inzira abanyamaguru.</p><p>**(c) Tanga inzira ku binyabiziga bigenda mu muhanda munini wegera**</p><p>d) Tanga inzira ku ibinyabiziga biturutse iburyo bwawe</p>|
+|<p>405\. Iki cyapa gisobanura iki aho banyura bazengurutse ?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.120.png)</p><p>a) Tanga inzira ku binyabiziga biri mu muhanda munini</p><p>**(b) Tanga inzira ku binyabiziga biturutse i bumoso**</p><p>c) Tanga inzira ku ma kamyo na za otobisi</p><p>d) Ibinyabiziga byose uretse amapikipiki bigomba gutanga inzira</p>| 
+|<p>406 . Iki cyapa gisobanura iki ?</p> <p>(a) Komeza imbere gusa</p><p>b) Aho kunyuranaho imbere</p><p>c) Aho guhagarara umwanya munini</p><p>d) Inzira y’ icyerekezo kimwe</p>|
+
+
+
+
+| :- |
+|<p>407\. Iki cyapa gisobanura iki ?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.121.jpeg)</p><p>a) Umuhanda urombereje w’ibice byinshi ibumoso</p><p>b) Umuhanda uyoborejwe i bumoso</p><p>c) Ibinyabiziga biturutse iburyo bifite uburenganzira bwo gutambuka mbere</p><p>**(d) Kata i bumoso gusa**</p>|
+|<p>408\. Iki cyapa gisobanura iki ?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.122.jpeg)</p><p>a) Kunyuranaho bikorerwa i buryo gusa</p><p>b) Umuhanda uyoborejwe i buryo</p><p>**(c) Kata i buryo gusa**</p><p>d) Umuhanda munini urasukira i bumoso</p>|
+|<p>409\. Iki cyapa gisobanura iki ?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.123.jpeg)</p><p>**(a) Birabujijwe gukata i buryo**</p> <p>b) Tanga inzira ku bindi binyabiziga bigenda mu gihe ugiye gukatira iburyo</p><p>c) Kata i buryo mu gihe nta bindi binyabiziga biturutse mu kindi cyerekezo</p><p>d) Nta nkengero y’umuhanda yegutse iri i buryo</p>|
+
+
+ 
+| :- |
+|<p>8\. Iki cyapa gisobanura iki ?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.124.jpeg)</p><p>a) Ntihasohokerwa i bumoso mu nzira banyuramo bazengurutse</p><p>b) Umuhanda udakomeza ibumoso</p><p>c) Nta nkengero y’umuhanda yegutse iri ibumoso</p><p>**(d) Birabujijwe gukata ibumoso**</p>|
+|<p>410\. Iki cyapa gisobanura iki ?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.125.jpeg)</p><p>**(a) Birabujijwe guhindukira**</p><p>b) Birabijijwe gusubira inyuma</p><p>c) Umuhanda unyerera imbere</p><p>d) Ntibyemewe kugendera mu byerekezo byombi</p>|
+|<p>411\. Iki cyapa gisobanura iki ?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.126.jpeg)</p><p>a) Umuhanda urombereje w’ibice byinshi ku birometero 50</p><p>b) Intera nto ntarengwa ya metero 50 hagati y’ibinyabiziga</p> <p>c) Umuvuduko urenga ibirometero 50 mu isaha</p><p>**(d) Umuvuduko ntarengwa ugarukira ku birometero 50 mu isaha**</p>|
+
+
+
+
+| :- |
+|<p>412\. Iki cyapa gisobanura iki ?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.127.jpeg)</p><p>a) Birabujijwe ku binyabiziga bitwara abakozi ba leta</p><p>**(b) Birabujijwe guhagara umwanya munini**</p><p>c) Birabujijwe ku binyabiziga by’abikorera ki giti cyabo</p><p>d) Parikingi</p>|
+|<p>413\. Iki cyapa gisobanura iki ?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.128.jpeg)</p><p>a) Aho guhagararwamo n’abanyamagare imbere</p><p>b) Aho abana bagenewe kwiga gutwara amagare</p><p>**(c) Inzira y’iminyamitende n’abanyamaguru itegetswe**</p><p> d) Abanyamagare bagomba kuva ku igare bakagendesha amaguru</p>|
+|<p>414\. Iki cyapa gisobanura iki ?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.129.png)</p><p>a) Uburemere ntarengwa bwemewe bwa toni 3</p><p>**(b) Ntihanyurwa n’ibinyabiziga bigenewe gutwara ibicuruzwa**</p><p>c) Ntihanyurwa n’ibinyabiziga bifite imitambiko itatu</p><p>d) Hanyurwa n’ibinyabiziga bifite imitambiko itatu gusa</p>|
+
+
+ 
+| :- |
+|<p>415\. Iki cyapa gisobanura iki ?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.130.png)</p><p>**(a) Inkomane banyuramo bazengurutse**</p><p>b) Biremewe guhindukira</p><p>c) Inzira y’icyerekezo kimwe imbere</p><p>d) Birabujijwe guhindukira</p>|
+|<p>416\. Iki cyapa gisobanura iki ?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.131.png)</p><p>a) Umuhanda ugabanijwemo ibisate bibiri</p><p>b) Umuhanda ugabanijwemo ibisate bine</p><p>c) Inzira y’icyerekezo kimwe</p><p>(d) Ukugendera mu muhanda ubisikanirwamo</p>|
+|<p>417\. Iki cyapa gisobanura iki ?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.132.png)</p><p>a) Umuhanda utaringaniye i buryo</p><p>(b) Akamanuko gashobora gutera ibyago</p><p>c) Ahantu umuhanda umeze nabi</p><p>d) Uguhinguka ku mwaro cyangwa ku nkombe</p>|
+
+
+
+|<p>418\. Iki cyapa gisobanura iki ?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.133.png)</p><p>(a) Akazamuko gashinze cyane</p><p>b) Umuhanda utaringaniye i bumoso</p><p>c) Ahantu umuhanda umeze nabi</p><p>d) Ahegereye utununga</p>|
+| :- |
+|<p>419\. Iki cyapa gisobanura iki ?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.134.png)</p><p>a) Akazamuko gashinze cyane</p><p>b) Umuyaga w’intambike </p><p>c) Uruhererekane rw’amakoni</p><p>(d) Umuhanda unyerera</p>|
+|<p>420\. Iki cyapa gisobanura iki ?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.135.png)</p><p>(a) Abana</p><p>b) Inzira y’abanyamaguru – Itegure guhagarara</p><p>c) Ikibuga cy’imikino cy’abana</p><p>d) Ikibuga cy’ imyidagaduro</p>|
+|421\. Iki cyapa gisobanura iki ? <p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.136.png)</p><p>a) Isoko ry’amatungo</p><p>b) Ivuriro ry’amatungo</p><p>c) Uruzitiro rw’amatungo</p><p>(d) Akayira k’amatungo</p>|
+
+
+
+
+| :- |
+|<p>422\. Mu byapa bikurikira , ni ikihe cyerekana umuhanda udakomeza:</p><p>![C:\Users\Ishimwe\Desktop\Signs.jpg](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.137.jpeg)</p><p>a) Icyapa C1</p><p>**(b) Icyapa E14**</p><p>c) Icyapa C2a</p><p>d) Icyapa B2a</p>|
+|<p>423\. Iki cyapa gisobanura iki ?</p><p>![C:\Users\Ishimwe\Desktop\Road_Signs\yield-clipart-6.jpg](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.138.png)</p><p>**(a) Tanga inzira**</p><p>b) Icyago</p><p>c) Icyerekezo kimwe</p> <p>d) Ntihanyurwa</p>|
+
+
+
+
+| :- |
+|<p>424\. Muri ibi byapa bikurikira ni ikihe cyerekana ko umuyobozi ukibonye yemerewe gutambuka mbere y'abaturutse aho agana mu nzira ifunganye:</p><p>![C:\Users\Ishimwe\Desktop\Signs1.jpg](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.139.jpeg)</p><p>**(a) Icyapa B6**</p><p>b) Icyapa A19</p><p>c) Icyapa B3</p><p>d) Icyapa A22a</p>|
+|<p>425\. Iki cyapa:</p><p>![C:\Users\Ishimwe\Desktop\Road_Signs\Ts.png](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.140.png)</p><p>**(a) Aho banyura bazengurutse**</p><p>b) Cyerekana umuhanda w'ibisate bitatu</p><p>c) Cyerekana ahegereye inkomane</p><p>d) Ntagisuzo cy’ukuri kirimo</p>|
+|426\. Iki cyapa gisobanura iki ? <p>![C:\Users\Ishimwe\Desktop\Road_Signs\KijoXGeiq.png](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.141.png)</p><p>a) Hanyurwa mu cyerekezo kimwe</p><p>**(b) Ntihanyurwa**</p><p>c) Umuhanda udakomeza</p><p>d) Ntagisuzo cy’ukuri kirimo</p>|
+
+
+ 
+| :- |
+|<p>427\. Ni ikihe icyapa gisobanura umuhanda w'icyerekezo kimwe:</p><p>![C:\Users\Ishimwe\Desktop\Signs2.jpg](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.142.jpeg)</p><p>a) Icyapa D1a</p><p>**(b) Icyapa E13a**</p><p>c) Icyapa C19</p><p>d) Icyapa C1</p>|
+|<p>428\. Iki cyapa gisobanura iki ?</p><p>![https://ikizamini.com/wp-content/uploads/2016/08/11949895441423442235narrows_both.svg_.med_.png](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.143.png)</p><p>a) Aho imihanda ihurira</p><p>b) Inkomane y’aho umuhanda umwe urasukira iburyo</p> <p>c) Umuhanda udakomeza</p><p>**(d) Nta gisubizo kirimo**</p>|
+
+ 
+| :- |
+|<p>429\. Iki cyapa gisobanura iki ?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.144.png)</p><p>**(a) Iherezo ry’ umuhanda urombeje w’ibice byinshi**</p><p>b) Birabujijwe kunyura mu mu muhanda w’ ikindi cyerekezo</p><p>c) Birabujijwe kunyuranaho</p><p>d) Birabujijwe guhagara ku iteme</p>|
+|<p>430\. Iki kimenyetso kiri mu muhanda kivuze iki ?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.145.jpeg)</p><p>a) Biremewe kunyuranaho</p><p>**(b) Umuyobozi abujijwe kukirenga**</p><p>c) Wegereye icyapa cyo guhagarara umwanya muto</p><p>d) Umuhanda ufunganye</p>|
+|<p>431\. Iki kimenyetso kiri mu muhanda kivuze iki ?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.146.jpeg)</p> <p>**(a) Umuyobozi abujijwe kurenga umurongo wera ucagaguye cyeretse mugihe bitateza icyago**</p><p>b) Birabujijwe kunyuranaho</p><p>c) Biremewe kunyuranaho ariko nturenge umurongo wera ucagaguye</p><p>d) Birabujijwe gusubira inyuma</p>|
+
+ 
+| :- |
+|<p>432\. Mu gihe utwaye ikinyabiziga uva kuri A ugana kuri B, Iki kimenyetso kiri mu muhanda kivuze iki ?</p><p>![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.147.jpeg)</p><p>a) Umuyobozi ashobora kurenga umurongo wera udacagaguye mugihe cyo guhindukira gusa</p><p>**b) Umuyobozi w’ikinyabiziga abujijwe kunyuranaho, uretse gusa abayobozi b’ibinyamitende nibo bashobora kurenga umurongo wera udacagaguye**</p><p>c) Umuyobozi w’ikinyabiziga abujijwe kunyuranaho arenze umurongo wera udacagaguye</p><p>(d) Umuyobozi w’ikinyabiziga ashobora kunyuranaho mu gihe bitateza icyago</p>|
+
+
+

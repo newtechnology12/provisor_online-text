@@ -8,6 +8,7 @@ import "react-circular-progressbar/dist/styles.css";
 import { useAuth } from "../context/authContext";
 import { useRouter } from "next/router";
 import TestModalInfo from "./TestInfoModal";
+import Markdown from "react-markdown";
 
 export default function TestCard({ item }) {
   const [showTestModal, setshowTestModal] = useState(false);
@@ -273,13 +274,13 @@ function Quiz({
   return (
     <div>
       <div className="relative">
-        {!completed && (
+        {/* {!completed && (
           <Timer
             setTimer={setTimer}
             timer={timer}
             setcompleted={setcompleted}
           />
-        )}
+        )} */}
         <div className="pt-6-">
           {completed ? (
             <Fragment>
@@ -395,13 +396,7 @@ function Answer({ question, answer }) {
           {question.question}
         </h4>
       </div>
-      {question.photo && (
-        <img
-          src={question.photo}
-          className="max-w-xs my-5 border border-gray-200 rounded-md h-52 bg-gray-100"
-          alt=""
-        />
-      )}
+      {question.photo && <TestImage content={question.photo} />}
 
       <div className="flex flex-col mt-2  justify-start">
         {question.options.map((i, index) => {
@@ -463,15 +458,10 @@ function Question({ q, setanswers, answers, isPractice, guesses, setGuesses }) {
   return q ? (
     <div>
       <div className="px-4 mx-auto">
-        <div className={` sm:py-4 py-4 pb-10`}>
+        <div className={` sm:py-4 sm:pt-2 py-4 pb-10`}>
           <div className="py-2">
-            {q.photo && q.photo !== "" && (
-              <img
-                alt=""
-                src={q.photo}
-                className="max-w-xs mb-5 border border-gray-200 rounded-md h-52 bg-gray-100"
-              />
-            )}
+            {q.photo && q.photo !== "" && <TestImage content={q.photo} />}
+
             <h3 className="text-[14.5px] leading-8 sm:text-[13.5px] font-bold capitalize text-gray-700">
               <span>{q?.position}.</span> {q.question}
             </h3>
@@ -561,5 +551,25 @@ function Timer({ setcompleted, timer, setTimer }) {
         <div>Igihe gisigaye: {toHHMMSS(timer)} </div>
       </div>
     </div>
+  );
+}
+
+function TestImage({ content }) {
+  return (
+    <Markdown
+      components={{
+        img: ({ src }) => {
+          return (
+            <img
+              className="w-fit mb-5 border object-cover border-gray-200 rounded-md h-52 bg-gray-100"
+              src={"/test_images/" + src}
+              alt=""
+            />
+          );
+        },
+      }}
+    >
+      {content}
+    </Markdown>
   );
 }

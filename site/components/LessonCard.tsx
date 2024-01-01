@@ -46,8 +46,9 @@ export default function LessonCard({ item }) {
                     : `/learn/plans`
                 }
               >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Accusamus eius placeat quibusdam, nostrum dolores saepe ducimus.
+                {item.desc ||
+                  `Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Accusamus eius placeat quibusdam, nostrum dolores saepe ducimus.`}
               </Link>
             </p>
             <div className="flex items-end mt-3 justify-between">

@@ -9,7 +9,7 @@
         "requirements": [
             "Ubushake"
         ],
-        "desc": "Amafoto y'ibimenyetso bimurika n'ubusobanuro bwa byo",
+        "desc": "Amafoto y'ibimenyetso bimurika n'ubusobanuro bwa byo bugaragara hejuru ya buri kimenyetso.",
         "sections": [
             {
                 "id": "pSSzf0tFChJZ0hxlABcf",
@@ -33,7 +33,7 @@
             "Ubushake"
         ],
         "free": false,
-        "desc": "Amashusho y'ibyapa n'ubusobanuro bwa byo",
+        "desc": "Amashusho y'ibyapa n'ubusobanuro bwa byo bugaragara hejuru ya buri kimenyetso.",
         "name": "Ibyapa",
         "archivements": [],
         "sections": [
@@ -111,7 +111,7 @@
     },
     {
         "id": "XGaWzQahj6sLhLLAoJ18",
-        "desc": "",
+        "desc": "Ubusobanuro bwuzuye bw' ibyapa biyobora(Ndanga) bwa byo bugaragara hejuru ya buri kimenyetso.",
         "name": "Ibinyabiziga",
         "requirements": [],
         "archivements": [],
@@ -148,7 +148,7 @@
     },
     {
         "id": "siluGQfApdQMsmyN2RCv",
-        "desc": "Ibibazo n'ibisubizo 400 bikubiyemo igazeti yose",
+        "desc": "Ibibazo n'ibisubizo 400 bikubiyemo igazeti yose byagiye bikorwa mugihugu cyose.",
         "archivements": [
             "Kumenya neza nba umunyeshuri yarafashe ibyo yize"
         ],
