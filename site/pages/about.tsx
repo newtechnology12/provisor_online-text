@@ -9,7 +9,7 @@ export default function About() {
         <div className="prose prose-p:leading-8 prose-li:leading-8 prose-p:text-[15px] prose-p:font-medium- prose-p:text-slate-500 prose-li:text-[15px] prose-li:font-medium- prose-li:text-slate-500 mt-0">
           <h2>Abo turibo.</h2>
           <p>
-            Infinity Tech Solution ni urubuga rwashyiriweho gufasha abanyarwanda
+            Infinity Tech Driving ni urubuga rwashyiriweho gufasha abanyarwanda
             , Abanrundi Bose kumenya amategeko y&apos;umuhanda mu rwego rwo
             kwirinda impanuka ziterwa no kutamenya amategeko agenga uburyo bwo
             kugenda mu muhanda. Ariko cyane cyane tunafasha abashaka kubona

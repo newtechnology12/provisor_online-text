@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <Fragment>
       <NextSeo
-        title="Infinity Tech Solution | Murakaza neza"
+        title="Infinity Tech Driving | Murakaza neza"
         description="korera perimi na provisoir mugihe gitoya"
         openGraph={{
           url: "https://www.infinitytech.rw/",
