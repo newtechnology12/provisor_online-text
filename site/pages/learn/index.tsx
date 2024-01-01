@@ -73,7 +73,7 @@ export default function Index() {
           <div className="my-2">
             {tests.length ? (
               <div className="flex items-center justify-between">
-                <h4 className="text-sm">Amasuzuma akuzwe</h4>
+                <h4 className="text-base">Amasuzuma akuzwe</h4>
                 <Link href={"/learn/tests"}>
                   <a className="text-sm font-bold text-primary flex items-center">
                     <span> Ayandi</span>
@@ -106,7 +106,7 @@ export default function Index() {
           <div className="mt-7">
             <div className="my-2">
               <div className="flex items-center justify-between">
-                <h4 className="text-sm">Amasomo akuzwe</h4>
+                <h4 className="text-base">Amasomo akuzwe</h4>
                 <Link href={`/learn/lessons`}>
                   <a className="text-sm font-bold text-primary flex items-center">
                     <span> Ayandi</span>
