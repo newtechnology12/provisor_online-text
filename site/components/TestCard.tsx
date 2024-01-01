@@ -5,9 +5,16 @@ import { ArrowLeft, ArrowRight, CheckCircle, Clock, X } from "react-feather";
 import Radio from "./Radio";
 import { CircularProgressbar, buildStyles } from "react-circular-progressbar";
 import "react-circular-progressbar/dist/styles.css";
+import { useAuth } from "../context/authContext";
+import { useRouter } from "next/router";
 
 export default function TestCard({ item }) {
   const [showTestModal, setshowTestModal] = useState(false);
+
+  const { user }: any = useAuth();
+
+  const router = useRouter();
+
   return (
     <>
       <div>
@@ -34,7 +41,13 @@ export default function TestCard({ item }) {
             <div className="w-full flex items-center justify-between">
               <a
                 aria-current="page"
-                onClick={() => setshowTestModal(true)}
+                onClick={() => {
+                  if (user?.subscription === "active" || item.free) {
+                    setshowTestModal(true);
+                  } else {
+                    router.push("/learn/plans");
+                  }
+                }}
                 className="router-link-active cursor-pointer flex items-center gap-2 router-link-exact-active text-[12.5px] mb-1 mt-3 w-fit capitalize px-3 py-1 border border-[#0C8C7C] hover:bg-opacity-30 border-opacity-20 bg-[#0C8C7C] bg-opacity-10 rounded-[2px] text-[#0C8C7C] font-medium"
               >
                 <span>Tangira isuzuma</span>

@@ -1,6 +1,5 @@
 import Link from "next/link";
 import { useRouter } from "next/router";
-import { Instagram, Linkedin, Twitter } from "react-feather";
 
 export default function Footer() {
   const router = useRouter();
@@ -46,7 +45,7 @@ export default function Footer() {
             </div>
             <div className="px-5 py-2">
               <Link
-                href="/lessons"
+                href="/learn/lessons"
                 className="text-sm text-gray-500 hover:text-gray-900 hover:underline"
               >
                 <a className="text-sm font-medium text-gray-500 hover:text-gray-900 hover:underline">
