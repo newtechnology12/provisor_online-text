@@ -1,15 +1,30 @@
 import Link from "next/link";
 import React from "react";
+import { useAuth } from "../context/authContext";
 
 export default function LessonCard({ item }) {
+  const { user }: any = useAuth();
+
   return (
     <div>
-      <Link href={`/learn/lessons/${item?.id}`}>
+      <Link
+        href={
+          item.free || user?.subscription === "active"
+            ? `/learn/lessons/${item?.id}`
+            : `/learn/plans`
+        }
+      >
         <div className="border bg-white shadow-sm- rounded-[3px] py-3 px-4 ">
           <div>
             <div className="flex items-center mb-2 justify-between">
               <h1 className="text-[15px] font-semibold flex items-center gap-3 text-gray-800">
-                <Link href={`/learn/lessons/${item?.id}`}>
+                <Link
+                  href={
+                    item.free || user?.subscription === "active"
+                      ? `/learn/lessons/${item?.id}`
+                      : `/learn/plans`
+                  }
+                >
                   <a>{item.name}</a>
                 </Link>
               </h1>
@@ -24,7 +39,13 @@ export default function LessonCard({ item }) {
               </div>
             </div>
             <p className="font-medium text-sm max-w-xl text-slate-500 line-clamp-3 leading-8">
-              <Link href={`/learn/lessons/${item?.id}`}>
+              <Link
+                href={
+                  item.free || user?.subscription === "active"
+                    ? `/learn/lessons/${item?.id}`
+                    : `/learn/plans`
+                }
+              >
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                 Accusamus eius placeat quibusdam, nostrum dolores saepe ducimus.
               </Link>
