@@ -34,9 +34,12 @@ export default function TestModalInfo({ onClose, test, handleStart }: any) {
                 "Kumenya Neza Igisobanuro Cya Buri Kimenyetso Kimurika",
                 "Ikizamini gifite iminota makumyabiri(20)",
                 "Amanota yose hamwe ni 20.",
-              ].map((e) => {
+              ].map((e, i) => {
                 return (
-                  <li className="flex sm:items-start items-center gap-3">
+                  <li
+                    key={i}
+                    className="flex sm:items-start items-center gap-3"
+                  >
                     <div>
                       <div className="bg-primary flex text-primary items-center justify-center bg-opacity-15 h-6 w-6 rounded-full">
                         <Check size={16} />
