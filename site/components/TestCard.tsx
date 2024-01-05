@@ -273,13 +273,13 @@ function Quiz({
   return (
     <div>
       <div className="relative">
-        {/* {!completed && (
+        {!completed && (
           <Timer
             setTimer={setTimer}
             timer={timer}
             setcompleted={setcompleted}
           />
-        )} */}
+        )}
         <div className="pt-6-">
           {completed ? (
             <Fragment>
