@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { useRouter } from "next/router";
-import React, { Fragment, useRef, useState } from "react";
+import React, { Fragment, useEffect, useRef, useState } from "react";
 import { Briefcase, User, UserPlus, LogOut, ArrowRight } from "react-feather";
 import { useAuth } from "../context/authContext";
 import { Avatar } from "./Avatar";
@@ -13,18 +13,39 @@ export default function Navbar() {
 
   const [callapsed, setcallapsed] = useState(false);
 
+  const [scrolled, setScrolled] = useState(false);
+
+  useEffect(() => {
+    const handleScroll = () => {
+      const isScrolled = window.scrollY > 0;
+      if (isScrolled !== scrolled) {
+        setScrolled(isScrolled);
+      }
+    };
+
+    window.addEventListener("scroll", handleScroll);
+
+    return () => {
+      window.removeEventListener("scroll", handleScroll);
+    };
+  }, [scrolled]);
+
   return (
     <Fragment>
       <div
-        className={`z-[1000] w-full fixed bg-[#FF9F00] border-b border-white border-opacity-25 ${
+        className={`z-[1000] w-full fixed md:border-b transition-all border-white- border-opacity-25 ${
           router.pathname.split("/").includes("learn") && "hidden sm:block"
+        } ${router.pathname !== "/" && "!border-b bg-white"} ${
+          scrolled
+            ? " bg-white border-b border-slate-300"
+            : "md:bg-white bg-transparent"
         }`}
       >
         <div className="max-w-5xl mx-auto">
-          <div className="px-3 py-3 relative sm:py-[8px] flex items-center justify-between w-full ">
+          <div className="lg:px-3 py-3 relative sm:py-[8px] flex items-center justify-between w-full ">
             <div className="flex gap-3 items-center">
               <a
-                className="bg-white hidden sm:block p-[10px] cursor-pointer rounded-full"
+                className="bg-primary hidden sm:block p-[8px] cursor-pointer rounded-full"
                 onClick={() => {
                   setcallapsed(!callapsed);
                 }}
@@ -33,9 +54,9 @@ export default function Navbar() {
                   version="1.1"
                   x="0px"
                   y="0px"
-                  className="text-primary fill-current"
-                  height={16}
-                  width={16}
+                  className="text-white fill-current"
+                  height={14}
+                  width={14}
                   viewBox="0 0 1000 1000"
                   enableBackground="new 0 0 1000 1000"
                   xmlSpace="preserve"
@@ -54,30 +75,6 @@ export default function Navbar() {
                   </a>
                 </Link>
               </div>
-              <ul className="flex items-center ml-3- sm:hidden">
-                {[
-                  { title: "ahabanza", link: user ? "/learn" : "/" },
-                  { title: "abo turibo", link: "/about" },
-                  { title: "twandikire", link: "/#contact" },
-                ].map((e, index) => {
-                  return (
-                    <li key={index}>
-                      <Link href={e.link}>
-                        <a
-                          className={`${
-                            router.pathname === e.link
-                              ? "text-white bg-white  bg-opacity-20 "
-                              : "text-white hover:bg-white hover:bg-opacity-20"
-                          } mx-1 font-medium capitalize rounded-[4px] px-4 py-2 truncate text-[15px]`}
-                          href=""
-                        >
-                          {e.title}
-                        </a>
-                      </Link>
-                    </li>
-                  );
-                })}
-              </ul>
             </div>
             <div className="hidden sm:block ">
               {user ? (
@@ -107,6 +104,45 @@ export default function Navbar() {
               )}
             </div>
             <div className="flex sm:hidden sm:pt-3 sm:border-t sm:border-gray-400 sm:border-opacity-50 sm:w-full sm:items-start sm:flex-col items-center">
+              <ul className="flex mr-4 md:mr-0 items-center ml-3- sm:hidden">
+                {[
+                  { title: "ahabanza", link: user ? "/learn" : "/" },
+                  { title: "Abo turibo", link: "/about" },
+                  { title: "Twandikire", link: "/#contact" },
+                ].map((e, index) => {
+                  return (
+                    <li key={index}>
+                      <Link href={e.link}>
+                        <a
+                          className={`${
+                            router.pathname === e.link
+                              ? "bg-white !text-primary  bg-opacity-20 "
+                              : "hover:bg-white hover:bg-opacity-20"
+                          } text-slate-800 hover:text-primary flex items-center gap-2 mx-1 font-medium capitalize rounded-[4px] px-4 py-2 truncate text-[14px]`}
+                          href=""
+                        >
+                          <span>{e.title}</span>
+                          {/* {index === 3 && (
+                            <svg
+                              xmlns="http://www.w3.org/2000/svg"
+                              width={16}
+                              height={16}
+                              viewBox="0 0 16 16"
+                            >
+                              <path
+                                fill="currentColor"
+                                fillRule="evenodd"
+                                d="M2.97 5.47a.75.75 0 0 1 1.06 0L8 9.44l3.97-3.97a.75.75 0 1 1 1.06 1.06l-4.5 4.5a.75.75 0 0 1-1.06 0l-4.5-4.5a.75.75 0 0 1 0-1.06"
+                                clipRule="evenodd"
+                              />
+                            </svg>
+                          )} */}
+                        </a>
+                      </Link>
+                    </li>
+                  );
+                })}
+              </ul>
               <Actions
                 user={user}
                 setcallapsed={setcallapsed}
@@ -209,7 +245,7 @@ function Actions({ user, setcallapsed, callapsed }) {
 
   const [loggingOut, setloggingOut] = useState(false);
   return (
-    <div className="bg-primary w-full">
+    <div className="bg-primary- w-full">
       {!user && (
         <div
           className={`${
@@ -224,14 +260,14 @@ function Actions({ user, setcallapsed, callapsed }) {
 
               router.push(`/auth/login`);
             }}
-            className="mr-3- bg-white sm:w-full  sm:mb-3- sm:mr-0"
+            className="mr-3- !bg-primary !border-none text-white sm:w-full  sm:mb-3- sm:mr-0"
             small
             normal
             Icon={(size) => (
               <ArrowRight strokeWidth={2} className="ml-3" size={16} />
             )}
           >
-            Tangira Kwiga
+            Injira Muri Konte
           </Button>
         </div>
       )}
@@ -257,7 +293,7 @@ function Actions({ user, setcallapsed, callapsed }) {
                   }, 1000);
                 }}
                 normal
-                className="sm:flex bg-white  sm:w-full"
+                className="sm:flex !bg-primary text-white border-primary sm:w-full"
                 Icon={LogOut}
               >
                 Gusohoka
@@ -270,7 +306,7 @@ function Actions({ user, setcallapsed, callapsed }) {
 
                   router.push(`/learn`);
                 }}
-                className="mr-3- bg-white sm:w-full sm:mb-3- sm:mr-0"
+                className="mr-3- !bg-primary text-white border-primary sm:w-full sm:mb-3- sm:mr-0"
                 small
                 normal
                 Icon={(size) => (
@@ -299,7 +335,7 @@ function Navlink({ e, setcallapsed }) {
         }}
         className={`${
           router.pathname === e.link ? "text-primary" : "text-gray-500"
-        } px-5 py-4 cursor-pointer text-left block font-semibold sm:font-medium capitalize  text-sm`}
+        } px-5 py-4 cursor-pointer !text-slate-700 text-left block font-semibold sm:font-medium capitalize  text-sm`}
       >
         {e.title}
       </a>

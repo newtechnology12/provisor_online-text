@@ -79,7 +79,7 @@ export default function Login() {
   };
 
   return (
-    <div className="h-[78vh] sm:h-full sm:py-0 py-8 bg-slate-50">
+    <div className="h-[87vh] sm:h-full sm:py-0 py-8 bg-slate-50">
       <NextSeo title="Login" />
       <div className="max-w-[430px] px-6 sm:px-4 border-opacity-70  rounded-[4px] border border-slate-200 mx-auto bg-white shadow-md- p-6">
         <AppForm

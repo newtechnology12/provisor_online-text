@@ -20,7 +20,9 @@ export const Layout = ({ children }: any) => {
           <div
             className={`${
               router.pathname.split("/").includes("learn") ? "" : "pt-[59px]"
-            } sm:pt-[50px] min-h-[83vh] sm:pb-[10px] pb-[0px] `}
+            } sm:pt-[50px] min-h-[83vh] sm:pb-[10px] pb-[0px] ${
+              router.pathname === "/" && "!pt-0"
+            } `}
           >
             {router.pathname.split("/").includes("auth") ? (
               <Fragment>{children}</Fragment>
