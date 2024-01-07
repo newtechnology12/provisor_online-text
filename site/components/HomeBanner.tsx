@@ -21,8 +21,8 @@ export default function HomeBanner() {
           <h4 className="text-3xl sm:text-xl leading-[50px] text-[#0C8C7C] mx-auto font-bold capitalize">
             Urubuga rwambere mu rwanda rufasha abantu bose kubona Provisoire
           </h4>
-          <p className="sm:line-clamp-2- md:font-medium ml-0 max-w-lg mx-auto my-5 leading-8 text-[16px] font-medium- md:text-slate-700 text-slate-600">
-            Infinit Tech Solution ni urubuga rwashyiriweho gufasha abanyarwanda
+          <p className="sm:line-clamp-2- font-medium ml-0 max-w-lg mx-auto my-5 leading-9 text-[16.5px] font-medium- md:text-slate-700 text-slate-500">
+            Infinit Tech Drive ni urubuga rwashyiriweho gufasha abanyarwanda
             Bose kumenya amategeko y&apos;umuhanda mu rwego rwo kwirinda
             impanuka.
           </p>
