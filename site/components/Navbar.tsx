@@ -71,7 +71,11 @@ export default function Navbar() {
               <div className="flex items-center">
                 <Link href={user ? `/learn` : `/`}>
                   <a className="mr-3 sm:mr-0">
-                    <img className="h-[27px]" src="/images/logo.png" alt="" />
+                    <img
+                      className="h-[27px] md:h-[23px]"
+                      src="/images/logo.png"
+                      alt=""
+                    />
                   </a>
                 </Link>
               </div>
@@ -97,9 +101,9 @@ export default function Navbar() {
                   onClick={() => {
                     router.push("/auth/login");
                   }}
-                  className="bg-yellow-100 relative cursor-pointer bg-opacity-30 p-3 rounded-full  text-primary"
+                  className="bg-yellow-100 border-yellow-400 border relative cursor-pointer bg-opacity-30 p-[10px] rounded-full  text-primary"
                 >
-                  <User size={18} className="text-white" />
+                  <User size={18} className="text-primary" />
                 </div>
               )}
             </div>

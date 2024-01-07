@@ -31,7 +31,7 @@ export default function Home() {
       <div className="relative lg:px-3- h-fit">
         <img
           src="images/stats_bg.png"
-          className="absolute h-full w-full"
+          className="absolute object-cover object-left h-full w-full"
           alt=""
         />
         <div className="max-w-5xl py-6 relative mx-auto">
