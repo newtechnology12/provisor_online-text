@@ -27,12 +27,16 @@ export default function TestCard({ item }) {
                 <h1 className="text-[13px] uppercase font-semibold text-gray-800">
                   {item.name}
                 </h1>
-                {!item.free && (
+                {!item.free ? (
                   <div>
                     <div className="h-7 w-7 rounded-full flex items-center justify-center border bg-orange-50 border-[#fca120]">
                       <img alt="" className="h-4 w-4" src="/pro.png" />
                     </div>
                   </div>
+                ) : (
+                  <span className="text-xs font-medium border-green-500 border rounded-sm  bg-green-100 px-3 py-[3px] text-green-500">
+                    Free
+                  </span>
                 )}
               </div>
               <p className="font-medium text-sm text-slate-500 line-clamp-3 leading-8">

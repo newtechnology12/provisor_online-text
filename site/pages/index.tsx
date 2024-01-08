@@ -156,7 +156,11 @@ export default function Home() {
           </p>
         </div>
         <div className="flex md:flex-col md:items-center md:text-center items-center gap-4">
-          <img src="images/boards.png" alt="" />
+          <img
+            className="object-contain h-36 w-[500px] overflow-hidden rounded-md"
+            src="images/boards.png"
+            alt=""
+          />
           <div>
             <h1 className="text-primary mb-2 font-semibold">
               Amasomo ateguwe bigezweho
@@ -168,7 +172,11 @@ export default function Home() {
           </div>
         </div>
         <div className="flex  md:flex-col md:items-center md:text-center items-center gap-4">
-          <img className="object-contain" src="images/exam.png" alt="" />
+          <img
+            className="object-contain h-36 rounded-md"
+            src="images/exam.png"
+            alt=""
+          />
           <div>
             <p className="text-primary mb-2 font-semibold">
               Amasomo ateguwe bigezweho
@@ -180,7 +188,11 @@ export default function Home() {
           </div>
         </div>
         <div className="flex  md:flex-col md:items-center md:text-center items-center gap-4">
-          <img className="object-contain" src="images/pricing.png" alt="" />
+          <img
+            className="object-contain h-36 w-[500px] overflow-hidden rounded-md"
+            src="images/pricing.png"
+            alt=""
+          />
           <div>
             <p className="text-primary mb-2 font-semibold">Ibiciro biboneye</p>
             <p className="leading-7 text-slate-500">

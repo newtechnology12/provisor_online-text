@@ -4,6 +4,7 @@ import React, { useEffect } from "react";
 import { useAuth } from "../context/authContext";
 import { Avatar } from "./Avatar";
 import Logo from "./Logo";
+import Button from "./Button";
 
 export default function LearnLayout({ children }) {
   const router = useRouter();
@@ -377,8 +378,25 @@ export default function LearnLayout({ children }) {
                 })}
               </ul>
             </div>
+
             {user && (
-              <div className="flex px-[6px] py-[6px] gap-2">
+              <div className="flex flex-col px-[6px] py-[6px] gap-2">
+                {/* <Button
+                  className="!bg-[#0163cf] flex items-center !gap-6 !border-none !text-white"
+                  onClick={() => {
+                    window.open(
+                      "https://irembo.gov.rw/user/citizen/service/rnp/registration_for_driving_license_test_provisional_computer_based",
+                      "_blank"
+                    );
+                  }}
+                >
+                  <img
+                    src="/images/irembo.png"
+                    className="h-6 w-6 mr-2"
+                    alt=""
+                  />
+                  <span>Iyandikishe kw' Irembo</span>
+                </Button> */}
                 <div className="bg-slate-100 border px-[6px] bg-opacity-60 cursor-pointer border-slate-200 rounded-[4px] py-[6px] items-center justify-between w-full flex ">
                   <div className="flex items-center gap-2">
                     <Avatar rounded src={user?.photo} name={user?.username} />
