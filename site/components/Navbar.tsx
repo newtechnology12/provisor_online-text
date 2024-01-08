@@ -45,7 +45,7 @@ export default function Navbar() {
           <div className="lg:px-3 py-3 relative sm:py-[8px] flex items-center justify-between w-full ">
             <div className="flex gap-3 items-center">
               <a
-                className="bg-primary hidden sm:block p-[8px] cursor-pointer rounded-full"
+                className="bg-primary hidden sm:block p-[10px] cursor-pointer rounded-full"
                 onClick={() => {
                   setcallapsed(!callapsed);
                 }}
@@ -55,8 +55,8 @@ export default function Navbar() {
                   x="0px"
                   y="0px"
                   className="text-white fill-current"
-                  height={14}
-                  width={14}
+                  height={15}
+                  width={15}
                   viewBox="0 0 1000 1000"
                   enableBackground="new 0 0 1000 1000"
                   xmlSpace="preserve"
