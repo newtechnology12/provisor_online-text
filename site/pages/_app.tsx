@@ -6,7 +6,6 @@ import { QueryClient, QueryClientProvider } from "react-query";
 import { useState } from "react";
 import { ToastProvider } from "../context/toastContext";
 import { AuthProvider } from "../context/authContext";
-import { WhatsAppWidget } from "react-whatsapp-widget";
 import "react-whatsapp-widget/dist/index.css";
 declare global {
   interface Window {
@@ -29,7 +28,10 @@ function MyApp({ Component, pageProps }) {
   return (
     <QueryClientProvider client={queryClient}>
       <Head>
-        <title>Infinity Tech Drive</title>
+        <title>
+          Infinity Tech Drive - Ku Isonga mu mategeko y'umuhanda no gutegura
+          Ikizami cya Provisoir.
+        </title>
       </Head>
 
       <AuthProvider>
