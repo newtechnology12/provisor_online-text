@@ -62,6 +62,7 @@ export default function TableRow({
                           ) : (
                             <div>
                               <img
+                                alt=""
                                 src={i[col.photo]}
                                 className="h-11 w-11 border border-gray-100 rounded-[4px] cursor-pointer object-cover bg-gray-300"
                               />
@@ -101,6 +102,7 @@ export default function TableRow({
                 ) : col.name === "photo" ? (
                   <div>
                     <img
+                      alt=""
                       src={i["photo"] || "/images/placeholder_main.png"}
                       className="h-10 w-10 border border-gray-100 rounded-[4px] cursor-pointer object-cover bg-gray-300"
                     />

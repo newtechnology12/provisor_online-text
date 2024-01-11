@@ -13,7 +13,6 @@ import { firestore } from "../../config/firebase";
 import AppForm from "../../components/forms/AppForm";
 import Modal from "../../components/Modal";
 import AppFormField from "../../components/forms/AppFormField";
-import SwitchItem from "../../components/SwitchItem";
 import Button from "../../components/Button";
 import SubmitButton from "../../components/forms/SubmitButton";
 import AppFormSelect from "../../components/forms/AppFormSelect";

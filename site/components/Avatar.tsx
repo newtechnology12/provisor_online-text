@@ -26,6 +26,7 @@ export function Avatar({ name, size, rounded, src, textSize }: any) {
     <div>
       {src && (
         <img
+          alt=""
           style={{
             width: size || 35,
             height: size || 35,

@@ -7,12 +7,12 @@ export default function HomeBanner() {
   return (
     <div className="home-banner md:pt-12 p sm:h-[95vh] h-[650px] relative overflow-hidden sm:rounded-none g-green-200 sm:my-0 md:py-0  py-14 rounded-md my-0 flex flex-col items-start justify-start sm:px-4 px-10">
       <img
-        src="images/bg.png"
+        src="/images/bg.png"
         className="h-full w-full sm:hidden block sm:object-right  left-0 object-cover absolute z-10 top-0"
         alt=""
       />
       <img
-        src="images/bg_mobile.png"
+        src="/images/bg_mobile.png"
         className="h-full w-full hidden sm:block sm:object-center  left-0 object-cover absolute z-10 top-0"
         alt=""
       />
@@ -26,7 +26,7 @@ export default function HomeBanner() {
           <h4 className="text-3xl sm:text-[18px] md:leading-9 leading-[50px] text-[#0C8C7C] mx-auto font-bold capitalize">
             Ku Isonga mu mategeko y'umuhanda no gutegura Ikizami cya Provisoir.
           </h4>
-          <p className="sm:line-clamp-2- sm:px-1 line-clamp-3 font-medium ml-0 max-w-[450px] mx-auto my-5 sm:mt-1 sm:text-[15px] mt-3 leading-8 text-[16.5px] font-medium- md:text-slate-700- text-slate-500">
+          <p className="sm:line-clamp-2- sm:px-1 line-clamp-3 font-medium- ml-0 max-w-[450px] mx-auto my-5 sm:mt-1 sm:text-[15px] mt-3 leading-8 text-[16.5px] font-medium- md:text-slate-700- text-slate-500">
             Infinit Tech Drive ni urubuga rwashyiriweho gufasha abanyarwanda
             Bose kumenya amategeko y&apos;umuhanda mu rwego rwo kwirinda
             impanuka.
