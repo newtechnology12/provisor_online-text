@@ -35,12 +35,12 @@ exports.makeSubscriptionPayment = functions.https.onCall(
       if (context.auth && data.plan && data.phone) {
         const getAmount = (plan: any) => {
           return plan === "weekly"
-            ? 1500
+            ? 2000
             : plan === "monthly"
-            ? 5000
-            : plan === "daily"
-            ? 300
-            : 100000;
+              ? 5000
+              : plan === "daily"
+                ? 500
+                : 100000;
         };
         const user = context.auth;
 
@@ -124,10 +124,10 @@ exports.paymentWebhook = functions.https.onRequest(
             return plan === "weekly"
               ? new Date(d.setDate(d.getDate() + 7))
               : plan === "monthly"
-              ? new Date(d.setMonth(d.getMonth() + 1))
-              : plan === "daily"
-              ? new Date(d.setDate(d.getDate() + 1))
-              : new Date();
+                ? new Date(d.setMonth(d.getMonth() + 1))
+                : plan === "daily"
+                  ? new Date(d.setDate(d.getDate() + 1))
+                  : new Date();
           };
 
           batch.set(
@@ -161,8 +161,8 @@ exports.paymentWebhook = functions.https.onRequest(
               status === "successful"
                 ? "paid"
                 : status === "failed"
-                ? "failed"
-                : status,
+                  ? "failed"
+                  : status,
           }
         );
 

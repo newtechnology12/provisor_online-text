@@ -35,7 +35,7 @@ export default function Plans() {
       <div className="grid grid-cols-3 sm:grid-cols-1 gap-4">
         {[
           {
-            price: 300,
+            price: 500,
             name: "umunsi",
             duration: "daily",
             features: [
@@ -45,7 +45,7 @@ export default function Plans() {
             ],
           },
           {
-            price: 1500,
+            price: 2000,
             name: "icyumweru",
             duration: "weekly",
             features: [
