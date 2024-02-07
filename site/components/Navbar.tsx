@@ -245,7 +245,7 @@ export default function Navbar() {
 
 function Actions({ user, setcallapsed, callapsed }) {
   const router = useRouter();
-  const { logout }: any = useAuth();
+  const { logout, loading }: any = useAuth();
 
   const [loggingOut, setloggingOut] = useState(false);
   return (
@@ -261,9 +261,9 @@ function Actions({ user, setcallapsed, callapsed }) {
           <Button
             onClick={() => {
               setcallapsed(false);
-
-              router.push(`/auth/login`);
+              router.push(user ? "/learn" : "/auth/login");
             }}
+            disabled={loading}
             className="mr-3- !bg-primary !border-none text-white sm:w-full  sm:mb-3- sm:mr-0"
             small
             normal

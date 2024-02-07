@@ -1,9 +1,11 @@
 import "react-phone-number-input/style.css";
 import Button from "./Button";
 import { useRouter } from "next/router";
+import { useAuth } from "../context/authContext";
 
 export default function HomeBanner() {
   const router = useRouter();
+  const { user } = useAuth();
   return (
     <div className="home-banner md:pt-12 p sm:h-[95vh] h-[650px] relative overflow-hidden sm:rounded-none g-green-200 sm:my-0 md:py-0  py-14 rounded-md my-0 flex flex-col items-start justify-start sm:px-4 px-10">
       <img
@@ -36,7 +38,7 @@ export default function HomeBanner() {
             <Button
               className="!bg-primary !border-none !text-white"
               onClick={() => {
-                router.push("/auth/login");
+                router.push(user ? "/learn" : "/auth/login");
               }}
             >
               Tangira kwiga Nonaha

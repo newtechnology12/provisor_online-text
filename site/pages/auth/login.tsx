@@ -1,7 +1,7 @@
 import { NextSeo } from "next-seo";
 import Link from "next/link";
 import { useRouter } from "next/router";
-import { Fragment, useState } from "react";
+import { Fragment, useEffect, useState } from "react";
 import * as Yup from "yup";
 import Checkbox from "../../components/Checkbox";
 import SocialIcon from "../../components/SocialIcon";
@@ -10,6 +10,7 @@ import AppFormPhoneNumber from "../../components/forms/AppFormPhoneNumber";
 import SubmitButton from "../../components/forms/SubmitButton";
 import { useToast } from "../../context/toastContext";
 import { AuthServices } from "../../services/auth.service";
+import { useAuth } from "../../context/authContext";
 
 export default function Login() {
   const loginSchema = Yup.object().shape({
@@ -23,6 +24,8 @@ export default function Login() {
   const router = useRouter();
   const redirect_url = router.query?.redirect_url;
   const toast: any = useToast();
+
+  const { user } = useAuth();
 
   const handleSubmit = (
     { phone }: any,
@@ -77,6 +80,12 @@ export default function Login() {
       setgoogleLoading(false);
     }
   };
+
+  useEffect(() => {
+    if (user) {
+      router.push("/learn");
+    }
+  }, []);
 
   return (
     <div className="h-[87vh] sm:h-full sm:py-0 py-8 bg-slate-50">
