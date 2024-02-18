@@ -1,5 +1,5 @@
 import Link from "next/link";
-import React from "react";
+import React, { useState } from "react";
 import { ArrowRight } from "react-feather";
 import LessonCard from "../../components/LessonCard";
 import TestCard from "../../components/TestCard";
@@ -7,7 +7,18 @@ import { useAuth } from "../../context/authContext";
 import tests from "../../public/tests.json";
 import lessons from "../../public/lessons.json";
 
+import irembo from "../../public/images/irembo.svg";
+import Image from "next/image";
+import Kwiyandikisha1 from "../../components/Kwiyandikisha/Kwiyandikisha";
+import AmasomoWakoze from "../../components/AmasomoWakoze";
+
 export default function Index() {
+  const [modalOpen, setModalOpen] = useState(false);
+  const isClose = ()=>{
+    setModalOpen(false)
+  }
+
+ 
   var hours = new Date().getHours();
 
   let tStatus = hours < 12 ? "Mwaramutse" : "Mwiriwe";
@@ -16,59 +27,59 @@ export default function Index() {
 
   return (
     <div className="my-2">
-      <div className="flex items-center justify-between">
+      <div className="flex flex-row md:flex-col items-center justify-between">
         <div>
           {user && (
             <h2 className="mb-2 text-lg capitalize sm:mb-0">
-              {tStatus}, {user.username.split(" ")[0]}
+              <span>👋</span> {tStatus}, {user.username.split(" ")[0]}
             </h2>
           )}
           <p className="text-[15px] leading-7 sm:hidden font-medium text-gray-500">
             hitamo isomo cyangwa isuzuma utangire kwiga.
           </p>
         </div>
+        <div className="flex flex-row sm:flex-col items-center p-4 gap-4 bg-[#0C8C7C] rounded-[12px]">
+          <div className="flex flex-col gap-1 items-start sm:items-center  ">
+            <div className="w-[80px] h-[20px]">
+              <Image
+                src={irembo}
+                alt=""
+                width={0}
+                height={0}
+                className="w-full h-full object-fill"
+              />
+            </div>
+            <p className="text-[14px] text-[#fff] max-w-[256px] leading-4 font-light sm:text-center">
+              tugufashe kw’iyandikishe gukorera provisoire uciye hano
+            </p>
+          </div>
+          <div className="">
+            <a
+              href="https://irembo.gov.rw/home/citizen/all_services"
+              target="_blank"
+            >
+              <button className="p-2 rounded-[8px] bg-white flex flex-row items-center gap-2">
+                <span className="text-[#F49621] text-[14px]">Kanda Hano</span>
+                <div>
+                  <svg
+                    width="20"
+                    height="20"
+                    viewBox="0 0 20 20"
+                    fill="none"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M10.8077 16.0669C10.7496 16.0088 10.7035 15.9399 10.672 15.864C10.6406 15.7881 10.6244 15.7068 10.6244 15.6247C10.6244 15.5425 10.6406 15.4612 10.672 15.3853C10.7035 15.3095 10.7496 15.2405 10.8077 15.1825L15.3663 10.6247H3.12488C2.95912 10.6247 2.80014 10.5588 2.68293 10.4416C2.56572 10.3244 2.49988 10.1654 2.49988 9.99968C2.49988 9.83392 2.56572 9.67494 2.68293 9.55773C2.80014 9.44052 2.95912 9.37468 3.12488 9.37468H15.3663L10.8077 4.81686C10.6904 4.69959 10.6245 4.54053 10.6245 4.37468C10.6245 4.20882 10.6904 4.04976 10.8077 3.93249C10.925 3.81521 11.084 3.74933 11.2499 3.74933C11.4157 3.74933 11.5748 3.81521 11.6921 3.93249L17.3171 9.55749C17.3752 9.61553 17.4213 9.68446 17.4527 9.76034C17.4842 9.83621 17.5004 9.91754 17.5004 9.99968C17.5004 10.0818 17.4842 10.1631 17.4527 10.239C17.4213 10.3149 17.3752 10.3838 17.3171 10.4419L11.6921 16.0669C11.634 16.125 11.5651 16.1711 11.4892 16.2025C11.4133 16.234 11.332 16.2502 11.2499 16.2502C11.1677 16.2502 11.0864 16.234 11.0105 16.2025C10.9347 16.1711 10.8657 16.125 10.8077 16.0669Z"
+                      fill="#FF9F00"
+                    />
+                  </svg>
+                </div>
+              </button>
+            </a>
+          </div>
+        </div>
       </div>
       <div className="mt-5">
-        {user?.subscription !== "active" && (
-          <div className="fixed- bottom-0- inset-x-0 pb-5">
-            <div className="mx-auto sm:px-3">
-              <div className=" rounded-lg bg-[#0C8C7C] sm:py-5 shadow-lg p-3">
-                <div className="flex sm:flex-col items-center justify-between flex-wrap">
-                  <div className="w-0- flex-1 flex sm:flex-col p-2 rounded-md items-center">
-                    <span className="flex sm:flex-col p-2 rounded-md bg-[#13655b]">
-                      {/* Heroicon name: outline/speakerphone */}
-
-                      <svg
-                        className="h-5 w-5 text-white"
-                        xmlns="http://www.w3.org/2000/svg"
-                        viewBox="0 0 32 32"
-                      >
-                        <path
-                          fill="currentColor"
-                          d="M7 4a1 1 0 0 0-.894.553l-4 8a1 1 0 0 0 .118 1.078l13 16a1 1 0 0 0 1.552 0l13-16a1 1 0 0 0 .118-1.078l-4-8A1 1 0 0 0 25 4zm-2.382 8l3-6h4.101l-1.5 6zm.483 2h5.164l3.227 10.328zm7.26 0h7.279L16 25.647zm9.374 0H26.9l-8.391 10.328zm5.647-2h-5.601l-1.5-6h4.101zm-7.663 0h-7.438l1.5-6h4.438z"
-                        />
-                      </svg>
-                    </span>
-                    <p className="ml-3 sm:my-3 font-medium sm:text-center sm:px-8 text-white truncate-">
-                      <span className="inline- sm:text-center leading-7 text-[15px]">
-                        Gura Ifatabuguzi utangire kwiga amasomo yawe igihe
-                        cyose.
-                      </span>
-                    </p>
-                  </div>
-                  <div className="flex-shrink-0 order-2 mt-0 w-auto">
-                    <Link href="/learn/billing">
-                      <a className="flex items-center justify-center px-6 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-[#0C8C7C] bg-white hover:bg-indigo-50">
-                        Gura Ifatabuguzi Nonaha.
-                      </a>
-                    </Link>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        )}
-
         <div className="mt-3">
           <div className="my-2">
             {tests.length ? (
@@ -84,7 +95,7 @@ export default function Index() {
             ) : null}
 
             <div className="mt-5 sm:grid-cols-1 grid grid-cols-3 gap-3">
-              {tests.slice(0, 6).map((e: any, index) => {
+              {tests.slice(0, 3).map((e: any, index) => {
                 return (
                   <TestCard
                     key={index}
@@ -101,6 +112,127 @@ export default function Index() {
             </div>
           </div>
         </div>
+        {modalOpen && (
+          <Kwiyandikisha1 isClose={isClose}/>
+
+        )}
+
+        <div className="flex md:items-center flex-col gap-2 mt-3 items-start w-full">
+          <h4 className="text-base">Amasomo </h4>
+          <div className="flex cursor-pointer items-center flex-row md:flex-col  gap-2">
+            <div className="flex flex-col bg-white rounded-[12px]">
+              <div className=" ">
+                <Image
+                  src={"/images/bg-part.png"}
+                  width={300}
+                  height={160}
+                  className="w-full h-full object-cover rounded-t-[12px]"
+                />
+              </div>
+              <div className="flex flex-col items-start gap-2 px-2">
+                <h1 className="font-[700] ">
+                  ibimenyetso ibyo mumuhanda n’ibimurika
+                </h1>
+                <span className="text-[12px] font-[300] max-w-[300px] text-[#9A9A9A]">
+                  abusobanuro bwuzuye n’amafoto y’ibimenyetsobyo mu muhanda
+                  n’ibimurika{" "}
+                </span>
+                <div className="flex flex-col items-start">
+                  <span className="text-[12px] font-[300] text-[#B9B9B9]">
+                    PUBLISHED
+                  </span>
+                  <span className="text-[12px] font-[300] text-[#FF9F00]">
+                    Nov 30,2023
+                  </span>
+                </div>
+              </div>
+            </div>
+
+            <div className="flex flex-col gap-4">
+              <div className="bg-white cursor-pointer rounded-[12px] p-2 gap-2 flex flex-row md:flex-col md:items-center">
+                <div className="w-[20vh] md:h-[150px] md:w-[300px]  overflow-hidden   ">
+                  <Image
+                    src={`/images/bg-part.png`}
+                    width={300}
+                    height={300}
+                    className="w-full h-full object-cover md:object-center  rounded-[8px]"
+                  />
+                </div>
+                <div className="flex flex-col md:items-center md:max-w-[300px] items-start px-2 gap-2 ">
+                  <h1 className="font-[700] max-w-[250px] ">
+                  ibyapa n’ ibinyabiziga
+                  </h1>
+                  <span className="text-[12px] md:text-center font-[300] text-[#9A9A9A] ">
+                  abusobanuro bwuzuye n’amafoto y’ ibyapa nibibyabiziga
+                  </span>
+                  <div className="flex flex-col items-start">
+                    <span className="text-[12px] font-[300] text-[#B9B9B9]">
+                      PUBLISHED
+                    </span>
+                    <span className="text-[12px] font-[300] text-[#FF9F00]">
+                      Nov 30,2023
+                    </span>
+                  </div>
+                </div>
+              </div>
+              <div className="bg-white rounded-[12px]  gap-2 p-2 flex flex-row md:flex-col md:items-center cursor-pointer ">
+                <div className="w-[26vh]  md:h-[150px] md:w-[300px]  overflow-hidden  ">
+                  <Image
+                    src={`/images/bg-part.png`}
+                    width={300}
+                    height={300}
+                    className="w-full h-full object-cover  rounded-[8px]"
+                  />
+                </div>
+                <div className="flex flex-col max-w-[300px] items-start md:items-center px-2 gap-2 ">
+                  <h1 className="font-[700]  ">
+                    ibibazo n’ibisubizo
+                  </h1>
+                  <span className="text-[12px]  md:text-center font-[300] text-[#9A9A9A] ">
+                    Ibibazo n’ibisubizo 400 bikubiye mwigazeti byagiye bikorwa
+                    mugihugu hose{" "}
+                  </span>
+                  <div className="flex flex-col items-start">
+                    <span className="text-[12px] font-[300] text-[#B9B9B9]">
+                      PUBLISHED
+                    </span>
+                    <span className="text-[12px] font-[300] text-[#FF9F00]">
+                      Nov 30,2023
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div className="flex cursor-pointer flex-col bg-white rounded-[12px]">
+              <div className=" ">
+                <Image
+                  src={"/images/bg-part.png"}
+                  width={300}
+                  height={160}
+                  className="w-full h-full object-cover rounded-t-[12px]"
+                />
+              </div>
+              <div className="flex flex-col items-start gap-2 px-2">
+                <h1 className="font-[700] ">Igazeti</h1>
+                <span className="text-[12px] font-[300] max-w-[300px] text-[#9A9A9A]">
+                  Ibibazo n’ibisubizo 400 bikubiye mwigazeti byagiye bikorwa
+                  mugihugu hose
+                </span>
+                <div className="flex flex-col items-start">
+                  <span className="text-[12px] font-[300] text-[#B9B9B9]">
+                    PUBLISHED
+                  </span>
+                  <span className="text-[12px] font-[300] text-[#FF9F00]">
+                    Nov 30,2023
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+          <AmasomoWakoze/>
 
         {lessons.length ? (
           <div className="mt-7">
