@@ -68,5 +68,68 @@
                 }
             }
         ]
+    },
+    {
+        "free": true,
+        "id": "736473ur347yr",
+        "name": "Ibyapa bitegeka",
+        "desc": "Isomo ririmo ibyapa birenga 40 byiganjemo ibyapa byose bitegeka, usanga mumuhanda",
+        "archivements": [
+            "Kumenya neza nba umunyeshuri yarafashe ibyo yize"
+        ],
+        "requirements": [
+            "Ubushake"
+        ],
+        "sections": [
+            {
+                "id": "482tY16xfYHzZowTyfz8",
+                "position": 1,
+                "content": {
+                    "path": "lessons/IBYAPA BITEGEKA/IBYAPA BITEGEKA.md"
+                }
+            }
+        ]
+    },
+    {
+        "free": true,
+        "id": "3ur347yr",
+        "name": "Ibyapa biburira",
+        "desc": "Isomo ririmo ibyapa birenga 40 byiganjemo ibyapa byose biburira, usanga mumuhanda",
+        "archivements": [
+            "Kumenya neza nba umunyeshuri yarafashe ibyo yize"
+        ],
+        "requirements": [
+            "Ubushake"
+        ],
+        "sections": [
+            {
+                "id": "482tY16xfYdcHzZowTyfz8",
+                "position": 1,
+                "content": {
+                    "path": "lessons/IBYAPA BIBURIRA/IBYAPA BIBURIRA.md"
+                }
+            }
+        ]
+    },
+    {
+        "free": true,
+        "id": "dcd3ur347yr",
+        "name": "Amategeko y'umuhanda 2020",
+        "desc": "Isomo Amategeko y'umuhanda, usanga mumuhanda nibindi byinci byagufasha kumenya neza ibyapa byose",
+        "archivements": [
+            "Kumenya neza nba umunyeshuri yarafashe ibyo yize"
+        ],
+        "requirements": [
+            "Ubushake"
+        ],
+        "sections": [
+            {
+                "id": "482dctY16xfYHzZowTyfz8",
+                "position": 1,
+                "content": {
+                    "path": "lessons/AMATEGEKO Y'UMUHANDA_2020/AMATEGEKO Y'UMUHANDA_2020.md"
+                }
+            }
+        ]
     }
 ]

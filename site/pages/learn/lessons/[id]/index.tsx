@@ -1,12 +1,13 @@
 import { useRouter } from "next/router";
 import React, { Fragment, useState } from "react";
+import { marked } from "marked";
 
 import lessons from "../../../../public/lessons.json";
 import { ChevronLeft, ChevronRight } from "react-feather";
+import fs from "fs";
+import path from "path";
 
 export default function Lesson({ lesson }) {
-  const router = useRouter();
-
   const data = lesson?.sections;
 
   const [activeSection, setactiveSection] = useState(0);
@@ -127,9 +128,33 @@ export async function getStaticProps({ params }) {
     };
   }
 
+  const renderer = new marked.Renderer();
+
   return {
     props: {
-      lesson,
+      lesson: {
+        ...lesson,
+        sections: lesson.sections.map((section) => {
+          renderer.image = function (href, title, text) {
+            return `<img src="/${section?.content?.path
+              .split("/")
+              .slice(0, section?.content?.path.split("/").length - 1)
+              .join("/")}/${href}" />`; // for local references
+          };
+          const content = section?.content?.path
+            ? marked.parse(
+                fs.readFileSync(`public/${section?.content?.path}`).toString(),
+                {
+                  renderer: renderer,
+                }
+              )
+            : section.content;
+          return {
+            ...section,
+            content: content,
+          };
+        }),
+      },
     },
   };
 }
