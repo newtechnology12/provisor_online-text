@@ -70,7 +70,7 @@
         ]
     },
     {
-        "free": true,
+        "free": false,
         "id": "736473ur347yr",
         "name": "Ibyapa bitegeka",
         "desc": "Isomo ririmo ibyapa birenga 40 byiganjemo ibyapa byose bitegeka, usanga mumuhanda",
@@ -91,7 +91,7 @@
         ]
     },
     {
-        "free": true,
+        "free": false,
         "id": "3ur347yr",
         "name": "Ibyapa biburira",
         "desc": "Isomo ririmo ibyapa birenga 40 byiganjemo ibyapa byose biburira, usanga mumuhanda",
@@ -112,7 +112,7 @@
         ]
     },
     {
-        "free": true,
+        "free": false,
         "id": "dcd3ur347yr",
         "name": "Amategeko y'umuhanda 2020",
         "desc": "Isomo Amategeko y'umuhanda, usanga mumuhanda nibindi byinci byagufasha kumenya neza ibyapa byose",
