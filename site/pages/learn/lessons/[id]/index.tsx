@@ -69,7 +69,7 @@ export default function Lesson({ lesson }) {
           <div dangerouslySetInnerHTML={{ __html: sec?.content || "" }}></div>
         </div>
       </div>
-      <div className="flex gap-6 mt-4 items-center mt-0 justify-between">
+      <div className="flex gap-6 mt-4 items-center  justify-between">
         {data[activeSection - 1] ? (
           <div
             onClick={() => {
