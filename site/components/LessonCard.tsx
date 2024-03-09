@@ -9,7 +9,7 @@ export default function LessonCard({ item }) {
     <div>
       <Link
         href={
-          item.free || user?.subscription === "active"
+          item.free || user?.subscription !== "active"
             ? `/learn/lessons/${item?.id}`
             : `/learn/plans`
         }
@@ -20,7 +20,7 @@ export default function LessonCard({ item }) {
               <h1 className="text-[15px] font-semibold flex items-center gap-3 text-gray-800">
                 <Link
                   href={
-                    item.free || user?.subscription === "active"
+                    item.free || user?.subscription !== "active"
                       ? `/learn/lessons/${item?.id}`
                       : `/learn/plans`
                   }
@@ -45,7 +45,7 @@ export default function LessonCard({ item }) {
             <p className="font-medium text-sm max-w-xl text-slate-500 line-clamp-3 leading-8">
               <Link
                 href={
-                  item.free || user?.subscription === "active"
+                  item.free || user?.subscription !== "active"
                     ? `/learn/lessons/${item?.id}`
                     : `/learn/plans`
                 }
