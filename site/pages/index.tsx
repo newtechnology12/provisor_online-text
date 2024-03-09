@@ -4,6 +4,7 @@ import HomeBanner from "../components/HomeBanner";
 import Plans from "./learn/plans";
 import { Mail, Phone } from "react-feather";
 import Link from "next/link";
+import Image from "next/image";
 
 export default function Home() {
   return (
@@ -27,6 +28,9 @@ export default function Home() {
         }}
       />
       <HomeBanner />
+      <a  href="https://chat.whatsapp.com/EvlrXKFaCfG8W1TLM5mHmR" target="_brank"  className=" fixed z-40 w-[40px] h-[40px] bottom-4 right-20 md:right-[10px] ">
+        <Image src={`/images/logoTsap.png`} width={500} height={500}  className="w-full h-full object-cover" />
+      </a>
 
       <div className="relative lg:px-3- h-fit">
         <img
@@ -331,6 +335,7 @@ export default function Home() {
             </div>
           </div>
         </div>
+      
       </div>
     </Fragment>
   );
