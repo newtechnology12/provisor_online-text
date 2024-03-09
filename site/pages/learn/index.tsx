@@ -153,7 +153,7 @@ export default function Index() {
             </div>
 
             <div  onClick={() => {
-                  if (user?.subscription !== "active" ) {
+                  if (user?.subscription === "active" ) {
                     router.push("/learn/lessons/UmkTlqVp5Rv8129TXilv");
                   } else {
                     router.push("/learn/plans");
@@ -219,7 +219,7 @@ export default function Index() {
             </div>
 
             <div onClick={() => {
-                  if (user?.subscription !== "active" ) {
+                  if (user?.subscription === "active" ) {
                     router.push("/learn/lessons/282tY16xfYHzZowTyfz8");
                   } else {
                     router.push("/learn/plans");
