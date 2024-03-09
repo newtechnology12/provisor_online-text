@@ -28,8 +28,17 @@ export default function Home() {
         }}
       />
       <HomeBanner />
-      <a  href="https://chat.whatsapp.com/EvlrXKFaCfG8W1TLM5mHmR" target="_brank"  className=" fixed z-40 w-[40px] h-[40px] bottom-4 right-20 md:right-[10px] ">
-        <Image src={`/images/logoTsap.png`} width={500} height={500}  className="w-full h-full object-cover" />
+      <a
+        href="https://chat.whatsapp.com/EvlrXKFaCfG8W1TLM5mHmR"
+        target="_brank"
+        className=" fixed z-40 w-[40px] h-[40px] bottom-4 right-20 md:right-[10px] "
+      >
+        <img
+          src={`/images/logoTsap.png`}
+          width={500}
+          height={500}
+          className="w-full h-full object-cover"
+        />
       </a>
 
       <div className="relative lg:px-3- h-fit">
@@ -335,7 +344,6 @@ export default function Home() {
             </div>
           </div>
         </div>
-      
       </div>
     </Fragment>
   );
