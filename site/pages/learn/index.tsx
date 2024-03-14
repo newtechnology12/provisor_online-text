@@ -1,18 +1,12 @@
 import Link from "next/link";
 import React, { useState } from "react";
 import { ArrowRight } from "react-feather";
-import LessonCard from "../../components/LessonCard";
 import TestCard from "../../components/TestCard";
 import { useAuth } from "../../context/authContext";
 import tests from "../../public/tests.json";
-import tests2 from "../../public/tests2.json"
-import lessons from "../../public/lessons.json";
-import Image from "next/image"
-import irembo from "../../public/images/irembo.svg";
+import tests2 from "../../public/tests2.json";
 import { useRouter } from "next/router";
 import ChooseSign from "../../components/ChooseSign";
-
-
 
 export default function Index() {
   const router = useRouter();
@@ -20,16 +14,15 @@ export default function Index() {
 
   let tStatus = hours < 12 ? "Mwaramutse" : "Mwiriwe";
   const [chooseModal, setChooseModal] = useState<Boolean>(false);
-  const isClose = ()=>{
-   
-    setChooseModal(false)
-  }
+  const isClose = () => {
+    setChooseModal(false);
+  };
 
   const { user }: any = useAuth();
 
   return (
     <div className="my-2">
-     <div className="flex flex-row md:flex-col items-center justify-between">
+      <div className="flex flex-row md:flex-col items-center justify-between">
         <div>
           {user && (
             <h2 className="mb-2 text-lg capitalize sm:mb-0">
@@ -43,8 +36,8 @@ export default function Index() {
         <div className="flex flex-row sm:flex-col items-center p-4 gap-4 bg-[#0C8C7C] rounded-[12px]">
           <div className="flex flex-col gap-1 items-start sm:items-center  ">
             <div className="w-[80px] h-[20px]">
-              <Image
-                src={irembo}
+              <img
+                src={"/images/irembo.svg"}
                 alt=""
                 width={0}
                 height={0}
@@ -59,6 +52,7 @@ export default function Index() {
             <a
               href="https://irembo.gov.rw/user/citizen/service/rnp/registration_for_driving_license_test_provisional_paper_based"
               target="_blank"
+              rel="noreferrer"
             >
               <button className="p-2 rounded-[8px] bg-white flex flex-row items-center gap-2">
                 <span className="text-[#F49621] text-[14px]">Kanda Hano</span>
@@ -82,7 +76,6 @@ export default function Index() {
         </div>
       </div>
       <div className="mt-5">
-
         <div className="mt-3">
           <div className="my-2">
             {tests2.length ? (
@@ -116,17 +109,16 @@ export default function Index() {
           </div>
         </div>
 
-      
-           {chooseModal && (
-          <ChooseSign isClose={isClose}/>
-
-           )}
-          <div className="flex md:items-center flex-col gap-2 mt-3 items-start w-full">
+        {chooseModal && <ChooseSign isClose={isClose} />}
+        <div className="flex md:items-center flex-col gap-2 mt-3 items-start w-full">
           <h4 className="text-base">Amasomo </h4>
           <div className="flex cursor-pointer items-center flex-row md:flex-col  gap-2">
-            <div onClick={()=> setChooseModal(!chooseModal)}  className="flex flex-col bg-white rounded-[12px]">
+            <div
+              onClick={() => setChooseModal(!chooseModal)}
+              className="flex flex-col bg-white rounded-[12px]"
+            >
               <div className=" ">
-                <Image
+                <img
                   src={"/images/bg-part.png"}
                   width={300}
                   height={160}
@@ -152,16 +144,19 @@ export default function Index() {
               </div>
             </div>
 
-            <div  onClick={() => {
-                  if (user?.subscription === "active" ) {
-                    router.push("/learn/lessons/UmkTlqVp5Rv8129TXilv");
-                  } else {
-                    router.push("/learn/plans");
-                  }
-                }} className="flex flex-col gap-4">
+            <div
+              onClick={() => {
+                if (user?.subscription === "active") {
+                  router.push("/learn/lessons/UmkTlqVp5Rv8129TXilv");
+                } else {
+                  router.push("/learn/plans");
+                }
+              }}
+              className="flex flex-col gap-4"
+            >
               <div className="bg-white cursor-pointer rounded-[12px] p-2 gap-2 flex flex-row md:flex-col md:items-center">
                 <div className="w-[20vh] md:h-[150px] md:w-[300px]  overflow-hidden   ">
-                  <Image
+                  <img
                     src={`/images/bg-part.png`}
                     width={300}
                     height={300}
@@ -170,10 +165,10 @@ export default function Index() {
                 </div>
                 <div className="flex flex-col md:items-center md:max-w-[300px] items-start px-2 gap-2 ">
                   <h1 className="font-[700] max-w-[250px] ">
-                  ibyapa n’ ibinyabiziga
+                    ibyapa n’ ibinyabiziga
                   </h1>
                   <span className="text-[12px] md:text-center font-[300] text-[#9A9A9A] ">
-                  abusobanuro bwuzuye n’amafoto y’ ibyapa nibibyabiziga
+                    abusobanuro bwuzuye n’amafoto y’ ibyapa nibibyabiziga
                   </span>
                   <div className="flex flex-col items-start">
                     <span className="text-[12px] font-[300] text-[#B9B9B9]">
@@ -185,13 +180,14 @@ export default function Index() {
                   </div>
                 </div>
               </div>
-              <div onClick={() => {
-               
-                    router.push("/learn/lessons/siluGQfApdQMsmyN2RCv");
-             
-                }}  className="bg-white rounded-[12px]  gap-2 p-2 flex flex-row md:flex-col md:items-center cursor-pointer ">
+              <div
+                onClick={() => {
+                  router.push("/learn/lessons/siluGQfApdQMsmyN2RCv");
+                }}
+                className="bg-white rounded-[12px]  gap-2 p-2 flex flex-row md:flex-col md:items-center cursor-pointer "
+              >
                 <div className="w-[26vh]  md:h-[150px] md:w-[300px]  overflow-hidden  ">
-                  <Image
+                  <img
                     src={`/images/bg-part.png`}
                     width={300}
                     height={300}
@@ -199,9 +195,7 @@ export default function Index() {
                   />
                 </div>
                 <div className="flex flex-col max-w-[300px] items-start md:items-center px-2 gap-2 ">
-                  <h1 className="font-[700]  ">
-                    ibibazo n’ibisubizo
-                  </h1>
+                  <h1 className="font-[700]  ">ibibazo n’ibisubizo</h1>
                   <span className="text-[12px]  md:text-center font-[300] text-[#9A9A9A] ">
                     Ibibazo n’ibisubizo 400 bikubiye mwigazeti byagiye bikorwa
                     mugihugu hose{" "}
@@ -218,15 +212,18 @@ export default function Index() {
               </div>
             </div>
 
-            <div onClick={() => {
-                  if (user?.subscription === "active" ) {
-                    router.push("/learn/lessons/282tY16xfYHzZowTyfz8");
-                  } else {
-                    router.push("/learn/plans");
-                  }
-                }} className="flex cursor-pointer flex-col bg-white rounded-[12px]">
+            <div
+              onClick={() => {
+                if (user?.subscription === "active") {
+                  router.push("/learn/lessons/282tY16xfYHzZowTyfz8");
+                } else {
+                  router.push("/learn/plans");
+                }
+              }}
+              className="flex cursor-pointer flex-col bg-white rounded-[12px]"
+            >
               <div className=" ">
-                <Image
+                <img
                   src={"/images/bg-part.png"}
                   width={300}
                   height={160}
