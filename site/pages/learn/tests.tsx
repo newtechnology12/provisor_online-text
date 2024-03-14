@@ -1,7 +1,7 @@
 import { NextSeo } from "next-seo";
 import React, { useState, Fragment } from "react";
 import TestCard from "../../components/TestCard";
-import tests from "../../public/tests.json";
+import tests from "../../public/tests2.json";
 
 export default function Tests() {
   const [selected, setselected] = useState(0);

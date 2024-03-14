@@ -61,8 +61,8 @@ export default function Modal({
             </div>
           )}
           <div
-            className={`bg-gray-950 bg-white ${
-              !hAuto && "max-h-[78vh] overflow-y-auto scrollbar"
+            className={` bg-white ${
+              !hAuto && "max-h-[70vh] overflow-y-auto scrollbar"
             }  ${
               size === "xl" && " overflow-y-scroll"
             } overflow-hidden relative`}
