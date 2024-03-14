@@ -2,6 +2,7 @@
     {
         "id": "I2DvPY8iiWZKTOtRtRiS",
         "name": "Umwitozo wa 2",
+        
         "desc": "",
         "questions": [
             {
@@ -446,7 +447,9 @@
             "nanoseconds": 398000000
         },
         "name": "Umwitozo wa 3",
+        "free":false,
         "instructions": [],
+        
         "questions": [
             {
                 "id": "36WjsTkT78QcfGh72KBX",
@@ -5711,7 +5714,7 @@
         ]
     },
     {
-        "id": "jNdJGeLVsF3gpRd7dzg7",
+        "id": "jNdJGeLVsF3gpRd7dzg7",   
         "updatedAt": {
             "seconds": 1666734499,
             "nanoseconds": 136000000
