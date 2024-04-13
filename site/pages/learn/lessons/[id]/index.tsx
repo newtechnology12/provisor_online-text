@@ -1,7 +1,7 @@
 import { useRouter } from "next/router";
 import React, { Fragment, useState } from "react";
 
-import lessons from "../../../../public/lessons.json";
+import lessons from "../../../../public/lessonss.json";
 import { ChevronLeft, ChevronRight } from "react-feather";
 
 export default function Lesson({ lesson }) {

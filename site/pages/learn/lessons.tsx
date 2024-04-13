@@ -9,7 +9,7 @@ import TestCard from "../../components/TestCard";
 import Image from "next/image"
 import irembo from "../../public/images/irembo.svg";
 import { useAuth } from "../../context/authContext";
-import AmasomoWakoze from "../../components/AmasomoWakoze";
+
 
 export default function Lessons() {
   
@@ -73,70 +73,7 @@ export default function Lessons() {
           </div>
         </div>
       </div>
-      <div className="flex flex-col items-start mt-2 md:items-center justify-between">
-        <div className="flex flex-row bg-white gap-[20px] p-4 rounded-[8px]">
-          <div className="flex flex-col gap-[6px] items-start border-r-2 pr-[50px]">
-            <span>Ayo Wakoze</span>
-            <h1 className="font-[700]">18</h1>
-          </div>
-          <div className="flex flex-col gap-[10px] items-start md:pr-[20px]  pr-[100px]">
-            <span>Imitsindire yawe</span>
-            <div className="flex flex-row items-center gap-[4px]">
-              <span className="text-[14px]">56%</span>
-            <div className="h-2 bg-[#F4F4F4] rounded-[12px] w-[100px]">
-              <div className="h-2 bg-[#0C8C7C] rounded-[12px]" style={{width: '50%'}}></div>
-            </div>
-
-            </div>
-          </div>
-        </div>
-        <div className="mt-5">
-        <div className="mt-3">
-          <div className="my-2">
-            {tests.length ? (
-              <div className="flex items-center justify-between">
-                <h4 className="text-base">Amasuzuma akuzwe</h4>
-                <Link href={"/learn/tests"}>
-                  <a className="text-sm font-bold text-primary flex items-center">
-                    <span> Ayandi</span>
-                    <ArrowRight className="ml-2" size={15} />
-                  </a>
-                </Link>
-              </div>
-            ) : null}
-
-            <div className="mt-5 sm:grid-cols-1 grid grid-cols-3 gap-3">
-              {tests.slice(0, 6).map((e: any, index) => {
-                return (
-                  <TestCard
-                    key={index}
-                    item={{
-                      id: e.id,
-                      name: e.name,
-                      questions: e.questions,
-                      free: e.free,
-                      createdAt: new Date().toLocaleDateString(),
-                    }}
-                  />
-                );
-              })}
-            </div>
-          </div>
-        </div>
-        <AmasomoWakoze/>
-
-
-      </div>
-        <div>
-          <h2 className="mb-1 text-[17px] capitalize sm:mb-0">
-            Amasomo yo kwiga
-          </h2>
-          <p className="text-[15px] leading-7 sm:hidden font-medium text-gray-500">
-            Hitamo mumasomo ari aho hasi utangire kwihugura nonaha.
-          </p>
-        </div>
-        
-      </div>
+  
       
       <All />
     </Fragment>

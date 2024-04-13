@@ -27,6 +27,11 @@ export default function Home() {
         }}
       />
       <HomeBanner />
+      <a href="https://chat.whatsapp.com/EvlrXKFaCfG8W1TLM5mHmR" target="_brank" className="p-4  flex items-center justify-center bg-green-500 rounded-full fixed bottom-10 right-[18vh] hover:scale-110 transition-all  z-40">
+        <h1 className="text-white text-[14px]">Join Whatsap Group</h1>
+
+
+      </a>
 
       <div className="relative lg:px-3- h-fit">
         <img

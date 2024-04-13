@@ -11,11 +11,17 @@ import irembo from "../../public/images/irembo.svg";
 import Image from "next/image";
 import Kwiyandikisha1 from "../../components/Kwiyandikisha/Kwiyandikisha";
 import AmasomoWakoze from "../../components/AmasomoWakoze";
+import { useRouter } from "next/router";
+import ChooseSign from "../../components/Kwiyandikisha/ChooseSign";
 
 export default function Index() {
-  const [modalOpen, setModalOpen] = useState(false);
+  
+  const router = useRouter();
+  const [modalOpen, setModalOpen] = useState<Boolean>(false);
+  const [chooseModal, setChooseModal] = useState<Boolean>(false);
   const isClose = ()=>{
     setModalOpen(false)
+    setChooseModal(false)
   }
 
  
@@ -55,7 +61,7 @@ export default function Index() {
           </div>
           <div className="">
             <a
-              href="https://irembo.gov.rw/home/citizen/all_services"
+              href="https://irembo.gov.rw/user/citizen/service/rnp/registration_for_driving_license_test_provisional_paper_based"
               target="_blank"
             >
               <button className="p-2 rounded-[8px] bg-white flex flex-row items-center gap-2">
@@ -116,11 +122,17 @@ export default function Index() {
           <Kwiyandikisha1 isClose={isClose}/>
 
         )}
+        {chooseModal && (
+          <ChooseSign isClose={isClose}/>
+
+        )}
 
         <div className="flex md:items-center flex-col gap-2 mt-3 items-start w-full">
           <h4 className="text-base">Amasomo </h4>
           <div className="flex cursor-pointer items-center flex-row md:flex-col  gap-2">
-            <div className="flex flex-col bg-white rounded-[12px]">
+            <div  onClick={() => 
+                    setChooseModal(!chooseModal)
+             } className="flex flex-col bg-white rounded-[12px]">
               <div className=" ">
                 <Image
                   src={"/images/bg-part.png"}
@@ -148,7 +160,13 @@ export default function Index() {
               </div>
             </div>
 
-            <div className="flex flex-col gap-4">
+            <div  onClick={() => {
+                  if (user?.subscription !== "active" ) {
+                    router.push("/learn/lessons/UmkTlqVp5Rv8129TXilv");
+                  } else {
+                    router.push("/learn/plans");
+                  }
+                }} className="flex flex-col gap-4">
               <div className="bg-white cursor-pointer rounded-[12px] p-2 gap-2 flex flex-row md:flex-col md:items-center">
                 <div className="w-[20vh] md:h-[150px] md:w-[300px]  overflow-hidden   ">
                   <Image
@@ -175,7 +193,11 @@ export default function Index() {
                   </div>
                 </div>
               </div>
-              <div className="bg-white rounded-[12px]  gap-2 p-2 flex flex-row md:flex-col md:items-center cursor-pointer ">
+              <div onClick={() => {
+               
+                    router.push("/learn/lessons/siluGQfApdQMsmyN2RCv");
+             
+                }}  className="bg-white rounded-[12px]  gap-2 p-2 flex flex-row md:flex-col md:items-center cursor-pointer ">
                 <div className="w-[26vh]  md:h-[150px] md:w-[300px]  overflow-hidden  ">
                   <Image
                     src={`/images/bg-part.png`}
@@ -204,7 +226,13 @@ export default function Index() {
               </div>
             </div>
 
-            <div className="flex cursor-pointer flex-col bg-white rounded-[12px]">
+            <div onClick={() => {
+                  if (user?.subscription !== "active" ) {
+                    router.push("/learn/lessons/282tY16xfYHzZowTyfz8");
+                  } else {
+                    router.push("/learn/plans");
+                  }
+                }} className="flex cursor-pointer flex-col bg-white rounded-[12px]">
               <div className=" ">
                 <Image
                   src={"/images/bg-part.png"}
