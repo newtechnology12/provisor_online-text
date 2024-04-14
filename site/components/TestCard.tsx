@@ -5,9 +5,18 @@ import { ArrowLeft, ArrowRight, CheckCircle, Clock, X } from "react-feather";
 import Radio from "./Radio";
 import { CircularProgressbar, buildStyles } from "react-circular-progressbar";
 import "react-circular-progressbar/dist/styles.css";
+import { useAuth } from "../context/authContext";
+import { useRouter } from "next/router";
+import TestModalInfo from "./TestInfoModal";
+import Markdown from "react-markdown";
 
 export default function TestCard({ item }) {
   const [showTestModal, setshowTestModal] = useState(false);
+
+  const { user }: any = useAuth();
+
+  const router = useRouter();
+
   return (
     <>
       <div>
@@ -18,22 +27,32 @@ export default function TestCard({ item }) {
                 <h1 className="text-[13px] uppercase font-semibold text-gray-800">
                   {item.name}
                 </h1>
-                {!item.free && (
+                {!item.free ? (
                   <div>
                     <div className="h-7 w-7 rounded-full flex items-center justify-center border bg-orange-50 border-[#fca120]">
                       <img alt="" className="h-4 w-4" src="/pro.png" />
                     </div>
                   </div>
+                ) : (
+                  <span className="text-xs font-medium border-green-500 border rounded-sm  bg-green-100 px-3 py-[3px] text-green-500">
+                    Free
+                  </span>
                 )}
               </div>
               <p className="font-medium text-sm text-slate-500 line-clamp-3 leading-8">
-              Menya niba witeguye gukora ikizamini cy’amategeko y’umuhanda.
+                Menya niba witeguye gukora ikizamini cy’amategeko y’umuhanda.
               </p>
             </div>
             <div className="w-full flex items-center justify-between">
               <a
                 aria-current="page"
-                onClick={() => setshowTestModal(true)}
+                onClick={() => {
+                  if (user?.subscription === "active" || item.free) {
+                    setshowTestModal(true);
+                  } else {
+                    router.push("/learn/plans");
+                  }
+                }}
                 className="router-link-active cursor-pointer flex items-center gap-2 router-link-exact-active text-[12.5px] mb-1 mt-3 w-fit capitalize px-3 py-1 border border-[#0C8C7C] hover:bg-opacity-30 border-opacity-20 bg-[#0C8C7C] bg-opacity-10 rounded-[2px] text-[#0C8C7C] font-medium"
               >
                 <span>Tangira isuzuma</span>
@@ -45,6 +64,7 @@ export default function TestCard({ item }) {
       </div>
       {showTestModal && (
         <TestModal
+          test={item}
           questions={item.questions.sort((a, b) => a.position - b.position)}
           id={item.id}
           onClose={() => {
@@ -56,7 +76,7 @@ export default function TestCard({ item }) {
   );
 }
 
-function TestModal({ onClose, questions }: any) {
+function TestModal({ onClose, questions, test }: any) {
   const [activeQuestion, setactiveQuestion] = useState(1);
   const [loadingNext, setloadingNext] = useState(false);
 
@@ -108,7 +128,18 @@ function TestModal({ onClose, questions }: any) {
 
   const [showAnswerMode, setshowAnswerMode] = useState(false);
 
-  return (
+  const [showInstructions, setshowInstructions] = useState(true);
+
+  return showInstructions ? (
+    <TestModalInfo
+      onClose={() => {
+        setshowInstructions(false);
+        onClose();
+      }}
+      handleStart={() => setshowInstructions(false)}
+      test={{ name: test.name }}
+    />
+  ) : (
     <Modal
       // hAuto
       noPadding
@@ -368,13 +399,7 @@ function Answer({ question, answer }) {
           {question.question}
         </h4>
       </div>
-      {question.photo && (
-        <img
-          src={question.photo}
-          className="max-w-xs my-5 border border-gray-200 rounded-md h-52 bg-gray-500"
-          alt=""
-        />
-      )}
+      {question.photo && <TestImage content={question.photo} />}
 
       <div className="flex flex-col mt-2  justify-start">
         {question.options.map((i, index) => {
@@ -436,15 +461,10 @@ function Question({ q, setanswers, answers, isPractice, guesses, setGuesses }) {
   return q ? (
     <div>
       <div className="px-4 mx-auto">
-        <div className={` sm:py-4 py-4 pb-10`}>
+        <div className={` sm:py-4 sm:pt-2 py-4 pb-10`}>
           <div className="py-2">
-            {q.photo && q.photo !== "" && (
-              <img
-                alt=""
-                src={q.photo}
-                className="max-w-x mb-5 border border-gray-200 rounded-md h-40 bg-gray-100"
-              />
-            )}
+            {q.photo && q.photo !== "" && <TestImage content={q.photo} />}
+
             <h3 className="text-[14.5px] leading-8 sm:text-[13.5px] font-bold capitalize text-gray-700">
               <span>{q?.position}.</span> {q.question}
             </h3>
@@ -534,5 +554,25 @@ function Timer({ setcompleted, timer, setTimer }) {
         <div>Igihe gisigaye: {toHHMMSS(timer)} </div>
       </div>
     </div>
+  );
+}
+
+function TestImage({ content }) {
+  return (
+    <Markdown
+      components={{
+        img: ({ src }) => {
+          return (
+            <img
+              className="w-fit mb-5 border object-cover border-gray-200 rounded-md h-52 bg-gray-100"
+              src={"/test_images/" + src}
+              alt=""
+            />
+          );
+        },
+      }}
+    >
+      {content}
+    </Markdown>
   );
 }
