@@ -399,12 +399,13 @@ function Answer({ question, answer }) {
         </h4>
       </div>
       {question.photo && (
-             <img
-             className="w-fit mb-5 border object-cover border-gray-200 rounded-md h-52 bg-gray-100"
-             src={question.photo}
-             alt=""
-           />
-      ) }
+        <TestImage content={question.photo} />
+        // <img
+        //   className="w-fit mb-5 border object-cover border-gray-200 rounded-md h-52 bg-gray-100"
+        //   src={"/test_images/" + question.photo}
+        //   alt=""
+        // />
+      )}
 
       <div className="flex flex-col mt-2  justify-start">
         {question.options.map((i, index) => {
@@ -469,11 +470,12 @@ function Question({ q, setanswers, answers, isPractice, guesses, setGuesses }) {
         <div className={` sm:py-4 sm:pt-2 py-4 pb-10`}>
           <div className="py-2">
             {q.photo && q.photo !== "" && (
-                   <img
-                   className="w-fit mb-5 border object-cover border-gray-200 rounded-md h-52 bg-gray-100"
-                   src={q.photo}
-                   alt=""
-                 />
+              // <img
+              //   className="w-fit mb-5 border object-cover border-gray-200 rounded-md h-52 bg-gray-100"
+              //   src={"/test_images/" + q.photo}
+              //   alt=""
+              // />
+              <TestImage content={q.photo} />
             )}
 
             <h3 className="text-[14.5px] leading-8 sm:text-[13.5px] font-bold capitalize text-gray-700">
