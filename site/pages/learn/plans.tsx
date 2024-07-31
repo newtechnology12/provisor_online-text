@@ -28,14 +28,15 @@ export default function Plans() {
             Amafatabuguzi dutanga.
           </h2>
           <p className="text-[15px] leading-7 mt-2 sm:hidden font-medium text-gray-500">
-            Dufite Amafatabuguzi ubwoko bwinshi kandi kugiciro cyiza.
+            {/* Dufite Amafatabuguzi ubwoko bwinshi kandi kugiciro cyiza. */}
+            Gura ifatabuguzi, maze ubashe kubona amasomo yose n'amasuzumabumenyi yose muri icyo gihe.
           </p>
         </div>
       </div>
       <div className="grid grid-cols-3 sm:grid-cols-1 gap-4">
         {[
           {
-            price: 500,
+            price: 1000,
             name: "umunsi",
             duration: "daily",
             features: [
@@ -45,7 +46,7 @@ export default function Plans() {
             ],
           },
           {
-            price: 2000,
+            price: 5000,
             name: "icyumweru",
             duration: "weekly",
             features: [
@@ -57,7 +58,7 @@ export default function Plans() {
           {
             name: "ukwezi",
             duration: "monthly",
-            price: 5000,
+            price: 10000,
             features: [
               "ukweizi",
               " Ubufasha kuri telefoni",

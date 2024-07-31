@@ -151,7 +151,7 @@ export default function Login() {
               </div>
             </div>
 
-            <div>
+            {/* <div>
               <div className="mb-4">
                 <AppFormPhoneNumber
                   name="phone"
@@ -159,7 +159,7 @@ export default function Login() {
                   label="Nimero"
                 />
               </div>
-            </div>
+            </div> */}
             <div className="flex justify-between items-center my-4">
               <Checkbox id="login" label="Munyibuke" />
               <Link href="#">
