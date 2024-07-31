@@ -3455,6 +3455,11 @@ markdown-it@^14.0.0:
     punycode.js "^2.3.1"
     uc.micro "^2.0.0"
 
+marked@^13.0.3:
+  version "13.0.3"
+  resolved "https://registry.npmjs.org/marked/-/marked-13.0.3.tgz"
+  integrity sha512-rqRix3/TWzE9rIoFGIn8JmsVfhiuC8VIQ8IdX5TfzmeBucdY05/0UlzKaw0eVtpcN/OdVFpBk7CjKGo9iHJ/zA==
+
 match-sorter@^6.0.2:
   version "6.3.1"
   resolved "https://registry.npmjs.org/match-sorter/-/match-sorter-6.3.1.tgz"
