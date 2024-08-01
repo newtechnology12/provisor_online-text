@@ -16,51 +16,51 @@ export default function VerifyPhone() {
   });
   const router = useRouter();
   const toast: any = useToast();
-  const handleSubmit = ({ code }: any, { resetForm, setSubmitting }: any) => {
-    const verificationId = router.query.verificationId;
-    if (verificationId) {
-      new AuthServices()
-        .confirmPhone({ code, verificationId })
-        .then((e) => {
-          console.log(e);
-          setSubmitting(false);
-          if (!e.displayName) {
-            if (
-              router.query.redirect_url &&
-              router.query.redirect_url !== "undefined"
-            ) {
-              router.push(
-                `/auth/complete?redirect_url=${router.query.redirect_url}`
-              );
-            } else {
-              router.push(`/auth/complete`);
-            }
-          } else if (
-            router.query.redirect_url &&
-            router.query.redirect_url !== "undefined"
-          ) {
-            router.push(router.query.redirect_url.toString());
-          } else {
-            router.push(`/learn`);
-          }
-          resetForm();
-        })
-        .catch((error) => {
-          setSubmitting(false);
-          toast.show({ title: "Gusuzuma code byanze", danger: true });
-        });
-    } else {
-      setSubmitting(false);
+  // const handleSubmit = ({ code }: any, { resetForm, setSubmitting }: any) => {
+  //   const verificationId = router.query.verificationId;
+  //   if (verificationId) {
+  //     new AuthServices()
+  //       .confirmPhone({ code, verificationId })
+  //       .then((e) => {
+  //         console.log(e);
+  //         setSubmitting(false);
+  //         if (!e.displayName) {
+  //           if (
+  //             router.query.redirect_url &&
+  //             router.query.redirect_url !== "undefined"
+  //           ) {
+  //             router.push(
+  //               `/auth/complete?redirect_url=${router.query.redirect_url}`
+  //             );
+  //           } else {
+  //             router.push(`/auth/complete`);
+  //           }
+  //         } else if (
+  //           router.query.redirect_url &&
+  //           router.query.redirect_url !== "undefined"
+  //         ) {
+  //           router.push(router.query.redirect_url.toString());
+  //         } else {
+  //           router.push(`/learn`);
+  //         }
+  //         resetForm();
+  //       })
+  //       .catch((error) => {
+  //         setSubmitting(false);
+  //         toast.show({ title: "Gusuzuma code byanze", danger: true });
+  //       });
+  //   } else {
+  //     setSubmitting(false);
 
-      toast.show({ title: "verfication id is missing", danger: true });
-    }
-  };
+  //     toast.show({ title: "verfication id is missing", danger: true });
+  //   }
+  // };
   return (
     <div className="h-[78vh] sm:h-full sm:py-0 py-8 bg-slate-50">
       <div className="max-w-[430px] px-6 sm:px-4 border-opacity-70  rounded-[4px] border border-slate-200 mx-auto bg-white shadow-md- p-6">
         <AppForm
           validationSchema={registerSchema}
-          onSubmit={handleSubmit}
+          onSubmit={'handleSubmit'}
           initialValues={{ code: "" }}
         >
           <div>

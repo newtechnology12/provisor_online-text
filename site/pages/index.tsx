@@ -6,6 +6,7 @@ import { Mail, Phone } from "react-feather";
 import Link from "next/link";
 import Image from "next/image";
 
+
 export default function Home() {
   return (
     <Fragment>
@@ -334,10 +335,13 @@ export default function Home() {
 
                 <div>
                   <h4 className="text-white mb-2 text-sm  font-medium">
-                    +250 798 735 385
+                  Phone: +250 798 735 385
+                  </h4>
+                  <h4 className="text-white mb-2 text-sm  font-medium">
+                  WhatsApp: +250 785 030 772
                   </h4>
                   <p className="text-white text-sm font-medium">
-                    Support@infinitytech.com
+                  Email: info@infinitytech.rw
                   </p>
                 </div>
               </div>

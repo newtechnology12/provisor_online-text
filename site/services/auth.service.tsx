@@ -45,42 +45,42 @@ export class AuthServices {
       });
   };
 
-  signInWithPhone = ({ phone }: any) => {
-    var appVerifier = new RecaptchaVerifier(
-      "recaptcha-container",
-      {
-        size: "invisible",
-        callback: () => {},
-      },
-      auth
-    );
-    return signInWithPhoneNumber(auth, phone, appVerifier)
-      .then((confirmationResult) => {
-        return confirmationResult;
-      })
-      .catch((error) => {
-        throw Error(error.code);
-      });
-  };
+  // signInWithPhone = ({ phone }: any) => {
+  //   var appVerifier = new RecaptchaVerifier(
+  //     "recaptcha-container",
+  //     {
+  //       size: "invisible",
+  //       callback: () => {},
+  //     },
+  //     auth
+  //   );
+  //   return signInWithPhoneNumber(auth, phone, appVerifier)
+  //     .then((confirmationResult) => {
+  //       return confirmationResult;
+  //     })
+  //     .catch((error) => {
+  //       throw Error(error.code);
+  //     });
+  // };
 
-  confirmPhone = ({ code, verificationId }) => {
-    var credential = PhoneAuthProvider.credential(verificationId, code);
-    return signInWithCredential(auth, credential)
-      .then((result) => {
-        return result.user;
-      })
-      .catch((error) => {
-        throw Error(error.message);
-      });
-  };
+  // confirmPhone = ({ code, verificationId }) => {
+  //   var credential = PhoneAuthProvider.credential(verificationId, code);
+  //   return signInWithCredential(auth, credential)
+  //     .then((result) => {
+  //       return result.user;
+  //     })
+  //     .catch((error) => {
+  //       throw Error(error.message);
+  //     });
+  // };
 
-  getToken = () => {
-    return getIdToken(auth.currentUser)
-      .then((e) => e)
-      .catch((error) => {
-        throw Error(error.code);
-      });
-  };
+  // getToken = () => {
+  //   return getIdToken(auth.currentUser)
+  //     .then((e) => e)
+  //     .catch((error) => {
+  //       throw Error(error.code);
+  //     });
+  // };
 
   sendResetEmail = ({ email }: any) => {
     return sendPasswordResetEmail(auth, email)

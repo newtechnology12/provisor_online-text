@@ -91,7 +91,7 @@ export default function Index() {
             ) : null}
 
             <div className="mt-5 sm:grid-cols-1 grid grid-cols-3 gap-3">
-              {tests2.slice(0, 6).map((e: any, index) => {
+              {tests.slice(0, 6).map((e: any, index) => {
                 return (
                   <TestCard
                     key={index}

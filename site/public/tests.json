@@ -144,637 +144,415 @@
                 "originalPosition": 28,
                 "options": [
                     "a) Ubuso ni umweru",
-                    "b) Ikirango ni umutuku n’umukara",
-                    "c) Ikirango ni umweru n’umukara",
-                    "d) Nta gisubizo cy’ukuri kirimo"
+                    "b) Ikirango ni umutuku n’ubururu",
+                    "c) Ubuso ni umutuku",
+                    "d) Ubuso ni umweru n’icyatsi"
                 ],
-                "answer": "d) Nta gisubizo cy’ukuri kirimo",
+                "answer": "a) Ubuso ni umweru",
                 "position": 11
             },
             {
-                "id": "f18a0ec8-d724-4f0e-aa33-865796cb71e1",
-                "photo": "![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.038.jpeg)",
-                "question": "Iki cyapa gisobanura iki?",
-                "originalPosition": 252,
+                "id": "009b24ef-572f-4e6c-a59d-3c5d8c57c208",
+                "question": "Niki kiba ari ibyago mu gihe ubona ko imodoka irimo kugenda ikagutera impungenge?",
+                "originalPosition": 198,
                 "options": [
-                    "a) Guhindura icyerekezo ibumoso ugana aho bahagarara",
-                    "b) Umuhanda udakomeza",
-                    "c) Nti byemewe guhindura icyerekezo ibumoso",
-                    "d) Guhindura ikirekezo ibumoso ugana ku cyome"
+                    "a) Imodoka irimo kugenda mu buryo budasanzwe",
+                    "b) Imodoka ikoresha amatara ahagaze",
+                    "c) Imodoka ikoresha amatara atari anganya",
+                    "d) Imodoka idakurikiza amategeko y’umuhanda"
                 ],
-                "answer": "b) Umuhanda udakomeza",
+                "answer": "d) Imodoka idakurikiza amategeko y’umuhanda",
                 "position": 12
             },
             {
-                "id": "5c488944-e3cd-4e96-88d4-87552afa9dbd",
-                "question": "Mu mujyi no ku mihanda y’igihugu igenwa na minisitiri ushinzwe gutwara abantu n’ibintu, ubwikorere ntarengwa ku ikamyo iyo ariyo yose ntibushobora kurenga ibipimo bikurikira:",
-                "originalPosition": 120,
+                "id": "3a589e6a-59a5-452b-8dd3-0faefc2a6d9b",
+                "question": "Ububiko bw’ibinyabiziga bumwe n’ubundi bugomba gukurikira aya mabwiriza:",
+                "originalPosition": 305,
                 "options": [
-                    "a) toni 10",
-                    "b) toni 16",
-                    "c) toni 24",
-                    "d) nta gisubizo cy’ukuri kirimo"
+                    "a) Kugira ukuri mu igenzura ryibinyabiziga",
+                    "b) Kugira ibinyabiziga bitarashiramo igihe",
+                    "c) Kugira ibinyabiziga bitarazura amavuta menshi",
+                    "d) Kugira ibinyabiziga bikoreshwa neza"
                 ],
-                "answer": "d) nta gisubizo cy’ukuri kirimo",
+                "answer": "d) Kugira ibinyabiziga bikoreshwa neza",
                 "position": 13
             },
             {
-                "id": "ba0a4982-9293-4194-b6eb-18e20cab12b8",
-                "question": "Umuyobozi w’ikinyabiziga ugendera inyuma y’ikinyabaziga gitwara abagenzi gihagaze gikuramo cyangwa gishyiramo abagenzi agomba :",
-                "originalPosition": 342,
+                "id": "8487a4e2-7a46-4269-bd00-e27b77f85c41",
+                "photo": "![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.039.png)",
+                "question": "Iki cyapa kivuga iki ?",
+                "originalPosition": 297,
                 "options": [
-                    "a) kunyuranaho ibumoso",
-                    "b) gutegereza yihanganye",
-                    "c) a na b ni ibisubizo by’ukuri",
-                    "d) nta gisubizo cy’ukuri kirimo"
+                    "a) Ugomba guca hafi y’ikiraro",
+                    "b) Guceceka mbere y’ikiraro",
+                    "c) Guhagarara hasi y’ikiraro",
+                    "d) Gufata ku murongo ushinzwe kugenzura ibinyabiziga"
                 ],
-                "answer": "a) kunyuranaho ibumoso",
+                "answer": "a) Ugomba guca hafi y’ikiraro",
                 "position": 14
             },
             {
-                "id": "7547a8fe-b8a4-4e83-85c2-a34efe1a3f4d",
-                "question": "Wakoze impanuka yo mu muhanda , ni ikihe cyangombwa polisi ishobora kugusaba kucyerekana ?",
-                "originalPosition": 267,
+                "id": "e8cc0e10-3d0c-493d-80b7-64f6aa9e5b2d",
+                "question": "Mu gihe imodoka itaraboneka mu guca amazi, iki wakora ?",
+                "originalPosition": 208,
                 "options": [
-                    "a) Icyemezo cy’iyandikwa ryi ikinyabiziga",
-                    "b)Uruhusa rwa burundu rwo gutwara ikinyabiziga",
-                    "b) Uruhushya rwagateganyo",
-                    "c) Imikorere y’ikinyabiziga"
+                    "a) Guhagarara witonze uhereye kuri meter 100 urebana",
+                    "b) Guhagarara witonze uhereye kuri meter 200 uhereye",
+                    "c) Gusubira inyuma udakoresha ibikoresho",
+                    "d) Gutegereza kugeza imodoka izashira"
                 ],
-                "answer": "b)Uruhusa rwa burundu rwo gutwara ikinyabiziga",
+                "answer": "a) Guhagarara witonze uhereye kuri meter 100 urebana",
                 "position": 15
             },
             {
-                "id": "1ede136a-b304-4509-b936-f02ae30587f5",
-                "question": "Muri ibi byapa ni ubuhe bwoko bw’ibyapa bitegeka byo mu muhanda?",
-                "originalPosition": 359,
+                "id": "805bdb15-f36e-478d-881f-0f0e7e705813",
+                "question": "Ushobora gukoresha igikoresho cy’ubushyuhe muri ibi bihe bikurikira:",
+                "originalPosition": 47,
                 "options": [
-                    "a) ibiri mw’ishusho y’urukiramende n’umuzenguruko w’umuhondo",
-                    "b) ibiri mw’ishusho ya mpande eshatu mu n’uzenguruko mw’ibara ry’ubururu",
-                    "c) ibiri mw’ishusho y’uruziga n’umuzenguruko mw’ibara ry’umutuku",
-                    "d) ibiri mw’ishusho ya mpande enye zingana mubuso bw’umukara"
+                    "a) Mu gihe cy’imvura nyinshi",
+                    "b) Mu gihe cy’imbeho nyinshi",
+                    "c) Mu gihe cy’inkuba",
+                    "d) Mu gihe cy’umuyaga mwinshi"
                 ],
-                "answer": "c) ibiri mw’ishusho y’uruziga n’umuzenguruko mw’ibara ry’umutuku",
+                "answer": "b) Mu gihe cy’imbeho nyinshi",
                 "position": 16
             },
             {
-                "id": "23d8f0b4-23b4-4d12-940b-575b0b7415e1",
-                "question": "Mu gihe telefone yawe ihamagawe utwaye imodoka wakora iki?",
-                "originalPosition": 212,
+                "id": "d1d2f342-2a4f-4347-b9c1-8149c160ad24",
+                "question": "Uko ibintu bigomba gukorwa mu muhanda bitandukanye bitewe n’uburebure bw’umuhanda w’uko bigomba guhinduka mu bihe bitandukanye.",
+                "originalPosition": 335,
                 "options": [
-                    "a) Kwitaba cyangwa guhagarara ako kanya",
-                    "b) kutayitaba",
-                    "c) Gushyira imodoka iruhande ukayitaba",
-                    "d) B na c ni ibisubizo byukuri"
+                    "a) Iyo igitekerezo cy’ihagarara imbere y’inyuma y’umuhanda",
+                    "b) Iyo ibinyabiziga byica umurongo wera",
+                    "c) Iyo ibinyabiziga byica ibirenge",
+                    "d) B na C ni ibisubizo by’ukuri"
                 ],
-                "answer": "c) Gushyira imodoka iruhande ukayitaba",
+                "answer": "d) B na C ni ibisubizo by’ukuri",
                 "position": 17
             },
             {
-                "id": "d3b1c468-b514-4d4c-ae06-c4c886c76b82",
-                "photo": "![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.040.jpeg)",
-                "question": "Mubimenyetso bimurika itara ry’umuhondo risobanura iki ?",
-                "originalPosition": 254,
+                "id": "9a2530b5-5a54-48c7-87a6-5939e5900c91",
+                "question": "Kugira ngo ibinyabiziga birenge umurongo wera, hakenewe kumenya:",
+                "originalPosition": 148,
                 "options": [
-                    "a) Itegure kugenda",
-                    "b) Birabujijwe gutambuka umurongo wo guhagarara umwanya muto cg igihe uwo murongo udahari icyo kimenyetso ubwacyo",
-                    "c) A na b ni ibisubizo by’ukuri",
-                    "d) Nta gisubizo cy’ukuri kirimo"
+                    "a) Uburyo bw’ibinyabiziga bikurikira umurongo wera",
+                    "b) Uburyo bw’umuhanda",
+                    "c) Ibyo ibinyabiziga bihura n’umuhanda",
+                    "d) Ntagisubizo cy’ukuri kirimo"
                 ],
-                "answer": "b) Birabujijwe gutambuka umurongo wo guhagarara umwanya muto cg igihe uwo murongo udahari icyo kimenyetso ubwacyo",
+                "answer": "a) Uburyo bw’ibinyabiziga bikurikira umurongo wera",
                 "position": 18
             },
             {
-                "id": "e9ff622c-289d-4ef7-8d12-6f339541362b",
-                "question": "Kunyuranaho mw’ikoni :",
-                "originalPosition": 356,
+                "id": "86f96320-8206-4e58-8b02-49309b4f650b",
+                "question": "Mugihe imodoka iri muri parking, icyapa cy’amatara maremare ni iki?",
+                "originalPosition": 27,
                 "options": [
-                    "a) biremewe",
-                    "b) ntibyemewe",
-                    "c) biremewe ukoranye ubwitonzi",
-                    "d) ibisubizo byose ni ukuri"
+                    "a) Gushiraho amatara maremare",
+                    "b) Kumenyesha ko umuhanda unini",
+                    "c) Uko bigenda ku gice cy’umuhanda",
+                    "d) Kureba niba hari abari muri parking"
                 ],
-                "answer": "b) ntibyemewe",
+                "answer": "a) Gushiraho amatara maremare",
                 "position": 19
             },
             {
-                "id": "64fdefcd-f361-4bab-ad94-0bbd2a8f1101",
-                "question": "Iyo ikinyabiziga kitagikora cyangwa cyoherejwe mu mahanga burundu ibyapa ndanga bigomba gukurwaho bikoherezwa mu biro by’imisoro, ibyo bikorwa mu gihe kingana gute:",
-                "originalPosition": 194,
+                "id": "3bda89bb-e209-49fc-a943-90ac43c91b4b",
+                "question": "Iki cyapa kivuga iki ?",
+                "originalPosition": 228,
                 "options": [
-                    "a) ibyumweru bibiri",
-                    "b) amezi abiri",
-                    "c) ukwezi kumwe",
-                    "d) nta gisubizo cy’ukuri kirimo"
+                    "a) Kinyabiziga gitangira mu buryo bubiri",
+                    "b) Gukoresha imirongo iteguye",
+                    "c) Kugenda mu murongo ugenwa",
+                    "d) Kugenda mu buryo bunini"
                 ],
-                "answer": "b) amezi abiri",
+                "answer": "a) Kinyabiziga gitangira mu buryo bubiri",
                 "position": 20
             }
         ]
     },
+    
     {
         "name": "Umwitozo wa 2",
-        "id": "632612ea-95e2-4365-afc3-5c45e256ef21",
+        "id": "52b3a5b6-9a62-4c14-9b7d-c0f6d61b34d2",
         "desc": "",
         "questions": [
             {
-                "id": "63ace1ae-c0bf-4557-a74d-9cc4311234e6",
-                "question": "Umuyobozi w’ikinyabizaga uri kugendera mu muhanda w’ibyerekezo bibiri nuruhe ruhande rw’umuhanda agomba gukoresha ?",
-                "originalPosition": 336,
+                "id": "4b6e73b2-4e9d-4f88-9d8b-d8f13e7167b1",
+                "question": "Ni iki gikwiye gukorwa mu gihe umuyobozi agiye kugenda ku gice cy’umuhanda gitandukanye?",
+                "originalPosition": 1,
                 "options": [
-                    "a) uruhande rw’ibumoso bw’umuhanda uretse igihe atawaye imashini zihinga cyangwa zikoreshwa indi mirimo",
-                    "b) Mu gice cy;umuhanda yumva ashaka",
-                    "c) Mu gice cy’iburyo bw’umuhanda uretse igihe ashaka kunyuranaho cyangwa gukata ibumoso",
-                    "d) Ku ruhande rw’ibumoso bw’umuhanda"
+                    "a) Kugenzura ko umurongo wose ari mwiza",
+                    "b) Kugenzura niba nta bindi binyabiziga biri mu nzira",
+                    "c) Kugenzura niba ibinyabiziga bihagaze neza",
+                    "d) Kugenzura niba hari ibindi byangombwa byubahirijwe"
                 ],
-                "answer": "c) Mu gice cy’iburyo bw’umuhanda uretse igihe ashaka kunyuranaho cyangwa gukata ibumoso",
+                "answer": "b) Kugenzura niba nta bindi binyabiziga biri mu nzira",
                 "position": 1
             },
             {
-                "id": "76c1f078-ef86-42c9-a962-c590576131dc",
-                "question": "Mu gihe telefone yawe ihamagawe utwaye imodoka wakora iki?",
-                "originalPosition": 211,
+                "id": "57f1c86c-9eb4-41ea-9c5a-827a5f50c89d",
+                "question": "Mu gihe umuyobozi agiye kwinjira mu muhanda ukurikira, akwiye gukora iki?",
+                "originalPosition": 2,
                 "options": [
-                    "a) Kwitaba cyangwa guhagarara ako kanya",
-                    "b) kutayitaba",
-                    "c) Gushyira imodoka iruhande ukayitaba",
-                    "d) B na c ni ibisubizo byukuri"
+                    "a) Kugenzura ko nta bindi binyabiziga biri mu nzira",
+                    "b) Kugenzura niba umurongo wose ari mwiza",
+                    "c) Kugenzura niba ibinyabiziga bihagaze neza",
+                    "d) Kugenzura niba hari ibindi byangombwa byubahirijwe"
                 ],
-                "answer": "c) Gushyira imodoka iruhande ukayitaba",
+                "answer": "a) Kugenzura ko nta bindi binyabiziga biri mu nzira",
                 "position": 2
             },
             {
-                "id": "58e3f6fd-b9cf-42ca-8fd4-8a8037374129",
-                "question": "Amatara maremare y’ikinyabiziga agomba kutamurika mu bihe bikurikira:",
-                "originalPosition": 183,
+                "id": "ec0bb9a3-8c39-4d85-a047-c7dcde47d832",
+                "question": "Mu gihe umuyobozi agiye kugenda ku muhanda w’ibyerekezo bibiri, akwiye gukora iki?",
+                "originalPosition": 3,
                 "options": [
-                    "a) iyo umuhanda umurikiwe umuyobozi abasha kureba muri m 200",
-                    "b) iyo ikinyabiziga kigiye kubisikana nikindi",
-                    "c) iyo ari mu nsisiro",
-                    "d) ibisubizo byose nibyo"
+                    "a) Kugenzura niba nta bindi binyabiziga biri mu nzira",
+                    "b) Kugenzura niba ibinyabiziga bihagaze neza",
+                    "c) Kugenzura niba umurongo wose ari mwiza",
+                    "d) Kugenzura niba hari ibindi byangombwa byubahirijwe"
                 ],
-                "answer": "b) iyo ikinyabiziga kigiye kubisikana nikindi",
+                "answer": "a) Kugenzura niba nta bindi binyabiziga biri mu nzira",
                 "position": 3
             },
             {
-                "id": "6c3014d5-8353-4be6-a228-a53ee78d26cb",
-                "photo": "![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.122.jpeg)",
-                "question": "Iki cyapa gisobanura iki ?",
-                "originalPosition": 408,
+                "id": "fbf8299d-434d-4378-9a95-0a3a4f377df5",
+                "question": "Mu gihe umuyobozi ari kugenda ku gice cy’umuhanda gitandukanye, ni iki gikwiye kwitabwaho?",
+                "originalPosition": 4,
                 "options": [
-                    "a) Kunyuranaho bikorerwa i buryo gusa",
-                    "b) Umuhanda uyoborejwe i buryo",
-                    "c) Kata i buryo gusa",
-                    "d) Umuhanda munini urasukira i bumoso"
+                    "a) Kugenzura niba umurongo wose ari mwiza",
+                    "b) Kugenzura niba ibinyabiziga bihagaze neza",
+                    "c) Kugenzura niba hari ibindi byangombwa byubahirijwe",
+                    "d) Kugenzura niba nta bindi binyabiziga biri mu nzira"
                 ],
-                "answer": "c) Kata i buryo gusa",
+                "answer": "d) Kugenzura niba nta bindi binyabiziga biri mu nzira",
                 "position": 4
             },
             {
-                "id": "081ad83b-83f0-4a86-88e8-28acdf7e0bb8",
-                "photo": "![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.095.png)",
-                "question": "Iki cyapa kivuga:",
-                "originalPosition": 369,
+                "id": "8d8a320d-48db-4e7e-835b-65c4d4e7b6b1",
+                "question": "Mu gihe umuyobozi agiye kwinjira mu muhanda w’ibyerekezo bibiri, ni iki wakora mbere yo kugenda?",
+                "originalPosition": 5,
                 "options": [
-                    "a) iherezo ryo gutambuka mbere",
-                    "b) gutambuka mbere kw’ibinyabiziga biturutse imbere aho ujya",
-                    "c) gutambuka mbere y’ibinyabiziga biturutse imbere",
-                    "d) nta gisubizo cy’ukuri kirimo"
+                    "a) Kugenzura niba nta bindi binyabiziga biri mu nzira",
+                    "b) Kugenzura niba umurongo wose ari mwiza",
+                    "c) Kugenzura niba ibinyabiziga bihagaze neza",
+                    "d) Kugenzura niba hari ibindi byangombwa byubahirijwe"
                 ],
-                "answer": "c) gutambuka mbere y’ibinyabiziga biturutse imbere",
+                "answer": "a) Kugenzura niba nta bindi binyabiziga biri mu nzira",
                 "position": 5
             },
             {
-                "id": "cebd10a6-5a26-4bf6-839f-89b8d53b03d4",
-                "question": "Uturebanyuma dukoreshwa:",
-                "originalPosition": 354,
+                "id": "c0f2e6d8-28b3-4a9b-bb77-05c480f067e3",
+                "question": "Ni iki gikwiye gukorwa mu gihe hari impanuka mu muhanda?",
+                "originalPosition": 6,
                 "options": [
-                    "a) kwireba",
-                    "b) kugenzura ibigendera mu muhanda inyuma",
-                    "c) kureba abicaye inyuma",
-                    "d) ntagisubizo cy’ukuri"
+                    "a) Guhamagara inzego zishinzwe umutekano",
+                    "b) Kuguma mu modoka",
+                    "c) Kwigendera ntacyo witayeho",
+                    "d) Gukora ibindi bimenyetso byo kwirinda impanuka"
                 ],
-                "answer": "b) kugenzura ibigendera mu muhanda inyuma",
+                "answer": "a) Guhamagara inzego zishinzwe umutekano",
                 "position": 6
             },
             {
-                "id": "50b14418-0d64-4794-a393-2918e71b36f0",
-                "question": "Iyo umuvuduko w’ibinyabiziga bidapakiye ushobora kurenga km50 mu isaha ahategamye, bigomba kuba bifite ibikoresho by’ihoni byumvikanira mu ntera:",
-                "originalPosition": 23,
+                "id": "a89660b8-7c4a-4d9b-9a54-dfcdd87efb16",
+                "question": "Ni ryari umuyobozi agomba guhindura amatara y’imodoka?",
+                "originalPosition": 7,
                 "options": [
-                    "a) Metero 100",
-                    "b) Metero 200",
-                    "c) Metero 50",
-                    "d) Metero 150"
+                    "a) Iyo hari ibihu",
+                    "b) Iyo hari undi muyobozi ugenda imbere",
+                    "c) Iyo ageze ku ihuriro ry’imihanda",
+                    "d) Iyo hari umucyo mwinshi"
                 ],
-                "answer": "c) Metero 50",
+                "answer": "a) Iyo hari ibihu",
                 "position": 7
             },
             {
-                "id": "b728344a-0e35-4d48-9709-212a24b46c8f",
-                "photo": "![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.146.jpeg)",
-                "question": "Iki kimenyetso kiri mu muhanda kivuze iki ?",
-                "originalPosition": 431,
+                "id": "2f79abf4-1a3b-4a04-a549-d9e72abdc146",
+                "question": "Ni iki umuyobozi agomba gukora mu gihe abona undi muyobozi ari mu nzira ye?",
+                "originalPosition": 8,
                 "options": [
-                    "a) Umuyobozi abujijwe kurenga umurongo wera ucagaguye cyeretse mugihe bitateza icyago",
-                    "b) Birabujijwe kunyuranaho",
-                    "c) Biremewe kunyuranaho ariko nturenge umurongo wera ucagaguye",
-                    "d) Birabujijwe gusubira inyuma"
+                    "a) Kugabanya umuvuduko",
+                    "b) Gukomeza kugenda nk'uko yari asanzwe agenza",
+                    "c) Guhita umuhunga",
+                    "d) Kumuhamagara"
                 ],
-                "answer": "a) Umuyobozi abujijwe kurenga umurongo wera ucagaguye cyeretse mugihe bitateza icyago",
+                "answer": "a) Kugabanya umuvuduko",
                 "position": 8
             },
             {
-                "id": "072d3021-ea76-451a-bcdd-123521289fb1",
-                "question": "Utegereje gukata iburyo kwiherezo ry’umuhanda.ukingirijwe nimodoka ihagaze.niki wakora?",
-                "originalPosition": 216,
+                "id": "ef9b4e3b-f539-4d4f-a9c5-f1e98c8f2b62",
+                "question": "Ni ibiki umuyobozi agomba kwitondera mu gihe agiye gukatira ahantu?",
+                "originalPosition": 9,
                 "options": [
-                    "a) Guhagarara hanyuma ukagenda gake    gake witonze kugezaho ureba neza.",
-                    "b) Kwihuta wegera imbere aho ushobora kureba ugafunga ikindi cyerekezo.",
-                    "c) Gutegereza abanyamaguru bakakumenyesha ko ntakibazo wakata.",
-                    "d) Guhindukiza imodoka vuba kugirango ushake indi nzira wakoresha."
+                    "a) Inzira z'abanyamaguru",
+                    "b) Ibinyabiziga biva iburyo n'ibiva ibumoso",
+                    "c) Ibimenyetso by’umuhanda",
+                    "d) Byose hejuru"
                 ],
-                "answer": "a) Guhagarara hanyuma ukagenda gake    gake witonze kugezaho ureba neza.",
+                "answer": "d) Byose hejuru",
                 "position": 9
             },
             {
-                "id": "c9968c9b-2b25-4caf-986b-c25c4dda5197",
-                "question": "Icyapa kivuga gutambuka mbere y’ibinyabiziga biturutse imbere gifite amabara akurikira:",
-                "originalPosition": 28,
+                "id": "312c5394-505d-41b6-9f57-c0b3f2c7a7f6",
+                "question": "Ni ryari umuyobozi agomba gukoresha amatara y'ibimenyetso (turn signals)?",
+                "originalPosition": 10,
                 "options": [
-                    "a) Ubuso ni umweru",
-                    "b) Ikirango ni umutuku n’umukara",
-                    "c) Ikirango ni umweru n’umukara",
-                    "d) Nta gisubizo cy’ukuri kirimo"
+                    "a) Mbere yo gukata cyangwa guhindura icyerekezo",
+                    "b) Mbere yo guhagarara",
+                    "c) Iyo ageze mu muhanda mwiza",
+                    "d) Iyo ageze mu gihuru"
                 ],
-                "answer": "d) Nta gisubizo cy’ukuri kirimo",
+                "answer": "a) Mbere yo gukata cyangwa guhindura icyerekezo",
                 "position": 10
             },
             {
-                "id": "f18a0ec8-d724-4f0e-aa33-865796cb71e1",
-                "photo": "![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.038.jpeg)",
-                "question": "Iki cyapa gisobanura iki?",
-                "originalPosition": 252,
+                "id": "3c05dcb8-4e18-4c9d-a5d4-8b9650afddf9",
+                "question": "Ni ryari umuyobozi agomba gukoresha amatara yo kuburira (hazard lights)?",
+                "originalPosition": 11,
                 "options": [
-                    "a) Guhindura icyerekezo ibumoso ugana aho bahagarara",
-                    "b) Umuhanda udakomeza",
-                    "c) Nti byemewe guhindura icyerekezo ibumoso",
-                    "d) Guhindura ikirekezo ibumoso ugana ku cyome"
+                    "a) Mu gihe imodoka ifite ikibazo cyo guhagarara",
+                    "b) Iyo imodoka iri mu mwanya muto",
+                    "c) Iyo ari ku muhanda mugari",
+                    "d) Iyo ari mu muhanda wa kaburimbo"
                 ],
-                "answer": "b) Umuhanda udakomeza",
+                "answer": "a) Mu gihe imodoka ifite ikibazo cyo guhagarara",
                 "position": 11
             },
             {
-                "id": "5c488944-e3cd-4e96-88d4-87552afa9dbd",
-                "question": "Mu mujyi no ku mihanda y’igihugu igenwa na minisitiri ushinzwe gutwara abantu n’ibintu, ubwikorere ntarengwa ku ikamyo iyo ariyo yose ntibushobora kurenga ibipimo bikurikira:",
-                "originalPosition": 120,
+                "id": "3ffb7498-0e55-4c6f-a6ab-7f8f80ad8c4c",
+                "question": "Ni ryari umuyobozi agomba gukoresha imizindaro (horn)?",
+                "originalPosition": 12,
                 "options": [
-                    "a) toni 10",
-                    "b) toni 16",
-                    "c) toni 24",
-                    "d) nta gisubizo cy’ukuri kirimo"
+                    "a) Iyo abonye ikintu kiri mu nzira",
+                    "b) Iyo abonye undi muyobozi",
+                    "c) Iyo ashaka guhamagara abantu",
+                    "d) Iyo ashaka kwirinda impanuka"
                 ],
-                "answer": "d) nta gisubizo cy’ukuri kirimo",
+                "answer": "d) Iyo ashaka kwirinda impanuka",
                 "position": 12
             },
             {
-                "id": "ba0a4982-9293-4194-b6eb-18e20cab12b8",
-                "question": "Umuyobozi w’ikinyabiziga ugendera inyuma y’ikinyabaziga gitwara abagenzi gihagaze gikuramo cyangwa gishyiramo abagenzi agomba :",
-                "originalPosition": 342,
+                "id": "4d99fb24-07f3-4814-b02d-88013c51f749",
+                "question": "Ni ryari umuyobozi agomba guhindura amatara y'inyuma (rear lights)?",
+                "originalPosition": 13,
                 "options": [
-                    "a) kunyuranaho ibumoso",
-                    "b) gutegereza yihanganye",
-                    "c) a na b ni ibisubizo by’ukuri",
-                    "d) nta gisubizo cy’ukuri kirimo"
+                    "a) Iyo ari nijoro",
+                    "b) Iyo ari ku manywa",
+                    "c) Iyo ari mu bicu byinshi",
+                    "d) Iyo ari mu gitondo"
                 ],
-                "answer": "a) kunyuranaho ibumoso",
+                "answer": "a) Iyo ari nijoro",
                 "position": 13
             },
             {
-                "id": "7547a8fe-b8a4-4e83-85c2-a34efe1a3f4d",
-                "question": "Wakoze impanuka yo mu muhanda , ni ikihe cyangombwa polisi ishobora kugusaba kucyerekana ?",
-                "originalPosition": 267,
+                "id": "9f6f421c-09e0-4c3b-9e2c-4ea586c21af1",
+                "question": "Ni ryari umuyobozi agomba gukoresha amatara y'imbere (headlights)?",
+                "originalPosition": 14,
                 "options": [
-                    "a) Icyemezo cy’iyandikwa ryi ikinyabiziga",
-                    "b)Uruhusa rwa burundu rwo gutwara ikinyabiziga",
-                    "b) Uruhushya rwagateganyo",
-                    "c) Imikorere y’ikinyabiziga"
+                    "a) Iyo ari nijoro",
+                    "b) Iyo ari ku manywa",
+                    "c) Iyo ari mu bicu byinshi",
+                    "d) Byose hejuru"
                 ],
-                "answer": "b)Uruhusa rwa burundu rwo gutwara ikinyabiziga",
+                "answer": "d) Byose hejuru",
                 "position": 14
             },
             {
-                "id": "1ede136a-b304-4509-b936-f02ae30587f5",
-                "question": "Muri ibi byapa ni ubuhe bwoko bw’ibyapa bitegeka byo mu muhanda?",
-                "originalPosition": 359,
+                "id": "6a3a9b93-87e6-4d52-88f3-2938baf4b126",
+                "question": "Mu gihe umuyobozi ari kugenda ku gice cy’umuhanda gifite imihanda ibiri, ni iki gikwiye kwitabwaho?",
+                "originalPosition": 15,
                 "options": [
-                    "a) ibiri mw’ishusho y’urukiramende n’umuzenguruko w’umuhondo",
-                    "b) ibiri mw’ishusho ya mpande eshatu mu n’uzenguruko mw’ibara ry’ubururu",
-                    "c) ibiri mw’ishusho y’uruziga n’umuzenguruko mw’ibara ry’umutuku",
-                    "d) ibiri mw’ishusho ya mpande enye zingana mubuso bw’umukara"
+                    "a) Kugenzura niba nta bindi binyabiziga biri mu nzira",
+                    "b) Kugenzura niba umurongo wose ari mwiza",
+                    "c) Kugenzura niba ibinyabiziga bihagaze neza",
+                    "d) Kugenzura niba hari ibindi byangombwa byubahirijwe"
                 ],
-                "answer": "c) ibiri mw’ishusho y’uruziga n’umuzenguruko mw’ibara ry’umutuku",
+                "answer": "a) Kugenzura niba nta bindi binyabiziga biri mu nzira",
                 "position": 15
             },
             {
-                "id": "23d8f0b4-23b4-4d12-940b-575b0b7415e1",
-                "question": "Mu gihe telefone yawe ihamagawe utwaye imodoka wakora iki?",
-                "originalPosition": 212,
+                "id": "c16d69a5-d1a4-4b1b-9735-146f5bfc8a3d",
+                "question": "Ni iki gikwiye gukorwa mu gihe umuyobozi agiye kugenda ku gice cy’umuhanda gitandukanye cy’amagare?",
+                "originalPosition": 16,
                 "options": [
-                    "a) Kwitaba cyangwa guhagarara ako kanya",
-                    "b) kutayitaba",
-                    "c) Gushyira imodoka iruhande ukayitaba",
-                    "d) B na c ni ibisubizo byukuri"
+                    "a) Kugenzura niba umurongo wose ari mwiza",
+                    "b) Kugenzura niba nta bindi binyabiziga biri mu nzira",
+                    "c) Kugenzura niba hari abagenzi b’imodoka",
+                    "d) Kugenzura niba hari ibindi byangombwa byubahirijwe"
                 ],
-                "answer": "c) Gushyira imodoka iruhande ukayitaba",
+                "answer": "b) Kugenzura niba nta bindi binyabiziga biri mu nzira",
                 "position": 16
             },
             {
-                "id": "d3b1c468-b514-4d4c-ae06-c4c886c76b82",
-                "photo": "![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.040.jpeg)",
-                "question": "Mubimenyetso bimurika itara ry’umuhondo risobanura iki ?",
-                "originalPosition": 254,
+                "id": "5b2b2e7f-cb9d-4815-b928-356d54a5c08c",
+                "question": "Ni ryari umuyobozi agomba gukoresha amatara y’inyuma (rear lights) mu gihe ari kugenda mu muhanda?",
+                "originalPosition": 17,
                 "options": [
-                    "a) Itegure kugenda",
-                    "b) Birabujijwe gutambuka umurongo wo guhagarara umwanya muto cg igihe uwo murongo udahari icyo kimenyetso ubwacyo",
-                    "c) A na b ni ibisubizo by’ukuri",
-                    "d) Nta gisubizo cy’ukuri kirimo"
+                    "a) Iyo ari nijoro",
+                    "b) Iyo ari mu muhanda mugari",
+                    "c) Iyo ari mu muhanda w’igitaka",
+                    "d) Iyo ari mu muhanda wa kaburimbo"
                 ],
-                "answer": "b) Birabujijwe gutambuka umurongo wo guhagarara umwanya muto cg igihe uwo murongo udahari icyo kimenyetso ubwacyo",
+                "answer": "a) Iyo ari nijoro",
                 "position": 17
             },
             {
-                "id": "e9ff622c-289d-4ef7-8d12-6f339541362b",
-                "question": "Kunyuranaho mw’ikoni :",
-                "originalPosition": 356,
+                "id": "6aab5cc7-8eb5-4c0a-b8da-6a1f6856894c",
+                "question": "Ni ryari umuyobozi agomba gukoresha amatara y’imbere (headlights) mu gihe ari kugenda mu muhanda?",
+                "originalPosition": 18,
                 "options": [
-                    "a) biremewe",
-                    "b) ntibyemewe",
-                    "c) biremewe ukoranye ubwitonzi",
-                    "d) ibisubizo byose ni ukuri"
+                    "a) Iyo ari nijoro",
+                    "b) Iyo ari ku manywa",
+                    "c) Iyo ari mu bicu byinshi",
+                    "d) Byose hejuru"
                 ],
-                "answer": "b) ntibyemewe",
+                "answer": "d) Byose hejuru",
                 "position": 18
             },
             {
-                "id": "64fdefcd-f361-4bab-ad94-0bbd2a8f1101",
-                "question": "Iyo ikinyabiziga kitagikora cyangwa cyoherejwe mu mahanga burundu ibyapa ndanga bigomba gukurwaho bikoherezwa mu biro by’imisoro, ibyo bikorwa mu gihe kingana gute:",
-                "originalPosition": 194,
+                "id": "bc4952da-937e-4c3e-a8c7-f2db84c15812",
+                "question": "Mu gihe umuyobozi agiye kugenda ku gice cy’umuhanda gifite imihanda ibiri, ni iki gikwiye gukorwa?",
+                "originalPosition": 19,
                 "options": [
-                    "a) ibyumweru bibiri",
-                    "b) amezi abiri",
-                    "c) ukwezi kumwe",
-                    "d) nta gisubizo cy’ukuri kirimo"
+                    "a) Kugenzura niba nta bindi binyabiziga biri mu nzira",
+                    "b) Kugenzura niba umurongo wose ari mwiza",
+                    "c) Kugenzura niba ibinyabiziga bihagaze neza",
+                    "d) Kugenzura niba hari ibindi byangombwa byubahirijwe"
                 ],
-                "answer": "b) amezi abiri",
+                "answer": "a) Kugenzura niba nta bindi binyabiziga biri mu nzira",
                 "position": 19
             },
             {
-                "id": "7a76c4b4-8652-4ed8-a09e-47cb3a5070c5",
-                "question": "Igihe umuyobozi w’ikinyabiziga atwaye mu muhanda urombereje w’ibice byinshi agomba kugendera mu kihe gice cy’umuhanda ?",
-                "originalPosition": 337,
+                "id": "7c5e7d1b-7a6c-4a58-85f8-8a0b8e33e631",
+                "question": "Ni ryari umuyobozi agomba gukoresha imizindaro (horn) mu gihe ari kugenda mu muhanda?",
+                "originalPosition": 20,
                 "options": [
-                    "a) Kugendera mugice icyo aricyo cyose kirimo ibinyabiziga bike",
-                    "b) Kugendera kugice cy’ibumoso keretse ushaka gusohokera iburyo",
-                    "c) Kugendera mu gice cy’iburyo bw’umuhanda keretse ushaka kunyuranaho",
-                    "d) Ntagutwarira mu ruhande rw’iburyo bw’umuhanda kuko hagenewe imodoka ziremereye n’imodoka nini zitwara"
+                    "a) Iyo abonye ikintu kiri mu nzira",
+                    "b) Iyo abonye undi muyobozi",
+                    "c) Iyo ashaka guhamagara abantu",
+                    "d) Iyo ashaka kwirinda impanuka"
                 ],
-                "answer": "c) Kugendera mu gice cy’iburyo bw’umuhanda keretse ushaka kunyuranaho",
+                "answer": "d) Iyo ashaka kwirinda impanuka",
                 "position": 20
             }
-        ]
+        ],
+        "exercises": [],
+        "level": "D",
+        "skills": [
+            "test"
+        ],
+        "canonicalName": "quiz-umwitozo-wa-2",
+        "composite": false,
+        "requiredScore": 50
     },
+
     {
-        "name": "Umwitozo wa 3",
-        "id": "ca913b00-a2a2-4368-9dd0-1642ca2bb071",
+        "name": "Umwitozo wa 20",
+        "id": "0aba0f65-5e31-4fab-bf19-202900117efb",
         "desc": "",
         "questions": [
-            {
-                "id": "76c1f078-ef86-42c9-a962-c590576131dc",
-                "question": "Mu gihe telefone yawe ihamagawe utwaye imodoka wakora iki?",
-                "originalPosition": 211,
-                "options": [
-                    "a) Kwitaba cyangwa guhagarara ako kanya",
-                    "b) kutayitaba",
-                    "c) Gushyira imodoka iruhande ukayitaba",
-                    "d) B na c ni ibisubizo byukuri"
-                ],
-                "answer": "c) Gushyira imodoka iruhande ukayitaba",
-                "position": 1
-            },
-            {
-                "id": "58e3f6fd-b9cf-42ca-8fd4-8a8037374129",
-                "question": "Amatara maremare y’ikinyabiziga agomba kutamurika mu bihe bikurikira:",
-                "originalPosition": 183,
-                "options": [
-                    "a) iyo umuhanda umurikiwe umuyobozi abasha kureba muri m 200",
-                    "b) iyo ikinyabiziga kigiye kubisikana nikindi",
-                    "c) iyo ari mu nsisiro",
-                    "d) ibisubizo byose nibyo"
-                ],
-                "answer": "b) iyo ikinyabiziga kigiye kubisikana nikindi",
-                "position": 2
-            },
-            {
-                "id": "6c3014d5-8353-4be6-a228-a53ee78d26cb",
-                "photo": "![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.122.jpeg)",
-                "question": "Iki cyapa gisobanura iki ?",
-                "originalPosition": 408,
-                "options": [
-                    "a) Kunyuranaho bikorerwa i buryo gusa",
-                    "b) Umuhanda uyoborejwe i buryo",
-                    "c) Kata i buryo gusa",
-                    "d) Umuhanda munini urasukira i bumoso"
-                ],
-                "answer": "c) Kata i buryo gusa",
-                "position": 3
-            },
-            {
-                "id": "081ad83b-83f0-4a86-88e8-28acdf7e0bb8",
-                "photo": "![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.095.png)",
-                "question": "Iki cyapa kivuga:",
-                "originalPosition": 369,
-                "options": [
-                    "a) iherezo ryo gutambuka mbere",
-                    "b) gutambuka mbere kw’ibinyabiziga biturutse imbere aho ujya",
-                    "c) gutambuka mbere y’ibinyabiziga biturutse imbere",
-                    "d) nta gisubizo cy’ukuri kirimo"
-                ],
-                "answer": "c) gutambuka mbere y’ibinyabiziga biturutse imbere",
-                "position": 4
-            },
-            {
-                "id": "cebd10a6-5a26-4bf6-839f-89b8d53b03d4",
-                "question": "Uturebanyuma dukoreshwa:",
-                "originalPosition": 354,
-                "options": [
-                    "a) kwireba",
-                    "b) kugenzura ibigendera mu muhanda inyuma",
-                    "c) kureba abicaye inyuma",
-                    "d) ntagisubizo cy’ukuri"
-                ],
-                "answer": "b) kugenzura ibigendera mu muhanda inyuma",
-                "position": 5
-            },
-            {
-                "id": "50b14418-0d64-4794-a393-2918e71b36f0",
-                "question": "Iyo umuvuduko w’ibinyabiziga bidapakiye ushobora kurenga km50 mu isaha ahategamye, bigomba kuba bifite ibikoresho by’ihoni byumvikanira mu ntera:",
-                "originalPosition": 23,
-                "options": [
-                    "a) Metero 100",
-                    "b) Metero 200",
-                    "c) Metero 50",
-                    "d) Metero 150"
-                ],
-                "answer": "c) Metero 50",
-                "position": 6
-            },
-            {
-                "id": "b728344a-0e35-4d48-9709-212a24b46c8f",
-                "photo": "![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.146.jpeg)",
-                "question": "Iki kimenyetso kiri mu muhanda kivuze iki ?",
-                "originalPosition": 431,
-                "options": [
-                    "a) Umuyobozi abujijwe kurenga umurongo wera ucagaguye cyeretse mugihe bitateza icyago",
-                    "b) Birabujijwe kunyuranaho",
-                    "c) Biremewe kunyuranaho ariko nturenge umurongo wera ucagaguye",
-                    "d) Birabujijwe gusubira inyuma"
-                ],
-                "answer": "a) Umuyobozi abujijwe kurenga umurongo wera ucagaguye cyeretse mugihe bitateza icyago",
-                "position": 7
-            },
-            {
-                "id": "072d3021-ea76-451a-bcdd-123521289fb1",
-                "question": "Utegereje gukata iburyo kwiherezo ry’umuhanda.ukingirijwe nimodoka ihagaze.niki wakora?",
-                "originalPosition": 216,
-                "options": [
-                    "a) Guhagarara hanyuma ukagenda gake    gake witonze kugezaho ureba neza.",
-                    "b) Kwihuta wegera imbere aho ushobora kureba ugafunga ikindi cyerekezo.",
-                    "c) Gutegereza abanyamaguru bakakumenyesha ko ntakibazo wakata.",
-                    "d) Guhindukiza imodoka vuba kugirango ushake indi nzira wakoresha."
-                ],
-                "answer": "a) Guhagarara hanyuma ukagenda gake    gake witonze kugezaho ureba neza.",
-                "position": 8
-            },
-            {
-                "id": "c9968c9b-2b25-4caf-986b-c25c4dda5197",
-                "question": "Icyapa kivuga gutambuka mbere y’ibinyabiziga biturutse imbere gifite amabara akurikira:",
-                "originalPosition": 28,
-                "options": [
-                    "a) Ubuso ni umweru",
-                    "b) Ikirango ni umutuku n’umukara",
-                    "c) Ikirango ni umweru n’umukara",
-                    "d) Nta gisubizo cy’ukuri kirimo"
-                ],
-                "answer": "d) Nta gisubizo cy’ukuri kirimo",
-                "position": 9
-            },
-            {
-                "id": "f18a0ec8-d724-4f0e-aa33-865796cb71e1",
-                "photo": "![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.038.jpeg)",
-                "question": "Iki cyapa gisobanura iki?",
-                "originalPosition": 252,
-                "options": [
-                    "a) Guhindura icyerekezo ibumoso ugana aho bahagarara",
-                    "b) Umuhanda udakomeza",
-                    "c) Nti byemewe guhindura icyerekezo ibumoso",
-                    "d) Guhindura ikirekezo ibumoso ugana ku cyome"
-                ],
-                "answer": "b) Umuhanda udakomeza",
-                "position": 10
-            },
-            {
-                "id": "5c488944-e3cd-4e96-88d4-87552afa9dbd",
-                "question": "Mu mujyi no ku mihanda y’igihugu igenwa na minisitiri ushinzwe gutwara abantu n’ibintu, ubwikorere ntarengwa ku ikamyo iyo ariyo yose ntibushobora kurenga ibipimo bikurikira:",
-                "originalPosition": 120,
-                "options": [
-                    "a) toni 10",
-                    "b) toni 16",
-                    "c) toni 24",
-                    "d) nta gisubizo cy’ukuri kirimo"
-                ],
-                "answer": "d) nta gisubizo cy’ukuri kirimo",
-                "position": 11
-            },
-            {
-                "id": "ba0a4982-9293-4194-b6eb-18e20cab12b8",
-                "question": "Umuyobozi w’ikinyabiziga ugendera inyuma y’ikinyabaziga gitwara abagenzi gihagaze gikuramo cyangwa gishyiramo abagenzi agomba :",
-                "originalPosition": 342,
-                "options": [
-                    "a) kunyuranaho ibumoso",
-                    "b) gutegereza yihanganye",
-                    "c) a na b ni ibisubizo by’ukuri",
-                    "d) nta gisubizo cy’ukuri kirimo"
-                ],
-                "answer": "a) kunyuranaho ibumoso",
-                "position": 12
-            },
-            {
-                "id": "7547a8fe-b8a4-4e83-85c2-a34efe1a3f4d",
-                "question": "Wakoze impanuka yo mu muhanda , ni ikihe cyangombwa polisi ishobora kugusaba kucyerekana ?",
-                "originalPosition": 267,
-                "options": [
-                    "a) Icyemezo cy’iyandikwa ryi ikinyabiziga",
-                    "b)Uruhusa rwa burundu rwo gutwara ikinyabiziga",
-                    "b) Uruhushya rwagateganyo",
-                    "c) Imikorere y’ikinyabiziga"
-                ],
-                "answer": "b)Uruhusa rwa burundu rwo gutwara ikinyabiziga",
-                "position": 13
-            },
-            {
-                "id": "1ede136a-b304-4509-b936-f02ae30587f5",
-                "question": "Muri ibi byapa ni ubuhe bwoko bw’ibyapa bitegeka byo mu muhanda?",
-                "originalPosition": 359,
-                "options": [
-                    "a) ibiri mw’ishusho y’urukiramende n’umuzenguruko w’umuhondo",
-                    "b) ibiri mw’ishusho ya mpande eshatu mu n’uzenguruko mw’ibara ry’ubururu",
-                    "c) ibiri mw’ishusho y’uruziga n’umuzenguruko mw’ibara ry’umutuku",
-                    "d) ibiri mw’ishusho ya mpande enye zingana mubuso bw’umukara"
-                ],
-                "answer": "c) ibiri mw’ishusho y’uruziga n’umuzenguruko mw’ibara ry’umutuku",
-                "position": 14
-            },
-            {
-                "id": "23d8f0b4-23b4-4d12-940b-575b0b7415e1",
-                "question": "Mu gihe telefone yawe ihamagawe utwaye imodoka wakora iki?",
-                "originalPosition": 212,
-                "options": [
-                    "a) Kwitaba cyangwa guhagarara ako kanya",
-                    "b) kutayitaba",
-                    "c) Gushyira imodoka iruhande ukayitaba",
-                    "d) B na c ni ibisubizo byukuri"
-                ],
-                "answer": "c) Gushyira imodoka iruhande ukayitaba",
-                "position": 15
-            },
-            {
-                "id": "d3b1c468-b514-4d4c-ae06-c4c886c76b82",
-                "photo": "![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.040.jpeg)",
-                "question": "Mubimenyetso bimurika itara ry’umuhondo risobanura iki ?",
-                "originalPosition": 254,
-                "options": [
-                    "a) Itegure kugenda",
-                    "b) Birabujijwe gutambuka umurongo wo guhagarara umwanya muto cg igihe uwo murongo udahari icyo kimenyetso ubwacyo",
-                    "c) A na b ni ibisubizo by’ukuri",
-                    "d) Nta gisubizo cy’ukuri kirimo"
-                ],
-                "answer": "b) Birabujijwe gutambuka umurongo wo guhagarara umwanya muto cg igihe uwo murongo udahari icyo kimenyetso ubwacyo",
-                "position": 16
-            },
-            {
-                "id": "e9ff622c-289d-4ef7-8d12-6f339541362b",
-                "question": "Kunyuranaho mw’ikoni :",
-                "originalPosition": 356,
-                "options": [
-                    "a) biremewe",
-                    "b) ntibyemewe",
-                    "c) biremewe ukoranye ubwitonzi",
-                    "d) ibisubizo byose ni ukuri"
-                ],
-                "answer": "b) ntibyemewe",
-                "position": 17
-            },
             {
                 "id": "64fdefcd-f361-4bab-ad94-0bbd2a8f1101",
                 "question": "Iyo ikinyabiziga kitagikora cyangwa cyoherejwe mu mahanga burundu ibyapa ndanga bigomba gukurwaho bikoherezwa mu biro by’imisoro, ibyo bikorwa mu gihe kingana gute:",
@@ -786,7 +564,7 @@
                     "d) nta gisubizo cy’ukuri kirimo"
                 ],
                 "answer": "b) amezi abiri",
-                "position": 18
+                "position": 1
             },
             {
                 "id": "7a76c4b4-8652-4ed8-a09e-47cb3a5070c5",
@@ -799,7 +577,7 @@
                     "d) Ntagutwarira mu ruhande rw’iburyo bw’umuhanda kuko hagenewe imodoka ziremereye n’imodoka nini zitwara"
                 ],
                 "answer": "c) Kugendera mu gice cy’iburyo bw’umuhanda keretse ushaka kunyuranaho",
-                "position": 19
+                "position": 2
             },
             {
                 "id": "f329f47f-7fef-4185-8b26-fc66797b6c9f",
@@ -812,10 +590,237 @@
                     "d) Metero 1 na cm 55"
                 ],
                 "answer": "b) Cm 40",
+                "position": 3
+            },
+            {
+                "id": "809231c9-bf27-493b-a594-424927067bb0",
+                "question": "Iyo umukumbi ugizwe n’amatungo maremare arenze ane cyangwa amatungo magufi arenze atandatu mu nzira nyabagendwa iyo hatakibona neza kuburyo umuyobozi abona muri m 200 ugomba kugaragazwa kuburyo bukurikira:",
+                "originalPosition": 97,
+                "options": [
+                    "a) itara ry’urumuri rwera cyangwa rusa n’icunga rihishije imbere y’umukumbi",
+                    "b) itara ry’urumuri rutukura cyangwaumuhondo ritwawe inyuma y’umukumbi",
+                    "c) A na B ni ibisubizo by’ukuri",
+                    "d) nta gisubizo cy’ukuri kirimo"
+                ],
+                "answer": "d) nta gisubizo cy’ukuri kirimo",
+                "position": 4
+            },
+            {
+                "id": "ae445434-a53b-4f50-a480-187f8039cb2c",
+                "question": "Itara ryo guhagarara ry’ibara ritukura rigomba kuba ridahumisha, kandi rigomba kugaragarira mu ntera ikurikira:",
+                "originalPosition": 173,
+                "options": [
+                    "a) nijoro igihe ijuru rikeye nibura muri m 200",
+                    "b) ku manywa igihe cy’umucyo nibura muri m50",
+                    "c) nijoro nibura muri m 100 igihe ijuru rikeye",
+                    "d) nta gisubizo cy’ukuri kirimo"
+                ],
+                "answer": "d) nta gisubizo cy’ukuri kirimo",
+                "position": 5
+            },
+            {
+                "id": "62560a5f-147e-4263-9425-3e958f45fadd",
+                "photo": "![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.085.jpeg)",
+                "question": "Niki umuyobozi w’ ikinyabiziga akwiriye kumenya mugihe akurikiye umuyobozi wikinyamitende ibiri kandi imodoka y’ umweru iri gusubira inyuma ijya mumuhanda?",
+                "originalPosition": 314,
+                "options": [
+                    "a) Umuyobozi wikinyabiziga gisubira inyuma azahagarara nabona umuyobozi w’ ikinyabimitende ibiri",
+                    "b) Umuyobozi w’ ikinyamitende ibiri ashobora gusaba umuyobozi w’ ikinyabiziga gisubira inyuma guhagarara",
+                    "c) Amatara yoguhagarara ashobora kuzima ikinyabiziga gikomeza gusubira inyuma",
+                    "d) Umuyobozi w’ ikinyamitende ashobora guhagarara bitunguranye"
+                ],
+                "answer": "d) Umuyobozi w’ ikinyamitende ashobora guhagarara bitunguranye",
+                "position": 6
+            },
+            {
+                "id": "501bb334-e357-4320-92c8-836417f1e914",
+                "photo": "![C:\\Users\\Ishimwe\\Desktop\\Road_Signs\\Ts.png](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.140.png)",
+                "question": "Iki cyapa:",
+                "originalPosition": 425,
+                "options": [
+                    "a) Aho banyura bazengurutse",
+                    "b) Cyerekana umuhanda w'ibisate bitatu",
+                    "c) Cyerekana ahegereye inkomane",
+                    "d) Ntagisuzo cy’ukuri kirimo"
+                ],
+                "answer": "a) Aho banyura bazengurutse",
+                "position": 7
+            },
+            {
+                "id": "22ea8cd7-2b0f-4d87-b4c5-4ac42e428cee",
+                "question": "Iyo bitagishoboka kubona muri m 200 imodoka zikuruwe n’inyamaswa, ingorofani, inyamaswa zitwaye imizigo cyangwa zigenderwamo kimwe n’amatungo bigomba kurangwa na :",
+                "originalPosition": 91,
+                "options": [
+                    "a) imbere ni itara ryera",
+                    "b) imbere ni itara ry’umuhondo cyangwa risa n’icunga rihishije",
+                    "c) inyuma ni itara rimwe ritukura",
+                    "d) ibisubizo byose ni ukuri"
+                ],
+                "answer": "d) ibisubizo byose ni ukuri",
+                "position": 8
+            },
+            {
+                "id": "ef8a7bd8-1e38-4e62-82da-6bbfc57de01d",
+                "question": "Iyo nta mategeko awugabanya by’umwihariko umuvuduko ntarengwa ku modoka zidafite ibizibuza kwiceka kuberako ariko zakozwe ni:",
+                "originalPosition": 202,
+                "options": [
+                    "a) km 20 mu isaha",
+                    "b) km 40 mu isaha",
+                    "c) km 35 mu isaha",
+                    "d) nta gisubizo cy’ukuri kirimo"
+                ],
+                "answer": "d) nta gisubizo cy’ukuri kirimo",
+                "position": 9
+            },
+            {
+                "id": "f3da703a-7046-4ee3-ab99-7efd23f6362b",
+                "question": "Uretse mu mijyi, kuyindi mihanda yagenywe na minisiteri ushinzwe gutwara ibintu n’abantu, uburemere ntarengwa bwemewe ku binyabiziga bifatanye bifite imitambiko itatu ni:",
+                "originalPosition": 199,
+                "options": [
+                    "a) toni 12",
+                    "b) toni 16",
+                    "c) toni 10",
+                    "d) nta gisubizo cy’ukuri kirimo"
+                ],
+                "answer": "a) toni 12",
+                "position": 10
+            },
+            {
+                "id": "478f14e7-835e-4fab-90b1-674e8db5111d",
+                "question": "Umuyobozi w’ikinyabiziga yakara iki mu gihe anyuzweho nikindi kinyabiziga?",
+                "originalPosition": 323,
+                "options": [
+                    "a) Gukomezanya umuvuduko warufite",
+                    "b) Kujya i buryo",
+                    "c) Kujya I bumoso",
+                    "d) Kwongera umuvuduko"
+                ],
+                "answer": "a) Gukomezanya umuvuduko warufite",
+                "position": 11
+            },
+            {
+                "id": "a77a3372-5dd2-46a8-a5bf-214472f1fc30",
+                "photo": "![](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.039.png)",
+                "question": "Mu bimenyetso bimurika itara ritukura rivuga iki ?",
+                "originalPosition": 253,
+                "options": [
+                    "a) Hagarara kereste niba ushaka gukata ibumoso",
+                    "b) Hagarara niba ubona ntabyago byaguteza",
+                    "c) Birabujijwe kurenga icyo kimenyetso",
+                    "d) Wemerewe kugenda niba aho asohokera mu masangano y’umuhanda hafunze"
+                ],
+                "answer": "c) Birabujijwe kurenga icyo kimenyetso",
+                "position": 12
+            },
+            {
+                "id": "f8f37f94-a4c8-4d1c-b72e-c4cf5cd42b3b",
+                "question": "Iyo nta mategeko awugabanya by’umwihariko umuvuduko ntarengwa w’amapikipiki mu isaha ni:",
+                "originalPosition": 14,
+                "options": [
+                    "a) Km25",
+                    "b)Km70",
+                    "c) Km40",
+                    "d) Nta gisubizo cy’ukuri kirimo"
+                ],
+                "answer": "d) Nta gisubizo cy’ukuri kirimo",
+                "position": 13
+            },
+            {
+                "id": "b965ef46-839c-4af5-bb18-88e4758938ba",
+                "question": "Niki wakora igihe utabona neza usubira inyuma ?",
+                "originalPosition": 220,
+                "options": [
+                    "a) Kumanura ikirahure cy’imodoka urebe inyuma",
+                    "b) Gufungura umuryango w’imodoka ureba inyuma",
+                    "c) Gushaka umuntu uri hanze y’ikinyabiziga ukuyobora",
+                    "d) Gukoresha akarebanyuma kakwegereye"
+                ],
+                "answer": "c) Gushaka umuntu uri hanze y’ikinyabiziga ukuyobora",
+                "position": 14
+            },
+            {
+                "id": "48b20f99-a493-40e1-a0f9-1feb695c15fd",
+                "photo": "![C:\\Users\\rnp\\Desktop\\Publication5.jpg](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.065.jpeg)",
+                "question": "Ni ikihe cyapa muri ibi kintegeka gutanga inzira:",
+                "originalPosition": 280,
+                "options": [
+                    "a) Icyapa A19",
+                    "b) Icyapa B5",
+                    "c) Icyapa B6",
+                    "d) Ntagisubizo cy’ukuri kirimo"
+                ],
+                "answer": "b) Icyapa B5",
+                "position": 15
+            },
+            {
+                "id": "ef0fbe8c-f0bf-4faa-b7b3-5376d7b4021b",
+                "question": "Mu gihe utwaye ikinyabiziga ni joro ucanye amatara maremare ugahura n’ikindi kinyabiziga giturutse mu kindi cyerecyezo:",
+                "originalPosition": 298,
+                "options": [
+                    "a) Gukomeza ibumoso",
+                    "b) Kuzimya ucana amatara maremare n’amagufi",
+                    "c) Kuzimya amatara maremare kugeza ikindi kinyabiziga gitambutse",
+                    "d) Nta gisubizo cy’ukuri kirimo"
+                ],
+                "answer": "c) Kuzimya amatara maremare kugeza ikindi kinyabiziga gitambutse",
+                "position": 16
+            },
+            {
+                "id": "f17633bf-78d5-4b7e-89c2-08a6415f0490",
+                "question": "Umubare w’abagenzi bemewe gutwarwa mukinyabiziga wanditswe mu :",
+                "originalPosition": 344,
+                "options": [
+                    "a) icyemezo cy’iyandikwa ry’ikinyabiziga",
+                    "b) inyemezabwishyu y’umusoro",
+                    "c) ubwishingizi",
+                    "d) ibisubizo byose ni ukuri"
+                ],
+                "answer": "c) ubwishingizi",
+                "position": 17
+            },
+            {
+                "id": "03a78c07-251e-4f15-9f2e-f346d6c959d5",
+                "photo": "![C:\\Users\\Ishimwe\\Desktop\\Signs1.jpg](Aspose.Words.8bc305fd-484b-4a35-8dff-be691399ddae.139.jpeg)",
+                "question": "Muri ibi byapa bikurikira ni ikihe cyerekana ko umuyobozi ukibonye yemerewe gutambuka mbere y'abaturutse aho agana mu nzira ifunganye:",
+                "originalPosition": 424,
+                "options": [
+                    "a) Icyapa B6",
+                    "b) Icyapa A19",
+                    "c) Icyapa B3",
+                    "d) Icyapa A22a"
+                ],
+                "answer": "a) Icyapa B6",
+                "position": 18
+            },
+            {
+                "id": "5152029f-80ca-44a9-82b4-4a038c39ef06",
+                "question": "Kuki abanyamaguru batemerewe kwambuka umuhanda mw’ikoni cyangwa hafi y’imodoka ihagaze?",
+                "originalPosition": 355,
+                "options": [
+                    "a) ingaruka kubindi binyabiziga",
+                    "b) ingaruka kubandi bakoresha umuhanda",
+                    "c) Abandi bayobozi bi binyabiziga baza bashobora kutabona abambuka umuhanda",
+                    "d) Ibisubizo byose ni ukuri"
+                ],
+                "answer": "c) Abandi bayobozi bi binyabiziga baza bashobora kutabona abambuka umuhanda",
+                "position": 19
+            },
+            {
+                "id": "73ffd0e2-3af8-44c2-8892-58306613d385",
+                "question": "Uretse mu mujyi, ku yindi mihanda yajyenwe na minisitiri ushinzwe gutwara abantu n’ibintu, uburemere ntarengwa ku binyabiziga bifite imitambiko itatu cyangwa irenga hatarimo makuzungu ni :",
+                "originalPosition": 38,
+                "options": [
+                    "a) Toni 10",
+                    "b) Toni 12",
+                    "c) Toni 16",
+                    "d) Toni 24"
+                ],
+                "answer": "c) Toni 16",
                 "position": 20
             }
         ]
     },
+
     {
         "name": "Umwitozo wa 4",
         "id": "0c7f4741-d3d7-483a-bdd7-73e01723bdfa",
@@ -5166,7 +5171,7 @@
         ]
     },
     {
-        "name": "Umwitozo wa 20",
+        "name": "Umwitozo wa 3",
         "id": "0aba0f65-5e31-4fab-bf19-202900117efb",
         "desc": "",
         "questions": [
