@@ -50,7 +50,7 @@ export default function Index() {
           </div>
           <div className="">
             <a
-              href="https://irembo.gov.rw/user/citizen/service/rnp/registration_for_driving_license_test_provisional_paper_based"
+              href="https://irembo.gov.rw/home/citizen/all_services"
               target="_blank"
               rel="noreferrer"
             >

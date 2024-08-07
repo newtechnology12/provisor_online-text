@@ -35,15 +35,17 @@ export default function Tests() {
     <Fragment>
       <NextSeo title="Amasuzuma bumenyi" />
       <div className="flex flex-col items-center justify-center min-h-screen bg-gray-100 p-6">
-        <div className="mb-8 text-center">
-          <h2 className="mb-4 text-4xl font-extrabold text-gray-800 capitalize">Amasuzuma Bumenyi</h2>
+        <div className="mb-8 text-center max-w-2xl">
+          <h2 className="mb-4 text-4xl font-extrabold text-gray-800 capitalize">
+            Amasuzuma Bumenyi
+          </h2>
           <p className="text-lg leading-7 font-medium text-gray-600">
-            Gerageza Umenye niba witeguye gukora ikizamini. Burigihe ukukanze hano system iguhitiramwo amasuzuma 2 afite ibibazo bitandukanye. Harinigihe tugaruramwo ibyo twaguhaye haruguru kugirango turebeko ukibyibuka.
+            Gerageza umenye niba witeguye gukora ikizamini. Buri gihe ukakanze hano system iguhitiramwo amasuzuma 2 afite ibibazo bitandukanye. Hari igihe tugarura ibibazo twaguhaye haruguru kugirango turebe ko ukibyibuka.
           </p>
         </div>
         <button
           onClick={generateRandomTests}
-          className="px-6 py-3 text-white bg-blue-600 rounded-lg shadow-lg hover:bg-blue-700 focus:outline-none focus:ring-4 focus:ring-blue-500 transition duration-300 ease-in-out"
+          className="px-6 py-3 text-white bg-yellow-500 rounded-lg shadow-lg hover:bg-yellow-600 focus:outline-none focus:ring-4 focus:ring-yellow-300 transition duration-300 ease-in-out"
         >
           Generate Random Tests
         </button>
@@ -53,26 +55,30 @@ export default function Tests() {
         <div className="mt-12 w-full max-w-4xl p-6 bg-white rounded-lg shadow-lg">
           <h3 className="text-xl font-semibold text-gray-700 mb-4">Test Statistics</h3>
           <div className="h-60">
-            <Bar data={statisticsData} options={{
-              responsive: true,
-              plugins: {
-                legend: {
-                  position: 'top',
+            <Bar 
+              data={statisticsData} 
+              options={{
+                responsive: true,
+                plugins: {
+                  legend: {
+                    position: 'top',
+                  },
+                  tooltip: {
+                    callbacks: {
+                      label: function (tooltipItem) {
+                        return `Count: ${tooltipItem.raw}`;
+                      },
+                    },
+                  },
                 },
-                tooltip: {
-                  callbacks: {
-                    label: function(tooltipItem) {
-                      return `Count: ${tooltipItem.raw}`;
-                    }
-                  }
-                }
-              },
-            }} />
+              }} 
+            />
           </div>
         </div>
       </div>
     </Fragment>
   );
+  
 }
 
 function All({ randomTests, questions }) {
