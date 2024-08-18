@@ -28,32 +28,32 @@ export default function Login() {
   const { user } = useAuth();
 
   const handleSubmit = (
-    // { phone }: any,
+    { phone }: any,
     { resetForm, setSubmitting, setErrors, setStatus }: any
   ) => {
     new AuthServices()
-      // .signInWithPhone({ phone })
-      // .then((e) => {
-      //   setSubmitting(false);
-      //   if (
-      //     router.query.redirect_url &&
-      //     router.query.redirect_url !== "undefined"
-      //   ) {
-      //     router.push(
-      //       `/auth/verify-phone?redirect_url=${redirect_url}&verificationId=${e.verificationId}&phone=${phone}`
-      //     );
-      //   } else {
-      //     router.push(
-      //       `/auth/verify-phone?verificationId=${e.verificationId}&phone=${phone}`
-      //     );
-      //   }
-      //   resetForm();
-      // })
-      // .catch((error) => {
-      //   setSubmitting(false);
-      //   console.log(error);
-      //   toast.show({ title: error.message, danger: true });
-      // });
+      .signInWithPhone({ phone })
+      .then((e) => {
+        setSubmitting(false);
+        if (
+          router.query.redirect_url &&
+          router.query.redirect_url !== "undefined"
+        ) {
+          router.push(
+            `/auth/verify-phone?redirect_url=${redirect_url}&verificationId=${e.verificationId}&phone=${phone}`
+          );
+        } else {
+          router.push(
+            `/auth/verify-phone?verificationId=${e.verificationId}&phone=${phone}`
+          );
+        }
+        resetForm();
+      })
+      .catch((error) => {
+        setSubmitting(false);
+        console.log(error);
+        toast.show({ title: error.message, danger: true });
+      });
   };
 
   const [googleLoading, setgoogleLoading] = useState(false);
@@ -101,9 +101,9 @@ export default function Login() {
               <h4 className="font-extrabold text-gray-800 mb-2 text-[18px]">
                 Injira Muri konte yawe.
               </h4>
-              {/* <p className="font-semibold= font-medium text-gray-500 text-[14.5px]">
+              <p className="font-semibold= font-medium text-gray-500 text-[14.5px]">
                 Shyiramo nimero ya telefoni, turakohereza code.
-              </p> */}
+              </p>
             </div>
 
             <div>
