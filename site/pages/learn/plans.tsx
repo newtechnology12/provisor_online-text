@@ -58,7 +58,7 @@ export default function Plans() {
           {
             name: "ukwezi",
             duration: "monthly",
-            price: 7000,
+            price: 5000,
             features: [
               "ukweizi",
               " Ubufasha kuri telefoni",
