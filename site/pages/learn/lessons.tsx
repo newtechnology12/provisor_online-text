@@ -35,7 +35,7 @@ export default function Lessons() {
         >
           <div className=" ">
             <img
-              src={"/images/bg-part.png"}
+              src={"/images/now1.jpeg"}
               width={300}
               height={160}
               className="w-full h-full object-cover rounded-t-[12px]"
@@ -53,9 +53,9 @@ export default function Lessons() {
               <span className="text-[12px] font-[300] text-[#B9B9B9]">
                 PUBLISHED
               </span>
-              <span className="text-[12px] font-[300] text-[#FF9F00]">
+              {/* <span className="text-[12px] font-[300] text-[#FF9F00]">
                 Nov 30,2023
-              </span>
+              </span> */}
             </div>
           </div>
         </div>
@@ -73,7 +73,7 @@ export default function Lessons() {
           <div className="bg-white cursor-pointer rounded-[12px] p-2 gap-2 flex flex-row md:flex-col md:items-center">
             <div className="w-[20vh] md:h-[150px] md:w-[300px]  overflow-hidden   ">
               <img
-                src={`/images/bg-part.png`}
+                src={`/images/now2.jpeg`}
                 width={300}
                 height={300}
                 className="w-full h-full object-cover md:object-center  rounded-[8px]"
@@ -90,9 +90,9 @@ export default function Lessons() {
                 <span className="text-[12px] font-[300] text-[#B9B9B9]">
                   PUBLISHED
                 </span>
-                <span className="text-[12px] font-[300] text-[#FF9F00]">
+                {/* <span className="text-[12px] font-[300] text-[#FF9F00]">
                   Nov 30,2023
-                </span>
+                </span> */}
               </div>
             </div>
           </div>
@@ -104,7 +104,7 @@ export default function Lessons() {
           >
             <div className="w-[26vh]  md:h-[150px] md:w-[300px]  overflow-hidden  ">
               <img
-                src={`/images/bg-part.png`}
+                src={`/images/now3.jpeg`}
                 width={300}
                 height={300}
                 className="w-full h-full object-cover  rounded-[8px]"
@@ -120,9 +120,9 @@ export default function Lessons() {
                 <span className="text-[12px] font-[300] text-[#B9B9B9]">
                   PUBLISHED
                 </span>
-                <span className="text-[12px] font-[300] text-[#FF9F00]">
+                {/* <span className="text-[12px] font-[300] text-[#FF9F00]">
                   Nov 30,2023
-                </span>
+                </span> */}
               </div>
             </div>
           </div>
@@ -140,7 +140,7 @@ export default function Lessons() {
         >
           <div className=" ">
             <img
-              src={"/images/bg-part.png"}
+              src={"/images/now4.jpg"}
               width={300}
               height={160}
               className="w-full h-full object-cover rounded-t-[12px]"
@@ -156,12 +156,13 @@ export default function Lessons() {
               <span className="text-[12px] font-[300] text-[#B9B9B9]">
                 PUBLISHED
               </span>
-              <span className="text-[12px] font-[300] text-[#FF9F00]">
+              {/* <span className="text-[12px] font-[300] text-[#FF9F00]">
                 Nov 30,2023
-              </span>
+              </span> */}
             </div>
           </div>
         </div>
+        
       </div>
     </Fragment>
   );
