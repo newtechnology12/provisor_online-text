@@ -1,8 +1,10 @@
 {
   "projects": {
     "default": "infinitydriver",
-    "driver": "infinitydriver"
+    "driver": "infinitydriver",
+    "infinitydriver": "infinitydriver"
   },
   "targets": {},
-  "etags": {}
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
 }
